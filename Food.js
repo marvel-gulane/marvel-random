@@ -59,6 +59,28 @@ class Foods {
 
 		console.table(eggfried_process)
 	}
-}
 
-Foods.Hotdogs();
+		static Lechons() {
+		var porkwhole = "True";
+		var sugar = "True";
+		var salt = "True";
+		var lemonGrass = "True";
+		var tulmeric = "True";
+		var condensedMilk = "True";
+		var indianPepper = "True";
+		var vinegar = "True";
+		var galGarlic = "True";
+		const lechon = [porkwhole, sugar, salt, lemonGrass, tulmeric, condensedMilk, indianPepper, vinegar, galGarlic];
+		//return lechon;
+
+		let lechon_process = [
+			{Lechon:'1. Prepare all the ingredients including the whole pork with long huge bamboo .'},
+			{Lechon:'2. Prepare the charcoal and the whole pork must already sticked by the bamboo will all ingredients on its tummy.'},
+			{Lechon:'3. Cooking lechon takes 8hrs depending on the environment and weather.'},
+			{Lechon:'4. Prepare the condensed and sugar with sauce after cooking .'},
+		];
+
+		console.table(lechon_process, ['Lechon']);
+	}
+
+}
