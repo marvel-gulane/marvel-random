@@ -138,3 +138,4 @@ class Events extends FightingForce {
 	}
 }
 
+//∫01∫011−xy1dxdy=6π2
