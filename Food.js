@@ -83,4 +83,42 @@ class Foods {
 		console.table(lechon_process, ['Lechon']);
 	}
 
+	static Champorados() {
+		var stickyRice = "True";
+		var chocolateTablea = "True";
+		var brownSugar = "True";
+		var condensedMilk = "True";
+		var hersheysChocolate = "True";
+		const champorado = [stickyRice, chocolateTablea, brownSugar, condensedMilk, hersheyChocolate];
+		return champorado;
+
+		let champorado_process = [
+			{Champorado:'1. Prepare all the ingredients and turn on the stove and put the cooking rice pot on the stove with water and sticky rice or  white rice'},
+			{Champorado:'2. Put sugar the brown or white sugar on the cooking pot and add condensed milk and hersheys with chocolateTable.'},
+			{Champorado:'3. Make sure that the cookin pot is boiling 100 degree celsius and wait for 36 minutes and 40 seconds.'},
+			{Champorado:'4. After cooking make sure that all the security measure and protocols are applied before eating the tasty champorado.'},
+		];
+
+		console.table(champorado_process, ['Champorado']);
+	}
+
+	static Breads() {
+		var flour = "True";
+		var egg = "True";
+		var wheat = "True";
+		var sugar = "True";
+		var salt = "True";
+		const bread = [flour, egg, wheat, sugar, salt];
+		return bread;
+
+		let bread_process = [
+			{Bread:'1. Prepare all the ingredients and mix all the flour, wheat and salt with sugar with wheat.'},
+			{Bread:'2. Turn on the cooking stove for the bread to be baked within the stove and wait for specific time schedule depends on your calculation basedon the bread quantity and more or etc.'},
+			{Bread:'3. After cooking the bread make sure that the stove or cooking for bread or stove bread oven is off and all measures , protocols of safety is applied.'},
+			{Bread:'4. If you are hurt whiel, during , after the process make sure you have applied the first aid kit before going to trusted professionals .'},
+		];
+
+		console.table(bread_process,['Bread']);
+	}
+
 }
