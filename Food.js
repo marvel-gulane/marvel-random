@@ -149,5 +149,27 @@ class Foods {
 
 		console.table(shanghaiPancit_process, ['Pancit']);
 	}
+
+	static PorkCalderetas(){
+		var pork = "True";
+		var sauce = "True";
+		var chives = "True";
+		var oils = "True";
+		var onions = "True";
+		var gingers = "True";
+
+		const porkcaldereta = [pork, sauce, chives, oils, gingers, onions];
+		return porkcaldereta;
+
+		let porkcaldereta_process = [
+			{Caldereta:'1. Prepare all the ingredients and turn on the stove with cooking pots and remember to add the sautes'},
+			{Caldereta:'2. Add the ingredients in the pots while the stove is 80 - 90 degree celsius.'},
+			{Caldereta:'3. Wait for 40-49 minutes cooking the pork caldereta till the pork is golden meaty brown and sa'},
+		];
+
+		console.table(porkcaldereta_process,['Caldereta']);
+	}
 }
+
+Foods.PorkCalderetas();
 
