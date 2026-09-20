@@ -16,8 +16,6 @@ const feeds = [
   { name: 'Rappler News', url:'https://www.rappler.com/rss'},
   { name: 'Interaksyon TV5', url:'https://www.interaksyon.com/feed/'},
   { name: 'Current Ph', url:'https://currentph.com/feed/'},
-  { name: 'Abante News', url: 'https://tonite.abante.com.ph/feed/'},
-  { name: 'Bicol News', url:'http://www.bicolstandard.com/feeds/posts/default?alt=rss'},
   { name: 'Panay Island News', url:'https://panaynews.net/feed'},
 ];
 
