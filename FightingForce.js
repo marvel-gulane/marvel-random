@@ -75,6 +75,14 @@ class Mission extends FightingForce {
 }
 
 class Events extends FightingForce {
+	static DeathDays() {
+		const civilians = "True";
+		const villagers = "True";
+		const members = "True";
+	
+		let deathday = "Gray Mood":
+		return deathday;
+	}
 
 	static NewYears() {
 		const civilians = "True";
