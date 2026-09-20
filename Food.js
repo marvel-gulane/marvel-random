@@ -10,7 +10,7 @@ class Foods {
 		var margarine = 2/4;
 
 		const hotdog = [monosodium, sugar, salt, flour, artificial, margarine];
-		//return hotdog;	
+		return hotdog;	
 
 		let hotdog_process = [
 			{Hotdog:'1. Prepare the stove and the cooking pan tray for cooking the hotdog.'},
@@ -125,4 +125,29 @@ class Foods {
 
 		console.table(bread_process,['Bread']);
 	}
+
+	static ShangHaiPancits(){
+		var dryRamens = "True";
+		var salt = "True";
+		var sugars = "True";
+		var pork = "True";
+		var vegetables = "True";
+		var sauce = "True";
+		var oil = "True";
+		
+		const shanghaiPancit = [dryRamens, salt, sugars, pork, vegetables];
+		return shanghaiPancit;
+
+		let shanghaiPancit_process = [
+			{Pancit:'1. Prepare all the ingredients.'},
+			{Pancit:'2. Prepare the cooking oil in the huge coke while the stove is on.'},
+			{Pancit:'3. Put all the important ingredients after the onions and garlic are golden brown.'},
+			{Pancit:'4. Add the pork on the huge coke pot while cooking the dry ramens.'},
+			{Pancit:'5. Wait for 45 minutes for the shanghai pancit to be fully cooked in 90 defree celsius.'},
+			{Pancit:'6. Serving the pancit with sauce.'},
+		];
+
+		console.table(shanghaiPancit_process, ['Pancit']);
+	}
 }
+
