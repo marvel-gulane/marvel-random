@@ -48,8 +48,10 @@ class Foods {
 		var margarine = "True";
 		var salt = "True";
 		var monosodium = "True";
+
 		const eggfried = [margarine, salt, monosodium];
 		return eggfried;
+
 		let eggfried_process = [
 			'1. Turn on the stove and put the frying cooking tool called pan',
 			'2. Put 1/4 of margarine depend on your needs for frying the egg',
@@ -70,8 +72,9 @@ class Foods {
 		var indianPepper = "True";
 		var vinegar = "True";
 		var galGarlic = "True";
+
 		const lechon = [porkwhole, sugar, salt, lemonGrass, tulmeric, condensedMilk, indianPepper, vinegar, galGarlic];
-		//return lechon;
+		return lechon;
 
 		let lechon_process = [
 			{Lechon:'1. Prepare all the ingredients including the whole pork with long huge bamboo .'},
@@ -88,7 +91,8 @@ class Foods {
 		var chocolateTablea = "True";
 		var brownSugar = "True";
 		var condensedMilk = "True";
-		var hersheysChocolate = "True";
+		var hersheyChocolate = "True";
+
 		const champorado = [stickyRice, chocolateTablea, brownSugar, condensedMilk, hersheyChocolate];
 		return champorado;
 
@@ -108,6 +112,7 @@ class Foods {
 		var wheat = "True";
 		var sugar = "True";
 		var salt = "True";
+
 		const bread = [flour, egg, wheat, sugar, salt];
 		return bread;
 
@@ -120,5 +125,4 @@ class Foods {
 
 		console.table(bread_process,['Bread']);
 	}
-
 }
