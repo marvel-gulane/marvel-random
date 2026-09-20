@@ -13,17 +13,12 @@ const feeds = [
   { name: 'PhilStar News', url: 'https://www.philstar.com/rss/headlines'},
   { name: 'Manila Standard', url:'https://manilastandard.net/feed/all'},
   { name: 'Business World', url: 'https://www.bworldonline.com/feed/'},
-  { name: 'Sunstar News', url:'https://www.sunstar.com.ph/rssFeed/selected'},
   { name: 'Rappler News', url:'https://www.rappler.com/rss'},
   { name: 'Interaksyon TV5', url:'https://www.interaksyon.com/feed/'},
   { name: 'Current Ph', url:'https://currentph.com/feed/'},
-  { name: 'Inquirer News', url: 'https://inquirer.net/feed/category/politics/'},
-  { name: 'MindaNews', url:'https://mindanews.com/feed/'},
-  { name: 'Subic News', url:'https://subicbaynews.com/feed/'},
   { name: 'Abante News', url: 'https://tonite.abante.com.ph/feed/'},
   { name: 'Bicol News', url:'http://www.bicolstandard.com/feeds/posts/default?alt=rss'},
   { name: 'Panay Island News', url:'https://panaynews.net/feed'},
-  { name: 'Sunstar Cebu', url:'https://www.sunstar.com.ph/rssFeed/selected'},
 ];
 
 function extract(text) {
