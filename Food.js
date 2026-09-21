@@ -114,7 +114,7 @@ class Foods {
 		var salt = "True";
 
 		const bread = [flour, egg, wheat, sugar, salt];
-		return bread;
+//		return bread;
 
 		let bread_process = [
 			{Bread:'1. Prepare all the ingredients and mix all the flour, wheat and salt with sugar with wheat.'},
@@ -169,7 +169,24 @@ class Foods {
 
 		console.table(porkcaldereta_process,['Caldereta']);
 	}
+
+	static ChickenAdobos(){
+		var chicken = "True";
+		var sautes = "Garlic & ONions";
+		var sauce = "True";
+		var salts = "True";
+		var sugar = "True";
+		
+		const chickenadobo = [chicken, sautes, sauce, salts, sugar];
+		return chickenadobo;
+
+		let chickenadobo_process = [
+			{Adobo:'1. Prepare the ingredients and keep the safetu measures, turn on th stove and put the cooking pot filled with water and 1/2 of cooking oil.'},
+			{Adobo:'2. Make sure boiling the water within the cooking pot reach 100 degree celsius and add the chicken with garlic, onions salt, sauces and monosodium glutamate.'},
+			{Adobo:'3. After cooking keep the stove re-on / off and make sure that the food you serve is clean with safety protocols and measures are applied.'},
+		];
+
+		console.table(chickenadobo_process,['Adobo']);
+
+	}	
 }
-
-Foods.PorkCalderetas();
-

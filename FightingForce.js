@@ -80,7 +80,7 @@ class Events extends FightingForce {
 		const villagers = "True";
 		const members = "True";
 	
-		let deathday = "Gray Mood":
+		let deathday = "Gray Mood";
 		return deathday;
 	}
 
@@ -143,6 +143,21 @@ class Events extends FightingForce {
 
 		let reunion = "8-/100";
 		return reunion;
+	}
+
+	static DiscoConerts(){
+		const civilians = "True";
+		const members = "True";
+		const insurgents = "True";
+		const cops = "True";
+		const police = "True";
+		const militaries = "True";
+		const foreigners = "True";
+		const agents = "True";
+		const hotdogs = "True";
+
+		let discoconcert = "80/100";
+		return disconcert;
 	}
 }
 
