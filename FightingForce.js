@@ -1,5 +1,4 @@
 class FightingForce {
-
 	static Antagonists() {
 		var Bubba = "True";
 		var Carl = "True";
@@ -23,11 +22,17 @@ class FightingForce {
 		var Mcafee = "True";
 		var Marvel = "True";
 		var Macy = "True";
-
-		const antagonist_health = 100/100;
+		var Macee = "True";
+		var Vixen = "True";
+		var Zeng = "True";
+		var Voltage = "True";
+		var Sam = "True";
+		var Tom = "True";
+		var Agent47 = "True";
+		var Mossad = "True";
+		const antagonist_health = 100 / 100;
 		return antagonist_health;
 	}
-
 	static Programs() {
 		var CNN = "True";
 		var Aljazeera = "True";
@@ -36,11 +41,9 @@ class FightingForce {
 		var GMA = "True";
 		var TV5 = "True";
 		var CN = "True";
-
-		const broadcaster_health = 100/100;
+		const broadcaster_health = 100 / 100;
 		return broadcaster_health;
 	}
-
 	static Programmers() {
 		var Github = "True";
 		var GitLab = "True";
@@ -49,63 +52,45 @@ class FightingForce {
 		var Facebook = "True";
 		var Google = "True";
 		var Youtube = "True";
-
-		const programmer_health = 100/100;
+		const programmer_health = 100 / 100;
 		return programmer_health;
 	}
 }
-
 class Mission extends FightingForce {
-
 	static Missions() {
-		const mission_genesis = [];
-		const mission_exodus = [];
-		const mission_one = [];
-		const mission_two = [];
-		const mission_three = [];
-		const mission_four = [];
-		const mission_five = [];
-		const mission_six = [];
-		const mission_seven = [];
-		const mission_final = [];
-
-		let missions = 1/100;
+		const mission_genesis =[];
+		const mission_exodus =[];
+		const mission_one =[];
+		const mission_two =[];
+		const mission_three =[];
+		const mission_four =[];
+		const mission_five =[];
+		const mission_six =[];
+		const mission_seven =[];
+		const mission_final =[];
+		let missions = 1 / 100;
 		return missions;
 	}
 }
-
 class Events extends FightingForce {
-	static DeathDays() {
-		const civilians = "True";
-		const villagers = "True";
-		const members = "True";
-	
-		let deathday = "Gray Mood";
-		return deathday;
-	}
-
 	static NewYears() {
 		const civilians = "True";
 		const villagers = "True";
 		const politicians = "True";
 		const agents = "True";
 		const workers = "True";
-
 		let newyear = "Normal Good";
 		return newyear;
 	}
-
 	static Ramadans() {
 		const civilians = "True";
 		const prophets = "True";
 		const rabiis = "True";
 		const foreigners = "True";
 		const villagers = "True";
-
 		let ramadan = "Peacefull Silent";
 		return ramadan;
 	}
-
 	static Festivals() {
 		const civilians = "True";
 		const insurgents = "True";
@@ -117,22 +102,18 @@ class Events extends FightingForce {
 		const medics = "True";
 		const priests = "True";
 		const entertainers = "True";
-
-		let festival = 85/100;
+		let festival = 85 / 100;
 		return festival;
 	}
-
 	static Rewards() {
 		const civilians = "True";
 		const economy = "True";
 		const needs = "True";
 		const wants = "True";
-
-		let reward = 80/100;
+		let reward = 80 / 100;
 		return reward;
 	}
-
-	static Reunions(){
+	static Reunions() {
 		const civilians = "True";
 		const members = "True";
 		const police = "True";
@@ -140,25 +121,17 @@ class Events extends FightingForce {
 		const military = "True";
 		const agents = "True";
 		const foreigners = "True";
-
 		let reunion = "8-/100";
 		return reunion;
 	}
-
-	static DiscoConerts(){
-		const civilians = "True";
-		const members = "True";
-		const insurgents = "True";
-		const cops = "True";
-		const police = "True";
-		const militaries = "True";
-		const foreigners = "True";
-		const agents = "True";
-		const hotdogs = "True";
-
-		let discoconcert = "80/100";
-		return disconcert;
-	}
 }
 
-//∫01∫011−xy1dxdy=6π2
+FightingForce.Antagonists();
+FightingForce.Programmers();
+FightingForce.Programs();
+Mission.Missions();
+Events.NewYears();
+Events.Ramadans();
+Events.Festivals();
+Events.Rewards();
+Events.Reunions();
