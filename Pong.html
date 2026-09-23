@@ -1,0 +1,97 @@
+[200~<!DOCTYPE html>
+<html>
+<head>
+<title>Pong</title>
+<style>
+  body { margin: 0; background: #111; display: flex; justify-content: center; align-items: center; height: 100vh; }
+  canvas { border: 2px solid #fff; }
+</style>
+</head>
+<body>
+<canvas id="c" width="800" height="450"></canvas>
+<script>
+const c = document.getElementById('c'), ctx = c.getContext('2d');
+const W = c.width, H = c.height, PADDLE_H = 80, PADDLE_W = 10;
+
+let ball = { x: W/2, y: H/2, dx: 5, dy: 3, r: 8 };
+let p1 = { y: H/2 - PADDLE_H/2, score: 0 };
+let p2 = { y: H/2 - PADDLE_H/2, score: 0 };
+let keys = {};
+
+document.addEventListener('keydown', e => keys[e.key] = true);
+document.addEventListener('keyup', e => keys[e.key] = false);
+
+function reset() {
+  ball.x = W/2; ball.y = H/2;
+  ball.dx = (Math.random() > 0.5 ? 1 : -1) * 5;
+  ball.dy = (Math.random() - 0.5) * 6;
+}
+
+function update() {
+  // Paddle movement
+  if (keys['w']) p1.y = Math.max(0, p1.y - 7);
+  if (keys['s']) p1.y = Math.min(H - PADDLE_H, p1.y + 7);
+  if (keys['ArrowUp']) p2.y = Math.max(0, p2.y - 7);
+  if (keys['ArrowDown']) p2.y = Math.min(H - PADDLE_H, p2.y + 7);
+
+  // Ball
+  ball.x += ball.dx;
+  ball.y += ball.dy;
+
+  // Top/bottom bounce
+  if (ball.y - ball.r < 0 || ball.y + ball.r > H) ball.dy *= -1;
+
+  // Paddle collision (left)
+  if (ball.x - ball.r < PADDLE_W && ball.x + ball.r > 0 &&
+      ball.y > p1.y && ball.y < p1.y + PADDLE_H && ball.dx < 0) {
+    ball.dx *= -1.05;
+    ball.dy += (ball.y - (p1.y + PADDLE_H/2)) * 0.15;
+  }
+  // Paddle collision (right)
+  if (ball.x + ball.r > W - PADDLE_W && ball.x - ball.r < W &&
+      ball.y > p2.y && ball.y < p2.y + PADDLE_H && ball.dx > 0) {
+    ball.dx *= -1.05;
+    ball.dy += (ball.y - (p2.y + PADDLE_H/2)) * 0.15;
+  }
+
+  // Scoring
+  if (ball.x < 0) { p2.score++; reset(); }
+  if (ball.x > W) { p1.score++; reset(); }
+}
+
+function draw() {
+  ctx.fillStyle = '#111';
+  ctx.fillRect(0, 0, W, H);
+
+  // Center line
+  ctx.setLineDash([10, 10]);
+  ctx.strokeStyle = '#444';
+  ctx.beginPath(); ctx.moveTo(W/2, 0); ctx.lineTo(W/2, H); ctx.stroke();
+  ctx.setLineDash([]);
+
+  // Paddles
+  ctx.fillStyle = '#fff';
+  ctx.fillRect(0, p1.y, PADDLE_W, PADDLE_H);
+  ctx.fillRect(W - PADDLE_W, p2.y, PADDLE_W, PADDLE_H);
+
+  // Ball
+  ctx.beginPath();
+  ctx.arc(ball.x, ball.y, ball.r, 0, Math.PI * 2);
+  ctx.fill();
+
+  // Scores
+  ctx.font = '48px monospace';
+  ctx.textAlign = 'center';
+  ctx.fillText(p1.score, W/4, 60);
+  ctx.fillText(p2.score, 3*W/4, 60);
+}
+
+function loop() {
+  update();
+  draw();
+  requestAnimationFrame(loop);
+}
+loop();
+</script>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pong vs AI</title>
+<style>
+  * { margin: 0; box-sizing: border-box; }
+  body { background: #0a0a0a; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; font-family: 'Courier New', monospace; color: #fff; }
+  canvas { border: 2px solid #333; border-radius: 4px; box-shadow: 0 0 30px rgba(0,200,255,0.1); }
+  .ui { margin-top: 16px; display: flex; gap: 12px; }
+  .ui button { padding: 8px 20px; border: 1px solid #444; background: #1a1a1a; color: #fff; font-family: inherit; font-size: 14px; cursor: pointer; border-radius: 4px; transition: all .2s; }
+  .ui button:hover { background: #2a2a2a; border-color: #0cf; }
+  .ui button.active { background: #0cf; color: #000; border-color: #0cf; }
+  #hint { margin-top: 10px; color: #666; font-size: 13px; }
+</style>
+</head>
+<body>
+<canvas id="c" width="800" height="450"></canvas>
+<div class="ui">
+  <button id="easy" class="active">Easy</button>
+  <button id="medium">Medium</button>
+  <button id="hard">Hard</button>
+  <button id="restart">Restart</button>
+</div>
+<div id="hint">W / S to move · First to 7 wins</div>
+<script>
+const c = document.getElementById('c'), ctx = c.getContext('2d');
+const W = c.width, H = c.height, PH = 80, PW = 12, WIN = 7;
+
+// AI configs
+const AI = {
+  easy:   { speed: 3.2, predict: 0.3, error: 40 },
+  medium: { speed: 4.5, predict: 0.6, error: 20 },
+  hard:   { speed: 5.8, predict: 0.9, error: 6  }
+};
+let diff = 'easy';
+
+let ball, p1, p2, over, keys = {}, trail = [];
+
+function resetBall() {
+  const angle = (Math.random() - 0.5) * Math.PI / 3;
+  const dir = Math.random() > 0.5 ? 1 : -1;
+  ball = { x: W/2, y: H/2, dx: dir * 5 * Math.cos(angle), dy: 5 * Math.sin(angle), r: 8 };
+  trail = [];
+}
+
+function init() {
+  p1 = { y: H/2 - PH/2, score: 0 };
+  p2 = { y: H/2 - PH/2, score: 0 };
+  over = false;
+  resetBall();
+}
+init();
+
+// Difficulty buttons
+['easy','medium','hard'].forEach(d => {
+  document.getElementById(d).onclick = () => {
+    diff = d;
+    document.querySelectorAll('.ui button').forEach(b => b.classList.remove('active'));
+    document.getElementById(d).classList.add('active');
+    init();
+  };
+});
+document.getElementById('restart').onclick = init;
+
+document.addEventListener('keydown', e => { keys[e.key] = true; if (e.key === ' ' && over) init(); });
+document.addEventListener('keyup', e => keys[e.key] = false);
+
+// Predict where ball will be when it reaches the AI paddle's x
+function predictBallY() {
+  const a = AI[diff];
+  const px = W - PW; // AI paddle x
+  if (ball.dx <= 0) return H / 2; // ball moving away, stay center
+
+  let t = (px - ball.x) / ball.dx;
+  let py = ball.y + ball.dy * t;
+
+  // Bounce off walls
+  while (py < 0 || py > H) {
+    if (py < 0) py = -py;
+    if (py > H) py = 2 * H - py;
+  }
+
+  // Blend prediction with current y (lower predict = less accurate)
+  const blended = ball.y * (1 - a.predict) + py * a.predict;
+  // Add random error
+  return blended + (Math.random() - 0.5) * a.error;
+}
+
+function update() {
+  if (over) return;
+  const a = AI[diff];
+
+  // Player
+  if (keys['w'] || keys['W']) p1.y = Math.max(0, p1.y - 7);
+  if (keys['s'] || keys['S']) p1.y = Math.min(H - PH, p1.y + 7);
+
+  // AI
+  const target = predictBallY() - PH / 2;
+  const diff2 = target - p2.y;
+  if (Math.abs(diff2) > 4) p2.y += Math.sign(diff2) * Math.min(a.speed, Math.abs(diff2));
+  p2.y = Math.max(0, Math.min(H - PH, p2.y));
+
+  // Ball
+  ball.x += ball.dx;
+  ball.y += ball.dy;
+  trail.push({ x: ball.x, y: ball.y, life: 1 });
+  if (trail.length > 12) trail.shift();
+
+  if (ball.y - ball.r < 0 || ball.y + ball.r > H) ball.dy *= -1;
+
+  // Paddle hits
+  if (ball.x - ball.r < PW && ball.x > 0 && ball.y > p1.y && ball.y < p1.y + PH && ball.dx < 0) {
+    ball.dx = Math.abs(ball.dx) * 1.04;
+    ball.dy += (ball.y - (p1.y + PH/2)) * 0.15;
+  }
+  if (ball.x + ball.r > W - PW && ball.x < W && ball.y > p2.y && ball.y < p2.y + PH && ball.dx > 0) {
+    ball.dx = -Math.abs(ball.dx) * 1.04;
+    ball.dy += (ball.y - (p2.y + PH/2)) * 0.15;
+  }
+
+  // Score
+  if (ball.x < -20) { p2.score++; checkWin() || resetBall(); }
+  if (ball.x > W + 20) { p1.score++; checkWin() || resetBall(); }
+}
+
+function checkWin() {
+  if (p1.score >= WIN || p2.score >= WIN) { over = true; return true; }
+  return false;
+}
+
+function draw() {
+  // Background
+  ctx.fillStyle = '#0a0a0a';
+  ctx.fillRect(0, 0, W, H);
+
+  // Center line
+  ctx.setLineDash([8, 12]);
+  ctx.strokeStyle = '#222';
+  ctx.lineWidth = 2;
+  ctx.beginPath(); ctx.moveTo(W/2, 0); ctx.lineTo(W/2, H); ctx.stroke();
+  ctx.setLineDash([]);
+
+  // Trail
+  trail.forEach((t, i) => {
+    t.life -= 0.08;
+    if (t.life > 0) {
+      ctx.beginPath();
+      ctx.arc(t.x, t.y, ball.r * t.life * 0.7, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(0,200,255,${t.life * 0.3})`;
+      ctx.fill();
+    }
+  });
+
+  // Paddles
+  ctx.shadowBlur = 10;
+  ctx.shadowColor = '#0cf';
+  ctx.fillStyle = '#fff';
+  ctx.fillRect(0, p1.y, PW, PH);
+  ctx.fillRect(W - PW, p2.y, PW, PH);
+  ctx.shadowBlur = 0;
+
+  // Ball
+  ctx.beginPath();
+  ctx.arc(ball.x, ball.y, ball.r, 0, Math.PI * 2);
+  ctx.fillStyle = '#0cf';
+  ctx.shadowBlur = 15;
+  ctx.shadowColor = '#0cf';
+  ctx.fill();
+  ctx.shadowBlur = 0;
+
+  // Scores
+  ctx.font = 'bold 52px Courier New';
+  ctx.textAlign = 'center';
+  ctx.fillStyle = '#333';
+  ctx.fillText(p1.score, W/4, 65);
+  ctx.fillText(p2.score, 3*W/4, 65);
+
+  // Game over
+  if (over) {
+    ctx.fillStyle = 'rgba(0,0,0,0.7)';
+    ctx.fillRect(0, 0, W, H);
+    ctx.fillStyle = p1.score >= WIN ? '#0f0' : '#f44';
+    ctx.font = 'bold 40px Courier New';
+    ctx.fillText(p1.score >= WIN ? 'YOU WIN!' : 'AI WINS!', W/2, H/2 - 10);
+    ctx.fillStyle = '#888';
+    ctx.font = '18px Courier New';
+    ctx.fillText('Press Space or click Restart', W/2, H/2 + 30);
+  }
+}
+
+function loop() { update(); draw(); requestAnimationFrame(loop); }
+loop();
+</script>
+</body>
+</html>   
