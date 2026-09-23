@@ -1,12 +1,3 @@
-/*
- * alchemy-math.js
- * Native JavaScript — single-file mathematical transformation engine.
- *
- * No dependencies.
- *
- * Core idea:
- *     state -> formula -> transformed state -> evaluate -> repeat
- */
 
 "use strict";
 
