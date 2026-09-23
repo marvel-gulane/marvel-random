@@ -7,7 +7,7 @@ class Foods {
 		var artificial = "True";
 		var margarine = 2 / 4;
 		const hotdog =[monosodium, sugar, salt, flour, artificial, margarine];
-		return hotdog;
+		//return hotdog;
 		let hotdog_process =[ {
 			Hotdog : '1. Prepare the stove and the cooking pan tray for cooking the hotdog.'
 		}, {
