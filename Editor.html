@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  #editor {
+    font: 14px monospace;
+    min-height: 400px;
+    padding: 10px;
+    border: 1px solid #333;
+    white-space: pre;
+    outline: none;
+  }
+  #editor:empty:before {
+    content: attr(data-placeholder);
+    color: #888;
+  }
+</style>
+</head>
+<body>
+  <div id="editor" contenteditable="true" data-placeholder="// type code here...">console.log("hello");</div>
+  <script>
+    // Auto-indent on Enter
+    const ed = document.getElementById('editor');
+    ed.addEventListener('keydown', e => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        document.execCommand('insertText', false, '\n');
+      }
+    });
+  </script>
+</body>
+</html>   

@@ -1,4 +1,3 @@
-// math-alchemy.js — Mathematical Alchemy Engine
 
 const Alchemy = (() => {
   // ── Core State ──────────────────────────────────────────

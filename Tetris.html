@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tetris vs AI</title>
+<style>
+  * { margin: 0; box-sizing: border-box; }
+  body { background: #0a0a0a; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; font-family: 'Courier New', monospace; color: #fff; }
+  .title { font-size: 22px; margin-bottom: 12px; color: #0cf; text-shadow: 0 0 10px rgba(0,200,255,0.5); }
+  .boards { display: flex; gap: 40px; align-items: flex-start; }
+  .board-wrap { display: flex; flex-direction: column; align-items: center; }
+  .board-label { font-size: 14px; color: #888; margin-bottom: 6px; }
+  .board-label.you { color: #0f0; }
+  .board-label.ai { color: #f80; }
+  canvas { border: 2px solid #333; border-radius: 4px; }
+  .info { margin-top: 10px; font-size: 13px; color: #666; text-align: center; }
+  .score-display { font-size: 16px; margin-top: 8px; color: #aaa; }
+  .overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.8); display: none; justify-content: center; align-items: center; flex-direction: column; z-index: 10; }
+  .overlay.show { display: flex; }
+  .overlay h1 { font-size: 48px; margin-bottom: 16px; }
+  .overlay p { font-size: 18px; color: #888; }
+</style>
+</head>
+<body>
+<div class="title">TETRIS vs AI</div>
+<div class="boards">
+  <div class="board-wrap">
+    <div class="board-label you">YOU</div>
+    <canvas id="p" width="200" height="400"></canvas>
+    <div class="score-display" id="pscore">Lines: 0</div>
+  </div>
+  <div class="board-wrap">
+    <div class="board-label ai">AI</div>
+    <canvas id="a" width="200" height="400"></canvas>
+    <div class="score-display" id="ascore">Lines: 0</div>
+  </div>
+</div>
+<div class="info">← → move · ↑ rotate · ↓ soft drop · Space hard drop</div>
+<div class="overlay" id="overlay">
+  <h1 id="result"></h1>
+  <p>Press Space to play again</p>
+</div>
+<script>
+const COLS = 10, ROWS = 20, CELL = 20;
+const COLORS = [null, '#0cf', '#ff0', '#0ff', '#f0f', '#0f0', '#f80', '#f44'];
+const SHAPES = [
+  null,
+  [[0,0,0,0],[1,1,1,1],[0,0,0,0],[0,0,0,0]], // I
+  [[2,2],[2,2]],                               // O
+  [[0,3,0],[3,3,3],[0,0,0]],                   // T
+  [[0,4,4],[4,4,0],[0,0,0]],                   // S
+  [[5,5,0],[0,5,5],[0,0,0]],                   // Z
+  [[6,0,0],[6,6,6],[0,0,0]],                   // J
+  [[0,0,7],[7,7,7],[0,0,0]]                    // L
+];
+
+function makeBoard() {
+  return Array.from({length: ROWS}, () => Array(COLS).fill(0));
+}
+
+function rotate(matrix) {
+  const N = matrix.length;
+  return matrix[0].map((_, i) => matrix.map(row => row[i]).reverse());
+}
+
+function collides(board, shape, ox, oy) {
+  for (let y = 0; y < shape.length; y++)
+    for (let x = 0; x < shape[y].length; x++) {
+      if (!shape[y][x]) continue;
+      const nx = ox + x, ny = oy + y;
+      if (nx < 0 || nx >= COLS || ny >= ROWS) return true;
+      if (ny >= 0 && board[ny][nx]) return true;
+    }
+  return false;
+}
+
+function merge(board, shape, ox, oy) {
+  for (let y = 0; y < shape.length; y++)
+    for (let x = 0; x < shape[y].length; x++) {
+      if (shape[y][x] && oy + y >= 0) board[oy + y][ox + x] = shape[y][x];
+    }
+}
+
+function clearLines(board) {
+  let cleared = 0;
+  for (let y = ROWS - 1; y >= 0; y--) {
+    if (board[y].every(c => c !== 0)) {
+      board.splice(y, 1);
+      board.unshift(Array(COLS).fill(0));
+      cleared++;
+      y++;
+    }
+  }
+  return cleared;
+}
+
+function randomPiece() {
+  const t = Math.floor(Math.random() * 7) + 1;
+  return { type: t, shape: SHAPES[t].map(r => [...r]), x: 3, y: 0 };
+}
+
+function dropY(board, shape, ox, oy) {
+  let y = oy;
+  while (!collides(board, shape, ox, y + 1)) y++;
+  return y;
+}
+
+// --- AI Heuristic ---
+function aiScore(board) {
+  let height = 0, holes = 0, bumpiness = 0, lines = 0;
+  const colHeights = Array(COLS).fill(0);
+
+  for (let x = 0; x < COLS; x++) {
+    for (let y = 0; y < ROWS; y++) {
+      if (board[y][x]) {
+        colHeights[x] = ROWS - y;
+        break;
+      }
+    }
+  }
+  height = colHeights.reduce((a, b) => a + b, 0);
+
+  for (let x = 0; x < COLS; x++) {
+    let filled = false;
+    for (let y = 0; y < ROWS; y++) {
+      if (board[y][x]) filled = true;
+      else if (filled) holes++;
+    }
+  }
+
+  for (let x = 0; x < COLS - 1; x++) bumpiness += Math.abs(colHeights[x] - colHeights[x + 1]);
+
+  for (let y = 0; y < ROWS; y++) if (board[y].every(c => c)) lines++;
+
+  return -0.51 * height + 0.76 * lines - 0.19 * holes - 0.11 * bumpiness;
+}
+
+function aiPlace(board, piece) {
+  let bestScore = -Infinity, bestMove = null;
+  for (let rot = 0; rot < 4; rot++) {
+    const shape = piece.shape;
+    for (let x = 0; x < COLS - shape[0].length + 1; x++) {
+      const y = dropY(board, shape, x, 0);
+      if (collides(board, shape, x, 0) && y < 0) continue;
+      const testBoard = board.map(r => [...r]);
+      merge(testBoard, shape, x, y);
+      const s = aiScore(testBoard);
+      if (s > bestScore) { bestScore = s; bestMove = { x, y, shape: [...shape.map(r => [...r])] }; }
+    }
+    piece.shape = rotate(shape);
+  }
+  return bestMove || { x: piece.x, y: dropY(board, piece.shape, piece.x, 0), shape: piece.shape };
+}
+
+// --- Game State ---
+let pBoard, aBoard, pPiece, aPiece, pLines, aLines, gameOver, pDropTimer, aDropTimer, aAnimFrame;
+const pCtx = document.getElementById('p').getContext('2d');
+const aCtx = document.getElementById('a').getContext('2d');
+let keys = {};
+
+function init() {
+  pBoard = makeBoard(); aBoard = makeBoard();
+  pPiece = randomPiece(); aPiece = randomPiece();
+  pLines = 0; aLines = 0; gameOver = false;
+  pDropTimer = 0; aDropTimer = 0;
+  document.getElementById('overlay').classList.remove('show');
+  document.getElementById('pscore').textContent = 'Lines: 0';
+  document.getElementById('ascore').textContent = 'Lines: 0';
+}
+init();
+
+document.addEventListener('keydown', e => {
+  keys[e.key] = true;
+  if (e.key === ' ') {
+    e.preventDefault();
+    if (gameOver) { init(); return; }
+    // Hard drop
+    const y = dropY(pBoard, pPiece.shape, pPiece.x, pPiece.y);
+    merge(pBoard, pPiece.shape, pPiece.x, y);
+    const cl = clearLines(pBoard);
+    pLines += cl;
+    document.getElementById('pscore').textContent = `Lines: ${pLines}`;
+    if (isFull(pBoard)) endGame(false);
+    else pPiece = randomPiece();
+  }
+});
+document.addEventListener('keyup', e => keys[e.key] = false);
+
+function isFull(board) {
+  return board[0].some(c => c !== 0);
+}
+
+function endGame(playerWon) {
+  gameOver = true;
+  const ov = document.getElementById('overlay');
+  document.getElementById('result').textContent = playerWon ? '🏆 YOU WIN!' : '💀 AI WINS!';
+  document.getElementById('result').style.color = playerWon ? '#0f0' : '#f44';
+  ov.classList.add('show');
+}
+
+// --- Player Update ---
+function updatePlayer(dt) {
+  if (gameOver) return;
+  const p = pPiece;
+
+  if (keys['ArrowLeft'] && !collides(pBoard, p.shape, p.x - 1, p.y)) p.x--;
+  if (keys['ArrowRight'] && !collides(pBoard, p.shape, p.x + 1, p.y)) p.x++;
+  if (keys['ArrowUp']) {
+    const r = rotate(p.shape);
+    if (!collides(pBoard, r, p.x, p.y)) p.shape = r;
+  }
+  if (keys['ArrowDown']) {
+    if (!collides(pBoard, p.shape, p.x, p.y + 1)) p.y++;
+    pDropTimer = 0;
+  }
+
+  pDropTimer += dt;
+  const speed = Math.max(100, 600 - pLines * 20);
+  if (pDropTimer > speed) {
+    pDropTimer = 0;
+    if (!collides(pBoard, p.shape, p.x, p.y + 1)) p.y++;
+    else {
+      merge(pBoard, p.shape, p.x, p.y);
+      const cl = clearLines(pBoard);
+      pLines += cl;
+      document.getElementById('pscore').textContent = `Lines: ${pLines}`;
+      if (isFull(pBoard)) { endGame(false); return; }
+      pPiece = randomPiece();
+    }
+  }
+}
+
+// --- AI Update ---
+function updateAI(dt) {
+  if (gameOver) return;
+  aDropTimer += dt;
+  const speed = Math.max(150, 500 - aLines * 15);
+
+  if (aDropTimer > speed) {
+    aDropTimer = 0;
+    const move = aiPlace(aBoard, aPiece);
+    if (move) {
+      merge(aBoard, move.shape, move.x, move.y);
+      const cl = clearLines(aBoard);
+      aLines += cl;
+      document.getElementById('ascore').textContent = `Lines: ${aLines}`;
+      if (isFull(aBoard)) { endGame(true); return; }
+      aPiece = randomPiece();
+    }
+  }
+}
+
+// --- Draw ---
+function drawBoard(ctx, board, piece) {
+  ctx.fillStyle = '#0a0a0a';
+  ctx.fillRect(0, 0, COLS * CELL, ROWS * CELL);
+
+  // Grid
+  ctx.strokeStyle = '#151515';
+  for (let x = 0; x <= COLS; x++) { ctx.beginPath(); ctx.moveTo(x * CELL, 0); ctx.lineTo(x * CELL, ROWS * CELL); ctx.stroke(); }
+  for (let y = 0; y <= ROWS; y++) { ctx.beginPath(); ctx.moveTo(0, y * CELL); ctx.lineTo(COLS * CELL, y * CELL); ctx.stroke(); }
+
+  // Board cells
+  for (let y = 0; y < ROWS; y++)
+    for (let x = 0; x < COLS; x++)
+      if (board[y][x]) {
+        ctx.fillStyle = COLORS[board[y][x]];
+        ctx.fillRect(x * CELL + 1, y * CELL + 1, CELL - 2, CELL - 2);
+      }
+
+  // Ghost
+  if (piece) {
+    const gy = dropY(board, piece.shape, piece.x, piece.y);
+    ctx.globalAlpha = 0.2;
+    for (let y = 0; y < piece.shape.length; y++)
+      for (let x = 0; x < piece.shape[y].length; x++)
+        if (piece.shape[y][x] && gy + y >= 0) {
+          ctx.fillStyle = COLORS[piece.type];
+          ctx.fillRect((piece.x + x) * CELL + 1, (gy + y) * CELL + 1, CELL - 2, CELL - 2);
+        }
+    ctx.globalAlpha = 1;
+
+    // Current piece
+    for (let y = 0; y < piece.shape.length; y++)
+      for (let x = 0; x < piece.shape[y].length; x++)
+        if (piece.shape[y][x] && piece.y + y >= 0) {
+          ctx.fillStyle = COLORS[piece.type];
+          ctx.fillRect((piece.x + x) * CELL + 1, (piece.y + y) * CELL + 1, CELL - 2, CELL - 2);
+        }
+  }
+}
+
+let lastTime = 0;
+function loop(time) {
+  const dt = time - lastTime;
+  lastTime = time;
+
+  updatePlayer(dt);
+  updateAI(dt);
+
+  drawBoard(pCtx, pBoard, gameOver ? null : pPiece);
+  drawBoard(aCtx, aBoard, gameOver ? null : aPiece);
+
+  requestAnimationFrame(loop);
+}
+requestAnimationFrame(loop);
+</script>
+</body>
+</html>   

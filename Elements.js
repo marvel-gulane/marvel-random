@@ -1,7 +1,3 @@
-// alchemy-engine.js
-// Single-file Alchemy Engine — mix elements to discover new ones.
-// Run: node alchemy-engine.js
-
 const readline = require('readline');
 
 // ─── Universe Definition ───────────────────────────────────────────
