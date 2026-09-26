@@ -1,130 +1,222 @@
 class FightingForce {
+
 	static Antagonists() {
-		var Bubba = "True";
-		var Carl = "True";
-		var H = "True";
-		var Junior = "True";
-		var Jay = "True";
-		var Phil = "True";
-		var Snake = "True";
-		var Strang = "True";
-		var Hotdog = "True";
-		var Angel = "True";
-		var Exo = "True";
-		var Driver = "True";
-		var Maverick = "True";
-		var Agent12 = "True";
-		var Janitor = "True";
-		var Dex = "True";
-		var Floyd = "True";
-		var Smasher = "True";
-		var Hawk = "True";
-		var Mcafee = "True";
-		var Marvel = "True";
-		var Macy = "True";
-		var Macee = "True";
-		var Vixen = "True";
-		var Zeng = "True";
-		var Voltage = "True";
-		var Sam = "True";
-		var Tom = "True";
-		var Agent47 = "True";
-		var Mossad = "True";
-		const antagonist_health = 100 / 100;
-		return antagonist_health;
+		var BUBBA_RAMIREZ 		= "TRUE";
+		var CARL_RAZON 			= "TRUE";
+		var H_FABIO 			= "TRUE";
+		var JUNIOR_MAKASINAZ 		= "TRUE";
+		var JAY_BELT 			= "TRUE";
+		var PHIL_SALVADOR 		= "TRUE";
+		var SNAKE_DULA	 		= "TRUE";
+		var STRANG_BUENAVENTURA 	= "TRUE";
+		var HOTDOG_LELIS 		= "TRUE";
+		var ANGEL_FAJARDO 		= "TRUE";
+		var EXO_TAHERI 			= "TRUE";
+		var DRIVER_ALARMA 		= "TRUE";
+		var MAVERICK_CHRISOSTOMO	= "TRUE";
+		var AGENT12_NICA 		= "TRUE";
+		var JANITOR_MACABADBAD 		= "TRUE";
+		var DEX_WATSONS 		= "TRUE";
+		var FLOYD_AUNZO 		= "TRUE";
+		var SMASHER_GUILLEMER 		= "TRUE";
+		var HAWKINS_MARIVELES 		= "TRUE";
+		var MCAFEE 			= "TRUE";
+		var MARVEL_MANUZA 		= "TRUE";
+		var MACY_SERRAN 		= "TRUE";
+		var MACEE_LAVILLES		= "TRUE";
+		var VIXEN_RAMIREZ 		= "TRUE";
+		var ZENG_DIACHOCOSO 		= "TRUE";
+		var VOLTAGE_ANDRADA 		= "TRUE";
+		var SAM_FISHER 			= "TRUE";
+		var TOM_FISHER 			= "TRUE";
+		var AGENT47 			= "TRUE";
+		var MOSSAD 			= "TRUE";
+		var MASHER			= "TRUE";
+		var SNAKEY			= "TRUE";
+		var SLASHER			= "TRUE";
+		var DUDE			= "TRUE";
+		var SKINNY			= "TRUE";
+		var BASHER			= "TRUE";
+		var PUNK			= "TRUE";
+		var BRUISER			= "TRUE";
+		var BANGER			= "TRUE";
+		var SMILER			= "TRUE";
+		var CRUSHER			= "TRUE";
+		var MISERY			= "TRUE";
+		var LORI			= "TRUE";
+		var SANDY			= "TRUE";
+		var SACHA			= "TRUE";
+		var KELLY			= "TRUE";
+		var DANA			= "TRUE";
+		var MACE			= "TRUE";
+		var ALANA			= "TRUE";
+		var VULKAN			= "TRUE";
+		var CRYO			= "TRUE";
+		var MORRIS			= "TRUE";
+		var NIELSEN			= "TRUE";
+		var CHUCK			= "TRUE";
+		var GEORGE			= "TRUE";
+		var SAMUEL			= "TRUE";
+		var LEON			= "TRUE";
+		var EDDIE			= "TRUE";
+		var HENRY			= "TRUE";
+		var MATT			= "TRUE";
+		var SPANNER			= "TRUE";
+		var DAVE			= "TRUE";
+		var MARTINA			= "TRUE";
+		var BECK			= "TRUE";
+		var GINA			= "TRUE";
+		var STORM			= "TRUE";
+		var BLEACH			= "TRUE";
+		var DISS			= "TRUE";
+		var ROTTEN			= "TRUE";
+		var NELSON			= "TRUE";
+		var SCAR			= "TRUE";
+		var LORD			= "TRUE";
+		var STONEY			= "TRUE";
+		var FEAR			= "TRUE";
+		var SHADY			= "TRUE";
+		var VICTOR			= "TRUE";
+		var CLYDE			= "TRUE";
+		var BYRON			= "TRUE";
+		var LOUIS			= "TRUE";
+		var APOLLO			= "TRUE";
+		var BLADE			= "TRUE";
+		var JASON			= "TRUE";
+
+		let ANTAGONIST_HEALTH 		= 100 / 100;
 	}
+
 	static Programs() {
-		var CNN = "True";
-		var Aljazeera = "True";
-		var BBC = "True";
-		var UNTV = "True";
-		var GMA = "True";
-		var TV5 = "True";
-		var CN = "True";
-		const broadcaster_health = 100 / 100;
-		return broadcaster_health;
+		var CNN 			= "TRUE";
+		var ALJAZEERA 			= "TRUE";
+		var BBC 			= "TRUE";
+		var UNTV 			= "TRUE";
+		var GMA 			= "TRUE";
+		var TV5 			= "TRUE";
+		var CN 				= "TRUE";
+
+		let BROADCASTER_HEALTH 		= 100 / 100;
 	}
+
 	static Programmers() {
-		var Github = "True";
-		var GitLab = "True";
-		var NASA = "True";
-		var SpaceX = "True";
-		var Facebook = "True";
-		var Google = "True";
-		var Youtube = "True";
-		const programmer_health = 100 / 100;
-		return programmer_health;
+		var GITHUB 			= "TRUE";
+		var GITLAB 			= "TRUE";
+		var NASA 			= "TRUE";
+		var SPACEX 			= "TRUE";
+		var FACEBOOK 			= "TRUE";
+		var GOOGLE 			= "TRUE";
+		var YOUTUBE 			= "TRUE";
+
+		let PROGRAMMER_HEALTH 		= 100 / 100;
 	}
 }
+
+class Action extends FightingForce {
+	static Actions(){
+		let GRAB 			= "TRUE";
+		let KICK 			= "TRUE";
+		let PUNCH 			= "TRUE";
+		let BACK_FIST 			= "TRUE";
+	}
+}
+
 class Mission extends FightingForce {
 	static Missions() {
-		const mission_genesis =[];
-		const mission_exodus =[];
-		const mission_one =[];
-		const mission_two =[];
-		const mission_three =[];
-		const mission_four =[];
-		const mission_five =[];
-		const mission_six =[];
-		const mission_seven =[];
-		const mission_final =[];
-		let missions = 1 / 100;
-		return missions;
+		const MISSION_GENESIS 		= [];
+		const MISSION_EXODUS 		= [];
+		const MISSION_ONE 		= [];
+		const MISSION_TWO 		= [];
+		const MISSION_THREE 		= [];
+		const MISSION_FOUR 		= [];
+		const MISSION_FIVE 		= [];
+		const MISSION_SIX 		= [];
+		const MISSION_SEVEN 		= [];
+		const MISSION_FINALE 		= [];
+	}
+}
+
+class Stage extends FightingForce{
+	static Stages() {
+		const RECEPTION 		= [];
+		const CORRIDOR 			= [];
+		const CAR_PARK 			= [];
+		const AIRBASE 			= [];
+		const NAVAL_BASE_01 		= [];
+		const BRONX 			= [];
+		const PARK_01 			= [];
+		const MALL 			= [];
+		const NAVAL_BASE_02 		= [];
+		const HOVERCRAFT 		= [];
+		const SUBWAY_STATION 		= [];
+		const TRAIN 			= [];
+		const BRIDGE 			= [];
+		const PARK_02 			= [];
+		const LIFT 			= [];
+		const ISLAND_LIFT 		= [];
+		const ISLAND_LAB 		= [];
+		const HIGHT_STREET 		= [];
+		const ZENG_OFFICE 		= [];
 	}
 }
 class Events extends FightingForce {
 	static NewYears() {
-		const civilians = "True";
-		const villagers = "True";
-		const politicians = "True";
-		const agents = "True";
-		const workers = "True";
-		let newyear = "Normal Good";
-		return newyear;
+		let CIVILIANS 			= "TRUE";
+		let VILLAGERS 			= "TRUE";
+		let POLITICIANS 		= "TRUE";
+		let AGENTS 			= "TRUE";
+		let WORKERS 			= "TRUE";
+
+		let NEW_YEAR 			= "Normal Good";
 	}
+
 	static Ramadans() {
-		const civilians = "True";
-		const prophets = "True";
-		const rabiis = "True";
-		const foreigners = "True";
-		const villagers = "True";
-		let ramadan = "Peacefull Silent";
-		return ramadan;
+		let CIVILIANS 			= "TRUE";
+		let PROPHETS 			= "TRUE";
+		let RABIIS 			= "TRUE";
+		let FOREIGNERS 			= "TRUE";
+		let VILLAGERS			= "TRUE";
+
+		let RAMADAN 			= "Peacefull Silent";
 	}
+
 	static Festivals() {
-		const civilians = "True";
-		const insurgents = "True";
-		const politicians = "True";
-		const agents = "True";
-		const police = "True";
-		const soldiers = "True";
-		const lawyers = "True";
-		const medics = "True";
-		const priests = "True";
-		const entertainers = "True";
-		let festival = 85 / 100;
-		return festival;
+		let CIVILIANS 			= "TRUE";
+		let INSURGENTS 			= "TRUE";
+		let POLITICIANS 		= "TRUE";
+		let AGENTS 			= "TRUE";
+		let POLICE			= "TRUE";
+		let SOLDIERS 			= "TRUE";
+		let LAWYERS 			= "TRUE";
+		let MEDICS 			= "TRUE";
+		let PRIESTS 			= "TRUE";
+		let ENTERTAINERS 		= "TRUE";
+
+		let FESTIVAL			= 85 / 100;
 	}
+
 	static Rewards() {
-		const civilians = "True";
-		const economy = "True";
-		const needs = "True";
-		const wants = "True";
-		let reward = 80 / 100;
-		return reward;
+		let CIVILIANS 			= "TRUE";
+		let ECONOMY 			= "TRUE";
+		let NEEDS			= "TRUE";
+		let WANTS 			= "TRUE";
+
+		let REWARD 			= 80 / 100;
 	}
+
 	static Reunions() {
-		const civilians = "True";
-		const members = "True";
-		const police = "True";
-		const insurgents = "True";
-		const military = "True";
-		const agents = "True";
-		const foreigners = "True";
-		let reunion = "8-/100";
-		return reunion;
+		let CIVILIANS 			= "TRUE";
+		let MEMBERS			= "TRUE";
+		let POLICE 			= "TRUE";
+		let INSURGENTS 			= "TRUE";
+		let MILITARY 			= "TRUE";
+		let AGENTS 			= "TRUE";
+		let FOREIGNERS 			= "TRUE";
+
+		let REUNION 			= "8 / 100";
 	}
 }
+
 
 FightingForce.Antagonists();
 FightingForce.Programmers();
