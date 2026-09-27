@@ -118,6 +118,39 @@ class Foods {
 		console.table(fried,['Fried']);
 	}
 
+
+	static Afritadas() {
+		var pork = "True";
+		var potatoes = "True";
+		var carrots = "True";
+		var garlics = "True";
+		var onions = "True";
+		var oils = "True";
+		var saauces = "True";
+		const cook = [{Afritada:'pork'}, {Afritada:'potatoes'}, {Afritada:'carrots'}, {Afritada:'garlics'}, {Afritada:'onions'}, {Afritada:'oils'}, {Afritada:'sauces'}];
+		console.table(cook,['Afritada']);
+	}
+
+	static Pizzas() {
+		var cheese = "True";
+		var porks = "True";
+		var sauces = "True";
+		var flours = "True";
+		var wheat = "True";
+		var doughs = "True";
+		const pizza = [{Pizza:'cheese'}, {Pizza:'porks'}, {Pizza:'sauces'}, {Pizza:'flours'}, {Pizza:'wheat'}, {Pizza:'doughs'}];
+		console.table(pizza, ['Pizza']);
+	}
+
+	static FriedDilis() {
+		var dilis = "True";
+		var eggs = "True";
+		var oils = "True";
+		var monosodium = "True";
+		const fry = [{Fried:'dilis'}, {Fried:'eggs'}, {Fried:'oils'}, {Fried:'monosodium'}];
+		console.table(fry, ['Fried']);
+	}
+
 }
 
 Foods.LechonPaksiws();
@@ -131,3 +164,6 @@ Foods.ShangHaiPancits();
 Foods.PorkCalderetas();
 Foods.ChickenAdobos();
 Foods.FriedFish();
+Foods.Afritadas();
+Foods.Pizzas();
+Foods.FriedDilis();

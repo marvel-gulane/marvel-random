@@ -217,13 +217,35 @@ class Events extends FightingForce {
 	}
 }
 
+class Armor extends FightingForce {
+	static Exo() {
+		var ARM 			= "Anti Shock Bandana";
+		var FEET 			= "Boots Of Soldiers";
+		var HEAD			= "Alloy Helmet";
+		var BODY			= "Bullet Proof Vest";
+		var SUIT			= "Anti Radiatioactive";
+	}
 
-FightingForce.Antagonists();
-FightingForce.Programmers();
-FightingForce.Programs();
-Mission.Missions();
-Events.NewYears();
-Events.Ramadans();
-Events.Festivals();
-Events.Rewards();
-Events.Reunions();
+
+}
+
+class Weapon extends FightingForce {
+	static Exo() {
+		var WEAPON			= "AR-15 : 8 Magazines";
+		var PISTOL			= "USP-30 : 8 Magazines";
+		var MELEE			= "Mexican Machete";
+	}
+}
+
+class Hotdogs extends FightingForce {
+	static Kresha_Mangansilo() {
+		let HAIR 			= "BLACK";
+		let TEETH			= "CLEAN";
+		let BODY 			= "10/10";
+		let SKINTONE 			= "WHITE";
+		let SCENT 			= "CHOCOFUDGE";
+		let EYES 			= "GREEN";
+		let FACE 			= "MS. THEA BONIPEA";
+	}
+}
+
