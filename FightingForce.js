@@ -1,6 +1,6 @@
-class FightingForce {
+class FIGHTINGFORCE {
 
-	static Antagonists() {
+	static ANTAGONISTS() {
 		var BUBBA_RAMIREZ 		= "TRUE";
 		var CARL_RAZON 			= "TRUE";
 		var H_FABIO 			= "TRUE";
@@ -87,7 +87,7 @@ class FightingForce {
 		let ANTAGONIST_HEALTH 		= 100 / 100;
 	}
 
-	static Programs() {
+	static PROGRAMS() {
 		var CNN 			= "TRUE";
 		var ALJAZEERA 			= "TRUE";
 		var BBC 			= "TRUE";
@@ -99,7 +99,7 @@ class FightingForce {
 		let BROADCASTER_HEALTH 		= 100 / 100;
 	}
 
-	static Programmers() {
+	static PROGRAMMERS() {
 		var GITHUB 			= "TRUE";
 		var GITLAB 			= "TRUE";
 		var NASA 			= "TRUE";
@@ -112,7 +112,7 @@ class FightingForce {
 	}
 }
 
-class Action extends FightingForce {
+class ACTIONS extends FIGHTINGFORCE {
 	static Actions(){
 		let GRAB 			= "TRUE";
 		let KICK 			= "TRUE";
@@ -121,7 +121,7 @@ class Action extends FightingForce {
 	}
 }
 
-class Mission extends FightingForce {
+class MISSIONS extends FIGHTINGFORCE {
 	static Missions() {
 		const MISSION_GENESIS 		= [];
 		const MISSION_EXODUS 		= [];
@@ -136,8 +136,8 @@ class Mission extends FightingForce {
 	}
 }
 
-class Stage extends FightingForce{
-	static Stages() {
+class STAGES extends FIGHTINGFORCE{
+	static STAGES() {
 		const RECEPTION 		= [];
 		const CORRIDOR 			= [];
 		const CAR_PARK 			= [];
@@ -159,8 +159,8 @@ class Stage extends FightingForce{
 		const ZENG_OFFICE 		= [];
 	}
 }
-class Events extends FightingForce {
-	static NewYears() {
+class EVENTS extends FIGHTINGFORCE {
+	static NEWYEARS() {
 		let CIVILIANS 			= "TRUE";
 		let VILLAGERS 			= "TRUE";
 		let POLITICIANS 		= "TRUE";
@@ -170,7 +170,7 @@ class Events extends FightingForce {
 		let NEW_YEAR 			= "Normal Good";
 	}
 
-	static Ramadans() {
+	static RAMADANS() {
 		let CIVILIANS 			= "TRUE";
 		let PROPHETS 			= "TRUE";
 		let RABIIS 			= "TRUE";
@@ -180,7 +180,7 @@ class Events extends FightingForce {
 		let RAMADAN 			= "Peacefull Silent";
 	}
 
-	static Festivals() {
+	static FESTIVALS() {
 		let CIVILIANS 			= "TRUE";
 		let INSURGENTS 			= "TRUE";
 		let POLITICIANS 		= "TRUE";
@@ -195,7 +195,7 @@ class Events extends FightingForce {
 		let FESTIVAL			= 85 / 100;
 	}
 
-	static Rewards() {
+	static REWARDS() {
 		let CIVILIANS 			= "TRUE";
 		let ECONOMY 			= "TRUE";
 		let NEEDS			= "TRUE";
@@ -204,7 +204,7 @@ class Events extends FightingForce {
 		let REWARD 			= 80 / 100;
 	}
 
-	static Reunions() {
+	static REUNIONS() {
 		let CIVILIANS 			= "TRUE";
 		let MEMBERS			= "TRUE";
 		let POLICE 			= "TRUE";
@@ -217,27 +217,31 @@ class Events extends FightingForce {
 	}
 }
 
-class Armor extends FightingForce {
-	static Exo() {
+class ARMOR extends FIGHTINGFORCE {
+	static EXO() {
 		var ARM 			= "Anti Shock Bandana";
 		var FEET 			= "Boots Of Soldiers";
 		var HEAD			= "Alloy Helmet";
 		var BODY			= "Bullet Proof Vest";
 		var SUIT			= "Anti Radiatioactive";
+		var WEAPON			= "AR-15 : 8 Magazines";
+		var PISTOL			= "USP-30 : 8 Magazines";
+		var MELEE			= "Mexican Machete";
 	}
 
-
-}
-
-class Weapon extends FightingForce {
-	static Exo() {
-		var WEAPON			= "AR-15 : 8 Magazines";
+	static PHIL() {
+		var ARM 			= "Anti Shock Bandana";
+		var FEET 			= "Boots Of Soldiers";
+		var HEAD			= "Alloy Helmet";
+		var BODY			= "Bullet Proof Vest";
+		var SUIT			= "Anti Radiatioactive";
+		var WEAPON			= "Bazooka / RPG";
 		var PISTOL			= "USP-30 : 8 Magazines";
 		var MELEE			= "Mexican Machete";
 	}
 }
 
-class Hotdogs extends FightingForce {
+class HOTDOGS extends FIGHTINGFORCE {
 	static Kresha_Mangansilo() {
 		let HAIR 			= "BLACK";
 		let TEETH			= "CLEAN";
