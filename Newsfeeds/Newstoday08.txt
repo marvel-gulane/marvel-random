@@ -1,0 +1,514 @@
+
+════════════════════════════════════════════════════════
+  📰 Hacker News
+════════════════════════════════════════════════════════
+
+  1. GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence
+     Wed, 30 Sep 2026
+     https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence
+
+  2. Pi.dev: You Said No MCP
+     Wed, 30 Sep 2026
+     https://earendil.com/posts/you-said-no-mcp/
+
+  3. Why Is Sam Altman a Free Man?
+     Wed, 30 Sep 2026
+     https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/
+
+  4. September 2026: The world today, as seen by one Polish guy
+     Wed, 30 Sep 2026
+     https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/
+
+  5. RSS Feeds for Last.fm
+     Wed, 30 Sep 2026
+     https://lfm.xiffy.nl/
+
+════════════════════════════════════════════════════════
+  📰 BBC News
+════════════════════════════════════════════════════════
+
+  1. Move to rejoin EU among options for UK, says Burnham
+     Wed, 30 Sep 2026
+     https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&amp;at_campaign=rss
+
+  2. One of the five men arrested near RAF Fairford called 999 himself
+     Wed, 30 Sep 2026
+     https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&amp;at_campaign=rss
+
+  3. Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school
+     Wed, 30 Sep 2026
+     https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&amp;at_campaign=rss
+
+  4. Police seek charges against 20 firms and 54 people over Grenfell Tower fire
+     Wed, 30 Sep 2026
+     https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&amp;at_campaign=rss
+
+  5. The transfers that helped Man City dominate while breaking financial rules
+     Wed, 30 Sep 2026
+     https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&amp;at_campaign=rss
+
+════════════════════════════════════════════════════════
+  📰 Reuters
+════════════════════════════════════════════════════════
+  ⚠️  Failed: fetch failed
+
+════════════════════════════════════════════════════════
+  📰 The Verge
+════════════════════════════════════════════════════════
+  ⚠️  Failed: Cannot read properties of undefined (reading 'match')
+
+════════════════════════════════════════════════════════
+  📰 Ars Technica
+════════════════════════════════════════════════════════
+
+  1. Most powerful obesity drug yet: People lost up to 25% of weight in trial
+     Tue, 29 Sep 2026
+     https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/
+
+  2. Protests against OpenAI get increasingly creative
+     Tue, 29 Sep 2026
+     https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/
+
+  3. AMD acquires World Labs AI startup, upping the ante against Nvidia
+     Tue, 29 Sep 2026
+     https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/
+
+  4. Trump ads paid for by US government allegedly violate anti-propaganda laws
+     Tue, 29 Sep 2026
+     https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/
+
+  5. NASA has a Dragon dilemma, and there appear to be no good answers
+     Tue, 29 Sep 2026
+     https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/
+
+════════════════════════════════════════════════════════
+  📰 TechCrunch
+════════════════════════════════════════════════════════
+
+  1. Apple Pay finally launches in India after years on the sidelines
+     Wed, 30 Sep 2026
+     https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/
+
+  2. America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch
+     Tue, 29 Sep 2026
+     https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/
+
+  3. The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch
+     Tue, 29 Sep 2026
+     https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/
+
+  4. Your car and its mobile app are probably handing over all kinds of data to tech companies
+     Tue, 29 Sep 2026
+     https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/
+
+  5. a16z-backed EliseAI raises $350M, doubles valuation to $4B
+     Tue, 29 Sep 2026
+     https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/
+
+════════════════════════════════════════════════════════
+  📰 Wired
+════════════════════════════════════════════════════════
+
+  1. The Best Gaming Routers (2026): Tested By a Family of Gamers
+     Wed, 30 Sep 2026
+     https://www.wired.com/story/best-gaming-routers/
+
+  2. Black Twitter Is Thriving—on Threads
+     Wed, 30 Sep 2026
+     https://www.wired.com/story/threads-is-black-twitters-unlikely-spiritual-successor/
+
+  3. How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank
+     Wed, 30 Sep 2026
+     https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/
+
+  4. Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More
+     Wed, 30 Sep 2026
+     https://www.wired.com/gallery/the-best-kids-mattresses/
+
+  5. The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)
+     Wed, 30 Sep 2026
+     https://www.wired.com/gallery/best-laptop-docking-stations/
+
+════════════════════════════════════════════════════════
+  📰 NPR News
+════════════════════════════════════════════════════════
+
+  1. U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy
+     Wed, 30 Sep 2026
+     https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai
+
+  2. Travel plans? Here&apos;s what to know as measles exposures reach trains and games
+     Wed, 30 Sep 2026
+     https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation
+
+  3. A startup wants to build a massive nuclear-powered data center on public land in Utah
+     Wed, 30 Sep 2026
+     https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah
+
+  4. The moment you&apos;ve been waiting for: America&apos;s best student podcasts
+     Wed, 30 Sep 2026
+     https://www.npr.org/2026/09/30/nx-s1-5930430/student-podcast-challenge-2026-finalists
+
+  5. Foster care often fails kids with disabilities. Consider these cases
+     Wed, 30 Sep 2026
+     https://www.npr.org/2026/09/30/nx-s1-5534203/foster-care-disabilities-children-bad-outcomes
+
+════════════════════════════════════════════════════════
+  📰 The Guardian
+════════════════════════════════════════════════════════
+
+  1. DRC politician beaten to death after radio appearance about Ebola outbreak
+     Mon, 28 Sep 2026
+     https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola
+
+  2. At least 27 dead after two mass shootings in South Africa, police say
+     Sun, 27 Sep 2026
+     https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town
+
+  3. ‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys
+     Sun, 27 Sep 2026
+     https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe
+
+  4. Rebel offensive against Ethiopian army stokes fears of return to civil war
+     Thu, 24 Sep 2026
+     https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army
+
+  5. Indian billionaire’s payments firm plots biggest London flotation in years
+     Wed, 23 Sep 2026
+     https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money
+
+════════════════════════════════════════════════════════
+  📰 Al Jazeera
+════════════════════════════════════════════════════════
+
+  1. The October 7 warnings threatening Netanyahu’s Israeli election campaign
+     Wed, 30 Sep 2026
+     https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss
+
+  2. What’s behind French student protests that turned violent?
+     Wed, 30 Sep 2026
+     https://www.aljazeera.com/news/2026/9/30/whats-behind-french-student-protests-that-turned-violent?traffic_source=rss
+
+  3. ‘We no longer eat three meals’: Yemen’s displaced face daily fight for food
+     Wed, 30 Sep 2026
+     https://www.aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food?traffic_source=rss
+
+  4. What will happen to Man City after the Premier League’s guilty verdict?
+     Wed, 30 Sep 2026
+     https://www.aljazeera.com/sports/2026/9/30/what-will-happen-to-man-city-after-the-premier-leagues-guilty-verdict?traffic_source=rss
+
+  5. Former American Idol contestant found guilty of murdering wife
+     Wed, 30 Sep 2026
+     https://www.aljazeera.com/video/newsfeed/2026/9/30/former-american-idol-contestant-found-guilty-of-murdering-wife?traffic_source=rss
+
+════════════════════════════════════════════════════════
+  📰 BBC Asia
+════════════════════════════════════════════════════════
+
+  1. 'He will never walk free': Indian judge's letter promises child sex abuse survivor
+     Wed, 30 Sep 2026
+     https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&amp;at_campaign=rss
+
+  2. Singapore launches matchmaking service for government workers
+     Wed, 30 Sep 2026
+     https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&amp;at_campaign=rss
+
+  3. Watch: Couple describes relief at rescue after whale destroys their yacht
+     Wed, 30 Sep 2026
+     https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&amp;at_campaign=rss
+
+  4. Watch: Luxury prison in Indonesia demolished after public outcry
+     Wed, 30 Sep 2026
+     https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&amp;at_campaign=rss
+
+  5. Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea
+     Wed, 30 Sep 2026
+     https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&amp;at_campaign=rss
+
+════════════════════════════════════════════════════════
+  📰 CNA
+════════════════════════════════════════════════════════
+
+  1. Committee formed to review child safeguards in Islamic religious settings
+     Wed, 30 Sep 2026
+     https://www.channelnewsasia.com/singapore/committee-islamic-religious-settings-mosques-children-safeguards-sexual-abuse-6420921
+
+  2. Fare hikes should translate into better wages, bonuses for public transport workers: Union
+     Wed, 30 Sep 2026
+     https://www.channelnewsasia.com/singapore/public-transport-fare-hikes-better-wages-workers-union-6421231
+
+  3. Apple plans to launch new smart-home hub on Oct 13, Bloomberg News reports
+     Wed, 30 Sep 2026
+     https://www.channelnewsasia.com/business/apple-plans-launch-new-smart-home-hub-oct-13-bloomberg-news-reports-6421341
+
+  4. Singapore’s Shannon Tan leads Asian Games individual golf standings after first round
+     Wed, 30 Sep 2026
+     https://www.channelnewsasia.com/sport/shannon-tan-golf-asian-games-singapore-6421046
+
+  5. Ex-husband, in-laws accused of murdering Hong Kong model Abby Choi appear in court
+     Wed, 30 Sep 2026
+     https://www.channelnewsasia.com/asia/abby-choi-hong-kong-model-murder-trial-ex-husband-in-laws-6421221
+
+════════════════════════════════════════════════════════
+  📰 SCMP
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 404
+
+════════════════════════════════════════════════════════
+  📰 Radio Free Asia
+════════════════════════════════════════════════════════
+
+  1. China pressure accelerates Philippines-Taiwan ties, analysts say
+     Tue, 29 Sep 2026
+     https://rfa.org/english/china/2026/09/29/taiwan-philippines-trade-office/
+
+  2. Radio Free Asia builds on major milestone with new chapter ahead
+     Tue, 29 Sep 2026
+     https://rfa.org/english/about/releases/2026/09/29/rfa-builds-on-major-milestone/
+
+  3. North Korea issue dwarfed by more pressing concerns during Trump-Xi summit
+     Mon, 28 Sep 2026
+     https://rfa.org/english/korea/2026/09/28/xi-trump-summit-north-korea-china/
+
+  4. Uyghur advocates in Washington rally against visit by Chinese President Xi Jinping
+     Fri, 25 Sep 2026
+     https://rfa.org/english/uyghur/2026/09/25/uyghur-protest-china-xi-jinping/
+
+  5. Lao migrant’s disappearance in Thailand seems like transnational repression, NGO says
+     Fri, 25 Sep 2026
+     https://rfa.org/english/laos/2026/09/25/khieo-lapchanh-laos-thailand-missing/
+
+════════════════════════════════════════════════════════
+  📰 The Diplomat
+════════════════════════════════════════════════════════
+
+  1. The Future of Shipbuilding in Southeast Asia
+     Wed, 30 Sep 2026
+     https://thediplomat.com/2026/09/the-future-of-shipbuilding-in-southeast-asia/
+
+  2. Uzbekistan’s Death Penalty Debate Returns After Child Abuse Case
+     Wed, 30 Sep 2026
+     https://thediplomat.com/2026/09/uzbekistans-death-penalty-debate-returns-after-child-abuse-case/
+
+  3. Living Under a Lethal Sky: Myanmar’s Arakan on Edge as Military Airstrikes on Civilians Grow
+     Tue, 29 Sep 2026
+     https://thediplomat.com/2026/09/living-under-a-lethal-sky-myanmars-arakan-on-edge-as-military-airstrikes-on-civilians-grow/
+
+  4. Why Are China and Japan Still So Focused on the ‘Enemy State Clauses’ of the UN Charter?
+     Wed, 30 Sep 2026
+     https://thediplomat.com/2026/09/why-are-china-and-japan-still-so-focused-on-the-enemy-state-clauses-of-the-un-charter/
+
+  5. Taiwan Should Be Kept Off the Negotiating Table
+     Wed, 30 Sep 2026
+     https://thediplomat.com/2026/09/taiwan-should-be-kept-off-the-negotiating-table/
+
+════════════════════════════════════════════════════════
+  📰 East Asia Forum
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 e27
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 Nikkei Asia
+════════════════════════════════════════════════════════
+
+  1. The UN needs a 'secular pope' to mediate in a complex world
+     https://asia.nikkei.com/spotlight/comment/the-un-needs-a-secular-pope-to-mediate-in-a-complex-world
+
+  2. Indonesian business doldrums leave a million university graduates jobless
+     https://asia.nikkei.com/economy/indonesian-business-doldrums-leave-a-million-university-graduates-jobless
+
+  3. Japan's Nidec sinks to $3.6bn loss on EV motor write-down
+     https://asia.nikkei.com/business/companies/japan-s-nidec-sinks-to-3.6bn-loss-on-ev-motor-write-down
+
+  4. Australia's lithium miners expand and reopen as prices strengthen
+     https://asia.nikkei.com/business/markets/commodities/australia-s-lithium-miners-expand-and-reopen-as-prices-strengthen
+
+  5. Vingroup adds oil and gas to growing business portfolio
+     https://asia.nikkei.com/business/energy/vingroup-adds-oil-and-gas-to-growing-business-portfolio
+
+════════════════════════════════════════════════════════
+  📰 Manila Bulletin
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 GMA News
+════════════════════════════════════════════════════════
+
+  1. LTO, sinuspinde ang driver's license ng motoristang hindi umano nagbigay-daan sa mga taong tumatawid sa pedestrian lane
+     Wed, 30 Sep 2026
+     https://www.gmanetwork.com/news/balitambayan/balita/1004309/lto-sinuspinde-ang-driver-s-license-ng-motoristang-hindi-umano-nagbigay-daan-sa-mga-taong-tumata/story/
+
+  2. Marcos calls on teachers to raise students who are critical thinkers, capable leaders
+     Wed, 30 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1004308/marcos-calls-on-teachers-to-raise-students-who-are-critical-thinkers-capable-leaders/story/
+
+  3. Comelec wants vulnerable sectors to be able to vote a week before election day
+     Wed, 30 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1004283/comelec-wants-vulnerable-sectors-to-be-able-to-vote-a-week-before-election-day/story/
+
+  4. Palace: Mayors, including Baste Duterte, should know about approved gov't contracts
+     Wed, 30 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1004297/palace-mayors-including-baste-duterte-should-know-about-approved-gov-t-contracts/story/
+
+  5. DOLE warns of possible closure of beauty clinic linked to malpractice case
+     Wed, 30 Sep 2026
+     https://www.gmanetwork.com/news/topstories/metro/1004304/dole-warns-of-possible-closure-of-beauty-clinic-linked-to-malpractice-case/story/
+
+════════════════════════════════════════════════════════
+  📰 PhilStar News
+════════════════════════════════════════════════════════
+
+  1. SC dismisses petitions vs vote threshold in Sara Duterte impeachment trial
+     Wed, 30 Sep 2026
+     https://www.philstar.com/headlines/2026/09/30/2560026/sc-dismisses-petitions-vs-vote-threshold-sara-duterte-impeachment-trial
+
+  2. Comelec building electoral sabotage case over pre-shaded ballots in Basilan
+     Wed, 30 Sep 2026
+     https://www.philstar.com/headlines/2026/09/30/2560017/comelec-building-electoral-sabotage-case-over-pre-shaded-ballots-basilan
+
+  3. Treeless urban areas may face 50 degrees Celsius heat index as Super El Niño looms
+     Wed, 30 Sep 2026
+     https://www.philstar.com/headlines/2026/09/30/2560014/treeless-urban-areas-may-face-50-degrees-celsius-heat-index-super-el-nio-looms
+
+  4. Marcos institutionalizes DBM public funds tracker
+     Wed, 30 Sep 2026
+     https://www.philstar.com/headlines/2026/09/30/2560005/marcos-institutionalizes-dbm-public-funds-tracker
+
+  5. Poor planning at resettlement sites pushing schools past capacity
+     Wed, 30 Sep 2026
+     https://www.philstar.com/headlines/2026/09/30/2560007/poor-planning-resettlement-sites-pushing-schools-past-capacity
+
+════════════════════════════════════════════════════════
+  📰 Manila Standard
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 Business World
+════════════════════════════════════════════════════════
+
+  1. US trade chief to consider trade deal tariff caps in excess capacity probe
+     Wed, 30 Sep 2026
+     https://bworldonline.com/world/2026/09/30/783277/us-trade-chief-to-consider-trade-deal-tariff-caps-in-excess-capacity-probe/
+
+  2. China’s weak soybean demand dims prospects for US cargos after tariff snub
+     Wed, 30 Sep 2026
+     https://bworldonline.com/world/2026/09/30/783276/chinas-weak-soybean-demand-dims-prospects-for-us-cargos-after-tariff-snub/
+
+  3. Burnham says Britain should weigh EU options, including rejoining bloc
+     Wed, 30 Sep 2026
+     https://bworldonline.com/world/2026/09/30/783278/burnham-says-britain-should-weigh-eu-options-including-rejoining-bloc/
+
+  4. DoST, CapSU unveil facilities to boost Capiz agri machinery development
+     Wed, 30 Sep 2026
+     https://bworldonline.com/agribusiness/2026/09/30/783224/dost-capsu-unveil-facilities-to-boost-capiz-agri-machinery-development/
+
+  5. Bayanihan endures as thousands flock to SM Cares’ International Coastal Cleanup
+     Wed, 30 Sep 2026
+     https://bworldonline.com/spotlight/2026/09/30/783280/bayanihan-endures-as-thousands-flock-to-sm-cares-international-coastal-cleanup/
+
+════════════════════════════════════════════════════════
+  📰 Rappler News
+════════════════════════════════════════════════════════
+
+  1. Leandro Leviste&#8217;s ABS-CBN stake is shrinking, and so is everyone else&#8217;s
+     Wed, 30 Sep 2026
+     https://www.rappler.com/newsbreak/inside-track/leandro-leviste-abs-cbn-stake-shrinking-same-everyone-else/
+
+  2. Rappler Talk: Naguib Sinarimbo on the work ahead for BARMM&#8217;s first elected parliament
+     Wed, 30 Sep 2026
+     https://www.rappler.com/philippines/rappler-talk/naguib-sinarimbo-work-ahead-barmm-parliament/
+
+  3. [Be The Good] Does your community want a chat room on Muni?
+     Wed, 30 Sep 2026
+     https://www.rappler.com/voices/newsletters/be-the-good-community-muni-chat-room/
+
+  4. FACT CHECK: No P50-M fine on users for improper social media use under House bill
+     Wed, 30 Sep 2026
+     https://www.rappler.com/newsbreak/fact-check/no-house-bill-fifty-million-peso-fine-improper-social-media-use/
+
+  5. Rappler Live Jam: Julie Anne San Jose
+     Wed, 30 Sep 2026
+     https://www.rappler.com/entertainment/live-jam/music-sessions-julie-anne-san-jose-october-2026/
+
+════════════════════════════════════════════════════════
+  📰 Interaksyon TV5
+════════════════════════════════════════════════════════
+
+  1. Jennylyn Mercado carries on with business amid buzz over Patrick Garcia interview
+     Wed, 30 Sep 2026
+     https://interaksyon.philstar.com/celebrities/2026/09/30/319986/jennylyn-mercardo-carries-on-business-buzz-patrick-garcia-interview/
+
+  2. How can the same El Niño cause drought in one part of the world and floods in another?
+     Wed, 30 Sep 2026
+     https://interaksyon.philstar.com/politics-issues/2026/09/30/319994/how-can-the-same-el-nino-cause-drought-in-one-part-of-the-world-and-floods-in-another/
+
+  3. Milk tea franchise closes after 7 years amid rising costs, business challenges
+     Wed, 30 Sep 2026
+     https://interaksyon.philstar.com/trends-spotlights/2026/09/30/319956/milk-tea-franchise-shuts-rising-costs-business-challenges/
+
+  4. With trophy hopes high, Philadelphia gets party going early for LeBron
+     Wed, 30 Sep 2026
+     https://interaksyon.philstar.com/sports/2026/09/30/319981/with-trophy-hopes-high-philadelphia-gets-party-going-early-for-lebron/
+
+  5. Bishop urges families ‘to bring back the family table’
+     Wed, 30 Sep 2026
+     https://interaksyon.philstar.com/trends-spotlights/2026/09/30/319947/bishop-urges-families-to-bring-back-the-family-table/
+
+════════════════════════════════════════════════════════
+  📰 Current Ph
+════════════════════════════════════════════════════════
+
+  1. BASTE DUTERTE, NAGTTESTIGO SA IMPEACHMENT TRIAL NI VP SARA
+     Tue, 29 Sep 2026
+     https://currentph.com/2026/09/29/baste-duterte-nagttestigo-sa-impeachment-trial-ni-vp-sara/
+
+  2. OIL PRICE ROLLBACK!
+     Mon, 28 Sep 2026
+     https://currentph.com/2026/09/28/oil-price-rollback/
+
+  3. WAKASAN ANG 8 TAONG KALBARYO SA TUBIG!
+     Mon, 28 Sep 2026
+     https://currentph.com/2026/09/28/wakasan-ang-8-taong-kalbaryo-sa-tubig/
+
+  4. Massive Rollback Ahead: Diesel Could Drop by Up to ₱7.50/L Next Week
+     Fri, 25 Sep 2026
+     https://currentph.com/2026/09/25/massive-rollback-ahead-diesel-could-drop-by-up-to-%e2%82%b17-50-l-next-week/
+
+  5. GOLDEN TWICE!
+     Fri, 25 Sep 2026
+     https://currentph.com/2026/09/25/golden-twice/
+
+════════════════════════════════════════════════════════
+  📰 Panay Island News
+════════════════════════════════════════════════════════
+
+  1. ‘Gustung-gusto nilang bumoto’ — Bong Go presses COMELEC to address low OFW voter turnout
+     Wed, 30 Sep 2026
+     https://www.panaynews.net/gustung-gusto-nilang-bumoto-bong-go-presses-comelec-to-address-low-ofw-voter-turnout/
+
+  2. SIX-MONTH DRY SPELL THREATENS W. VISAYAS; PAGASA warns of Super El Niño water crisis, drought
+     Tue, 29 Sep 2026
+     https://www.panaynews.net/six-month-dry-spell-threatens-w-visayas-pagasa-warns-of-super-el-nino-water-crisis-drought/
+
+  3. Higher fuel costs, steep rentals bleed Iloilo drivers dry
+     Tue, 29 Sep 2026
+     https://www.panaynews.net/higher-fuel-costs-steep-rentals-bleed-iloilo-drivers-dry/
+
+  4. Bacolod to defer acceptance of TIEZA projects until fully completed
+     Tue, 29 Sep 2026
+     https://www.panaynews.net/bacolod-to-defer-acceptance-of-tieza-projects-until-fully-completed/
+
+  5. Romualdez challenges evidence, seeks bail in P7.4-b plunder case
+     Tue, 29 Sep 2026
+     https://www.panaynews.net/romualdez-challenges-evidence-seeks-bail-in-p7-4-b-plunder-case/
+
+────────────────────────────────────────────────────────
+  ✅ 100 items from 20/27 feeds
+

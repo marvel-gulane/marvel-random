@@ -1,0 +1,1427 @@
+
+════════════════════════════════════════════════════════
+  📰 Hacker News
+════════════════════════════════════════════════════════
+
+  1. Grammarly will send unhinged messages to all your users if you try to cancel
+     Wed, 23 Sep 2026
+     https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/
+
+  2. Data-only attacks are easier than you think (2024)
+     Wed, 23 Sep 2026
+     https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think
+
+  3. Transit rewards (Waymo pays you to take the train)
+     Wed, 23 Sep 2026
+     https://waymo.com/blog/2026/09/transit-rewards/
+
+  4. The current balance of power in open models
+     Tue, 22 Sep 2026
+     https://www.interconnects.ai/p/the-current-balance-of-power-in-open
+
+  5. Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
+     Tue, 22 Sep 2026
+     https://foxscript.org/
+
+  6. Native apps written in TypeScript and CSS
+     Tue, 22 Sep 2026
+     https://github.com/geastack/examples
+
+  7. Obscura: VPN that can't log your activity
+     Tue, 22 Sep 2026
+     https://obscura.com/#faq-technical
+
+  8. Pentagon says overreliance on AI contributed to missile strike on Iran school
+     Tue, 22 Sep 2026
+     https://www.bloomberg.com/graphics/2026-iran-school-attack/
+
+  9. SAML: A fractal of bad design
+     Tue, 22 Sep 2026
+     https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/
+
+  10. Unreal Agent
+     Tue, 22 Sep 2026
+     https://unreallabs.ai/blog/unreal-agent/
+
+  11. GPT-6 Sol and Luna
+     Tue, 22 Sep 2026
+     https://openai.com/index/introducing-gpt-6-sol-and-luna/
+
+  12. 'We hacked the FBI:' Hackers say they have data on all FBI employees
+     Tue, 22 Sep 2026
+     https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/
+
+  13. Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)
+     Tue, 22 Sep 2026
+     https://artificialanalysis.ai/models/claude-opus-5-5
+
+  14. WordPress: Unauthenticated path traversal leading to conditional RCE
+     Tue, 22 Sep 2026
+     https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp
+
+  15. Claude Opus 5.5
+     Tue, 22 Sep 2026
+     https://www.anthropic.com/claude-opus-5-5
+
+  16. 16-bit Intel 8088 chip (c. 1985)
+     Tue, 22 Sep 2026
+     https://allpoetry.com/16-bit-Intel-8088-chip
+
+  17. OpenAI is well positioned to fast-follow Jev
+     Tue, 22 Sep 2026
+     https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/
+
+  18. Apple has added persistent 'ads' to iOS, and it's driving users crazy
+     Tue, 22 Sep 2026
+     https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy
+
+  19. OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+     Tue, 22 Sep 2026
+     https://www.cryptocellar.org/bgac/the-mvueh-break.html
+
+  20. Show HN: JevBench, a reproducible benchmark for typed decision models
+     Tue, 22 Sep 2026
+     https://benchmarkheaven.com/jev-models
+
+════════════════════════════════════════════════════════
+  📰 BBC News
+════════════════════════════════════════════════════════
+
+  1. UK to step up fight against Russian disinformation and push global AI standards, PM says
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&amp;at_campaign=rss
+
+  2. Watch: Key moments from Andy Burnham's first UN speech
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&amp;at_campaign=rss
+
+  3. Chris Mason: From inside the room, how Burnham survived first Trump meeting
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&amp;at_campaign=rss
+
+  4. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&amp;at_campaign=rss
+
+  5. 'My eyelids became infected - I was scared to sleep'
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/videos/cjp306113l0wo?at_medium=RSS&amp;at_campaign=rss
+
+  6. 'Poison seller' who sold my daughter deadly drugs should rot in hell
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&amp;at_campaign=rss
+
+  7. Child ketamine users getting bladder damage describe 'peeing a jellyfish'
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/cqgk52ln68xvo?at_medium=RSS&amp;at_campaign=rss
+
+  8. Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&amp;at_campaign=rss
+
+  9. US and Iran hold first talks since June after Trump's 'annihilation' threat
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&amp;at_campaign=rss
+
+  10. Europe's car makers are in crisis. Will the threat of war rescue them?
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&amp;at_campaign=rss
+
+  11. Dozens of migrants taken to Dover after more than 30 hours at sea
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/ck1l6yed62v5o?at_medium=RSS&amp;at_campaign=rss
+
+  12. Booker Prize judges reveal shortlisted novels after selection 'tussle'
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&amp;at_campaign=rss
+
+  13. 'I don't have a buoyancy aid': Living without the Bank of Mum and Dad
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&amp;at_campaign=rss
+
+  14. Fresh bedsheets and dusk walks: Expert tips for sleep-deprived freshers
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/cmwyz2p41ezvo?at_medium=RSS&amp;at_campaign=rss
+
+  15. As Trump and Xi talk, China surges ahead with its AI ambitions
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&amp;at_campaign=rss
+
+  16. Reports of violence against women in Gaza surge, UN agency finds
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss
+
+  17. The Papers: 'Burn to be mild' and 'Pulp fiction'
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/cw8d3274g2l7o?at_medium=RSS&amp;at_campaign=rss
+
+  18. Playing loud music on the bus? That could cost you £300 in Singapore
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss
+
+  19. Frost, wind and rain forecast as autumn warmth fades for many
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/weather/articles/cwp80lxpr71go?at_medium=RSS&amp;at_campaign=rss
+
+  20. Plot targeting Manchester's Jewish community disrupted, say police
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&amp;at_campaign=rss
+
+════════════════════════════════════════════════════════
+  📰 Reuters
+════════════════════════════════════════════════════════
+  ⚠️  Failed: fetch failed
+
+════════════════════════════════════════════════════════
+  📰 The Verge
+════════════════════════════════════════════════════════
+  ⚠️  Failed: Cannot read properties of undefined (reading 'match')
+
+════════════════════════════════════════════════════════
+  📰 Ars Technica
+════════════════════════════════════════════════════════
+
+  1. Woman's brain worm infection confirmed after eggs grow tails in lab test
+     Tue, 22 Sep 2026
+     https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/
+
+  2. New Anthropic, OpenAI models make same promise: A little more for a lot less money
+     Tue, 22 Sep 2026
+     https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/
+
+  3. Cities across US oppose Trump FCC plan to preempt local broadband rules
+     Tue, 22 Sep 2026
+     https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/
+
+  4. Microsoft disrupts AI-assisted platform that compromised 12,000 accounts
+     Tue, 22 Sep 2026
+     https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/
+
+  5. Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting
+     Tue, 22 Sep 2026
+     https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/
+
+  6. Adobe Premiere finally brings powerful video editing to Android, and it's free
+     Tue, 22 Sep 2026
+     https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/
+
+  7. Review: Resident Evil might just be the best gaming adaptation yet
+     Tue, 22 Sep 2026
+     https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/
+
+  8. Toyota orders workers to train humanoid robots but says humans won't be replaced
+     Tue, 22 Sep 2026
+     https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/
+
+  9. IT mistake erases 11 years of viewing history for hospitals’ maternity records
+     Tue, 22 Sep 2026
+     https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/
+
+  10. Effort begins to fill the void left by terminated US climate report
+     Tue, 22 Sep 2026
+     https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/
+
+  11. Shuffling the deck chairs: Xbox continues its "reset" with dramatic restructuring
+     Tue, 22 Sep 2026
+     https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/
+
+  12. Protests for Germany’s car industry as job losses loom
+     Tue, 22 Sep 2026
+     https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/
+
+  13. Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent
+     Tue, 22 Sep 2026
+     https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/
+
+  14. Dyson’s most overengineered gadget may have a waterproofing problem
+     Tue, 22 Sep 2026
+     https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/
+
+  15. NASA chief: I'm only interested in "good deals" from international partners
+     Tue, 22 Sep 2026
+     https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/
+
+  16. Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day
+     Mon, 21 Sep 2026
+     https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/
+
+  17. Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat
+     Mon, 21 Sep 2026
+     https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/
+
+  18. Saudi Arabia wants a car industry, launches Ceer with two EVs
+     Mon, 21 Sep 2026
+     https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/
+
+  19. Google confirms Gemini models hacked three companies in May 2026
+     Mon, 21 Sep 2026
+     https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/
+
+  20. Russel Vought will reportedly be given veto power over all NIH grants
+     Mon, 21 Sep 2026
+     https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/
+
+════════════════════════════════════════════════════════
+  📰 TechCrunch
+════════════════════════════════════════════════════════
+
+  1. &#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI
+     Wed, 23 Sep 2026
+     https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/
+
+  2. Discord&#8217;s age verification era is upon us, despite community backlash
+     Wed, 23 Sep 2026
+     https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/
+
+  3. TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/
+
+  4. Snorkel AI triples valuation to $3.5B as demand for AI training data booms
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/
+
+  5. Qualcomm launches two new smartphone chips with emphasis on AI
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/
+
+  6. Apple could take on Whoop with a new fitness tracker, report says
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/
+
+  7. Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/
+
+  8. Hacking group ShinyHunters claims it breached the FBI, stole agents&#8217; and applicants&#8217; data
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/
+
+  9. a16z is challenging Silicon Valley&#8217;s love for drop-outs by launching a school
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/
+
+  10. OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/
+
+  11. Waymo&#8217;s latest expansion strategy: teenagers
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/
+
+  12. Anthropic releases Opus 5.5 with lower prices and Fable-level performance
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/
+
+  13. Stolen passwords are exposing America&#8217;s water providers to hackers
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/
+
+  14. Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/
+
+  15. Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/
+
+  16. AstroForge is putting AI in command of its next spacecraft
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/
+
+  17. TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/
+
+  18. Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/
+
+  19. TikTok&#8217;s US arm joins Lantern, a cross-platform child safety initiative
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/
+
+  20. 4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026
+     Tue, 22 Sep 2026
+     https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/
+
+════════════════════════════════════════════════════════
+  📰 Wired
+════════════════════════════════════════════════════════
+
+  1. Ray-Ban Promo Codes: Save 50% in September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/ray-ban-promo-code/
+
+  2. Google Workspace Promo Codes: 14% Off for September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/google-workspace-promo-code/
+
+  3. Hotels.com Coupon Codes for September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/hotels-com-coupon/
+
+  4. 20% Off Sephora Promo Code | September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/sephora-promo-code/
+
+  5. LG Promo Codes and Coupons for September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/lg-promo-code/
+
+  6. Nomad Goods Promo Codes: Get 25% Off in September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/nomad-discount-code/
+
+  7. Nike Promo Codes and Discounts: 30% for September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/nike-promo-code/
+
+  8. Uber Eats Promo Codes: $15 Off │September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/uber-eats-promo-code/
+
+  9. Valvoline Coupons and Promo Codes for September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/valvoline-coupons/
+
+  10. 30% Off Canon Promo Codes | September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/canon-promo-code/
+
+  11. Hostinger Promo Code: 79% Off for September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/hostinger-coupon-code/
+
+  12. Squarespace Promo Codes: 20% Off in September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/squarespace-promo-code/
+
+  13. AT&amp;T Promo Codes: $50 Off This September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/att-promo-code/
+
+  14. HP Coupon Codes and Deals September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/hp-coupon-code/
+
+  15. PlayStation Discount Code: Save on PS5 Games September 2026
+     Wed, 23 Sep 2026
+     https://www.wired.com/story/playstation-discount-code/
+
+  16. How to Claim Your Cut of Apple’s $250 Million Siri Settlement
+     Tue, 22 Sep 2026
+     https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/
+
+  17. Rabbit Is Back, This Time With an AI Agent App
+     Tue, 22 Sep 2026
+     https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/
+
+  18. Viture’s Vonder Glasses Are Meant to Map Your Mind
+     Tue, 22 Sep 2026
+     https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/
+
+  19. Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android
+     Tue, 22 Sep 2026
+     https://www.wired.com/story/adobe-premiere-now-on-android/
+
+  20. AI Models Built From Rat Brains Just Got Closer to Reality
+     Tue, 22 Sep 2026
+     https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/
+
+════════════════════════════════════════════════════════
+  📰 NPR News
+════════════════════════════════════════════════════════
+
+  1. Category 5 Hurricane Polo is &apos;one of the strongest storms ever&apos;
+     Wed, 23 Sep 2026
+     https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo
+
+  2. Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims
+     Wed, 23 Sep 2026
+     https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act
+
+  3. Questions remain after grand jury declines indictment in Nolan Wells&apos; death
+     Tue, 22 Sep 2026
+     https://www.npr.org/2026/09/22/nx-s1-5977673/questions-remain-after-grand-jury-declines-indictment-in-nolan-wells-death
+
+  4. Girl accuses Braden Peters, social media influencer known as &apos;Clavicular,&apos; of rape
+     Tue, 22 Sep 2026
+     https://www.npr.org/2026/09/22/nx-s1-5978033/braden-peters-clavicular-looksmaxxing-rape-accusation
+
+  5. White House launches &apos;Trump TV&apos; after ban on major news outlets
+     Tue, 22 Sep 2026
+     https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house
+
+  6. Trump&apos;s D.C. arch is now a military complex. Here&apos;s how that complicates things
+     Tue, 22 Sep 2026
+     https://www.npr.org/2026/09/22/nx-s1-5977646/trump-dc-arch-military-complex-questions
+
+  7. Inside a &apos;modern slavery situation&apos; where cyber scammers are victims themselves
+     Tue, 22 Sep 2026
+     https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves
+
+  8. This &apos;fire amoeba&apos; pushes the limit of what&apos;s possible for complex life
+     Tue, 22 Sep 2026
+     https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life
+
+  9. Sri Lanka court convicts 15 over deadly 2019 Easter bombings
+     Tue, 22 Sep 2026
+     https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings
+
+  10. CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit
+     Tue, 22 Sep 2026
+     https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal
+
+════════════════════════════════════════════════════════
+  📰 The Guardian
+════════════════════════════════════════════════════════
+
+  1. Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns
+     Mon, 21 Sep 2026
+     https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl
+
+  2. Banished to alien lands: Trump’s secret deportation deals
+     Mon, 21 Sep 2026
+     https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals
+
+  3. Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say
+     Fri, 18 Sep 2026
+     https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea
+
+  4. Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died
+     Fri, 18 Sep 2026
+     https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna
+
+  5. British woman who was kidnapped in Malawi rescued by police after shootout
+     Fri, 18 Sep 2026
+     https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout
+
+  6. Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’
+     Wed, 23 Sep 2026
+     https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council
+
+  7. Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico
+     Tue, 22 Sep 2026
+     https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico
+
+  8. Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
+     Tue, 22 Sep 2026
+     https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech
+
+  9. British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting
+     Tue, 22 Sep 2026
+     https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting
+
+  10. Colombia declares public calamity as wildfire threatens popular tourist area
+     Mon, 21 Sep 2026
+     https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva
+
+  11. Six-year-old Chinese girl ‘sets new women’s Rubik’s Cube world record’
+     Tue, 22 Sep 2026
+     https://www.theguardian.com/games/2026/sep/22/six-year-old-chinese-girl-rubiks-cube-world-record-lian-yunzhi
+
+  12. Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong
+     Tue, 22 Sep 2026
+     https://www.theguardian.com/world/2026/sep/22/australia-investigating-how-f-35-fighter-jet-parts-bound-for-us-went-missing-in-hong-kong
+
+  13. At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides
+     Tue, 22 Sep 2026
+     https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo
+
+  14. Japanese islands brace for Dujuan to become a typhoon again
+     Mon, 21 Sep 2026
+     https://www.theguardian.com/environment/2026/sep/21/weather-tracker-japan-typhoon-dujuan
+
+  15. Why China is pushing back on US warnings over rapid AI development
+     Sun, 20 Sep 2026
+     https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development
+
+  16. Australia news live: Albanese meets with Japan’s PM for first time since melon-gate; police offer $1m for Gus Lamont information
+     Wed, 23 Sep 2026
+     https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb
+
+  17. Angry Anderson dies aged 79: Rose Tattoo frontman was a ferocious rock ’n’ roll singer and youth advocate
+     Wed, 23 Sep 2026
+     https://www.theguardian.com/music/2026/sep/23/angry-anderson-dies-rose-tattoo-frontman-death-aged-79
+
+  18. Bikies, ‘moral compass malfunctions’ and corruption cost: Victoria’s Big Build royal commission holds first public hearing
+     Wed, 23 Sep 2026
+     https://www.theguardian.com/australia-news/2026/sep/23/victoria-big-build-royal-commission-construction-inquiry-corruption-first-hearing-ntwnfb
+
+  19. Qantas announces 18-hour direct flights from Sydney to New York with onboard ‘wellbeing zones’
+     Wed, 23 Sep 2026
+     https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york
+
+  20. Jesse Baird ‘petrified’ of Beau Lamarre-Condon and kept repeating ‘he has a gun’, court hears
+     Wed, 23 Sep 2026
+     https://www.theguardian.com/australia-news/2026/sep/23/beau-lamarre-condon-trial-jesse-baird-luke-davies-ntwnfb
+
+════════════════════════════════════════════════════════
+  📰 Al Jazeera
+════════════════════════════════════════════════════════
+
+  1. Trump rallies Latin American allies against drug cartels
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss
+
+  2. Cooperation is the goal at the UNGA, but is it possible?
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss
+
+  3. Six-year-old sets Rubik’s Cube world record twice in three days
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss
+
+  4. US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss
+
+  5. Sri Lanka convicts 15 people over 2019 Easter Day bombings
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss
+
+  6. Venezuelans protest interim leader Delcy Rodriguez at UN headquarters
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss
+
+  7. Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss
+
+  8. France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss
+
+  9. UK Prime Minister vows not to ‘stand by’ as Palestinians suffer
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-prime-minister-vows-not-to-stand-by-as-palestinians-suffer?traffic_source=rss
+
+  10. South Sudan’s Kiir dissolves government ahead of first national elections
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/news/2026/9/23/south-sudan-dissolves-government-ahead-of-first-ever-national-elections?traffic_source=rss
+
+  11. In Senegal, a mother’s ordeal exposes a health system under strain
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/news/2026/9/23/in-senegal-a-mothers-ordeal-exposes-a-health-system-under-strain?traffic_source=rss
+
+  12. Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks?traffic_source=rss
+
+  13. Iranian President Masoud Pezeshkian arrives in New York for UNGA
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss
+
+  14. UK PM Burnham condemns ‘repulsive’ Russian electoral interference
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-pm-burnham-condemns-repulsive-russian-electoral-interference?traffic_source=rss
+
+  15. Iran war live: Trump confirms ‘very good’ meeting with Iran at UN
+     Wed, 23 Sep 2026
+     https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss
+
+  16. Iran cancels Baghdad, Muscat flights as US aviation sanctions take effect
+     Tue, 22 Sep 2026
+     https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss
+
+  17. Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters
+     Tue, 22 Sep 2026
+     https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss
+
+  18. UNGA Day 1: US and Iran hold talks despite Trump’s threat
+     Tue, 22 Sep 2026
+     https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss
+
+  19. Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?
+     Tue, 22 Sep 2026
+     https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss
+
+  20. US Republican calls for probe into Donald Trump Jr’s business dealings
+     Tue, 22 Sep 2026
+     https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss
+
+════════════════════════════════════════════════════════
+  📰 BBC Asia
+════════════════════════════════════════════════════════
+
+  1. White House to roll out the red carpet for historic Xi Jinping visit
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&amp;at_campaign=rss
+
+  2. As Trump and Xi talk, China surges ahead with its AI ambitions
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&amp;at_campaign=rss
+
+  3. More than 170,000 respiratory cases recorded in haze-choked Indonesia
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&amp;at_campaign=rss
+
+  4. US criticises Australia's proposed algorithm opt-out laws as 'censorship'
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&amp;at_campaign=rss
+
+  5. Playing loud music on the bus? That will cost you hundreds of dollars in Singapore
+     Wed, 23 Sep 2026
+     https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&amp;at_campaign=rss
+
+  6. Sri Lanka court convicts 15 men over deadly Easter Sunday bombings
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&amp;at_campaign=rss
+
+  7. Four dead after powerful Typhoon Dujuan lashes Japan
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&amp;at_campaign=rss
+
+  8. Watch: Six-year-old girl from China sets new Rubik's Cube world record
+     Tue, 22 Sep 2026
+     https://www.bbc.co.uk/news/videos/cmvgyzgnq9e3o?at_medium=RSS&amp;at_campaign=rss
+
+  9. Nvidia boss rejects AI extinction fears as 'doomsday narratives'
+     Mon, 21 Sep 2026
+     https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&amp;at_campaign=rss
+
+  10. Mum's viral barefoot race sparks debate over India's education crisis
+     Sat, 19 Sep 2026
+     https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&amp;at_campaign=rss
+
+  11. At least 21 killed after vehicle loaded with explosives rams Pakistan mosque
+     Fri, 18 Sep 2026
+     https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&amp;at_campaign=rss
+
+  12. Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt
+     Fri, 18 Sep 2026
+     https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&amp;at_campaign=rss
+
+  13. Our head teacher was an abuser. We joined forces to get justice - now we're married
+     Sat, 19 Sep 2026
+     https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&amp;at_campaign=rss
+
+  14. Why a new Pakistan-China border pact has irked India
+     Sun, 20 Sep 2026
+     https://www.bbc.co.uk/news/articles/cqe9e4vjx1e5o?at_medium=RSS&amp;at_campaign=rss
+
+  15. Workers came across human remains – and unearthed a mass grave of 572 people
+     Sun, 20 Sep 2026
+     https://www.bbc.co.uk/news/articles/cm1j4kl80z56o?at_medium=RSS&amp;at_campaign=rss
+
+  16. Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds
+     Sun, 20 Sep 2026
+     https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&amp;at_campaign=rss
+
+  17. Watch: BBC tracks down abusive teacher secretly released early
+     Sun, 20 Sep 2026
+     https://www.bbc.co.uk/news/videos/c5gmrlm7pm0vo?at_medium=RSS&amp;at_campaign=rss
+
+════════════════════════════════════════════════════════
+  📰 CNA
+════════════════════════════════════════════════════════
+
+  1. Two workers die after falling into sea at Tuas Port
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/singapore/tuas-port-workers-deaths-fall-sea-psa-mom-6404246
+
+  2. Sri Lanka economy resilient but risks remain tilted to downside, IMF says
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/business/sri-lanka-economy-resilient-risks-remain-tilted-downside-imf-says-6404291
+
+  3. Ah Girls Go Army actress Apple Chan gives birth to baby girl at 32 weeks after emergency C-section
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/entertainment/apple-chan-baby-girl-emergency-c-section-32-weeks-6404011
+
+  4. German and Dutch strategic innovation agencies to collaborate on AI chip design
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/business/german-and-dutch-strategic-innovation-agencies-collaborate-ai-chip-design-6404241
+
+  5. Singapore&#039;s core inflation rises to nearly two-year high of 2.2% in August
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/singapore/singapore-core-inflation-august-2026-mas-mti-6404086
+
+  6. Irin Gan reunites with Growing Up ‘Ma&#039; and &#039;Pa&#039;, sparking a wave of nostalgia among fans
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/entertainment/growing-up-cast-reunion-irin-gan-lim-kay-tong-wee-soon-hui-6403836
+
+  7. Milne, Bracewell return as New Zealand lose Ravindra for India T20s
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/sport/milne-bracewell-return-new-zealand-lose-ravindra-india-t20s-6404121
+
+  8. &#039;What the heck?&#039; Alcaraz quizzes Zverev about US Open championship point
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/sport/what-heck-alcaraz-quizzes-zverev-about-us-open-championship-point-6404101
+
+  9. Cambodia no &#039;safe haven&#039; for scams, prime minister tells anti-fraud summit
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/asia/cambodia-scam-anti-fraud-summit-us-china-6403706
+
+  10. CNA Explains: What does the US-Greenland security deal actually change?
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/world/greenland-us-deal-military-base-denmark-cna-explains-6401501
+
+  11. Taiwanese TV host Blackie Chen apologises for breaking hospital rules with ICU photo
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/entertainment/blackie-chen-icu-photo-against-rules-6403806
+
+  12. South Korean celebrity couple Park Shin-hye and Choi Tae-joon welcome second child
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/entertainment/park-shin-hye-gives-birth-second-child-6403861
+
+  13. Terrorism remains a major concern, Singapore to enter next phase of SGSecure movement: PM Wong
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/singapore/sgsecure-movement-terrorism-major-concern-pm-wong-6403821
+
+  14. From uncertainty to answers: Why coordinated breast assessment matters
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/brand-studio/uncertainty-answers-why-coordinated-breast-assessment-matters-6399121
+
+  15. Oil falls on increased Gulf supply and hopes for US-Iran talks
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/business/oil-falls-increased-gulf-supply-and-hopes-us-iran-talks-6403826
+
+  16. Exclusive-GM CEO Mary Barra to attend Trump&#039;s state dinner for Xi, sources say
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/business/exclusive-gm-ceo-mary-barra-attend-trumps-state-dinner-xi-sources-say-6403816
+
+  17. Future-proof your golden years
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/brand-studio/future-proof-your-golden-years-6399081
+
+  18. Meta takes action against 3.7 million scam-linked &#039;shell pages&#039; and accounts in Singapore police partnership
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/singapore/spf-meta-facebook-instagram-scams-6402031
+
+  19. Israel denounces &#039;grotesque absurdity&#039; of Macron UN remarks on West Bank
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/world/israel-west-bank-shooting-macron-un-6403701
+
+  20. South Korea plans to cut its reliance on Middle crude oil imports to 50% by 2035
+     Wed, 23 Sep 2026
+     https://www.channelnewsasia.com/business/south-korea-plans-cut-its-reliance-middle-crude-oil-imports-50-2035-6403736
+
+════════════════════════════════════════════════════════
+  📰 SCMP
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 404
+
+════════════════════════════════════════════════════════
+  📰 Radio Free Asia
+════════════════════════════════════════════════════════
+
+  1. New rules to protect tech secrets could strand Taiwanese visitors in China
+     Tue, 22 Sep 2026
+     https://rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/
+
+  2. Residents say Philippines’ Pax Silica Hub will force them off their ancestral land
+     Tue, 22 Sep 2026
+     https://rfa.org/english/southchinasea/2026/09/22/aeta-philippines-pax-silica-tech-hub/
+
+  3. ‘Modern day slavery:’ Myanmar’s military swells ranks through corruption and deceit
+     Sun, 20 Sep 2026
+     https://rfa.org/english/myanmar/2026/09/20/burma-forced-conscription-human-trafficking/
+
+  4. Xi Jinping’s US visit will be a test of his power among China’s elite
+     Sat, 19 Sep 2026
+     https://rfa.org/english/china/2026/09/19/xi-jinping-visit-washington-economy/
+
+  5. Viral moment for Manila showcases South China Sea dispute, but status quo remains
+     Thu, 17 Sep 2026
+     https://rfa.org/english/southchinasea/2026/09/17/philippines-china-teodoro-note-rebuke/
+
+  6. Pyongyang subway ticket price nearly triples
+     Mon, 14 Sep 2026
+     https://rfa.org/english/korea/2026/09/14/north-korea-pyongyang-subway-inflation/
+
+  7. Solomon Islands domestic political squabbles could frustrate diplomatic engagement
+     Tue, 08 Sep 2026
+     https://rfa.org/english/pacific/2026/09/08/no-confidence-withdrawn-solomon-islands/
+
+  8. China confirms 43 dead in mudslide, Tibetan resident says 26 dead in just one village
+     Mon, 07 Sep 2026
+     https://rfa.org/english/tibet/2026/09/07/tibet-gyirong-nepal-glacier-death-toll/
+
+  9. Bridges to China, Russia preparing to open as North Korea deepens ties with both
+     Fri, 04 Sep 2026
+     https://rfa.org/english/korea/2026/09/04/north-korea-bridge-china-russia-tumen-yalu/
+
+  10. Solomon Islands crisis: regional power rivalries spill into domestic politics
+     Wed, 02 Sep 2026
+     https://rfa.org/english/pacific/2026/09/02/solomon-islands-no-confidence-wale/
+
+  11. Imprisoned Hong Kong activist Joshua Wong pleads guilty to ‘foreign collusion’
+     Wed, 02 Sep 2026
+     https://rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/
+
+  12. Sources in Tibet and Nepal reveal stories of flood destruction, survival
+     Tue, 01 Sep 2026
+     https://rfa.org/english/tibet/2026/09/01/tibet-flood-nepal-tour-guides/
+
+  13. Pacific Islands Forum meeting ‘less productive’ with a third of its leaders absent
+     Tue, 01 Sep 2026
+     https://rfa.org/english/pacific/2026/09/01/pacific-islands-forum-meeting-palau-taiwan-china/
+
+  14. Taiwan steps up AI defenses as China election interference fears grow
+     Mon, 31 Aug 2026
+     https://rfa.org/english/china/2026/08/31/taiwan-election-interference-china-ai/
+
+  15. Marianas voices demand a seat at the table in U.S. seabed mining proposal
+     Fri, 28 Aug 2026
+     https://rfa.org/english/pacific/2026/08/28/cnmi-mining-supply-chain-minerals/
+
+  16. Satellite imagery shows extensive damage from Nepal-Tibet border floods
+     Thu, 27 Aug 2026
+     https://rfa.org/english/tibet/2026/08/27/tibet-nepal-flood-landslide-blackout/
+
+  17. Hong Kong court verdict aims to erase Tiananmen memory, 1989 student protester says
+     Tue, 25 Aug 2026
+     https://rfa.org/english/china/2026/08/25/hkaspdmc-hong-kong-china-subversion/
+
+  18. Indonesia-China naval drill could help normalize Beijing’s presence east of Taiwan
+     Tue, 25 Aug 2026
+     https://rfa.org/english/southchinasea/2026/08/25/indonesia-china-taiwan-east-exercise-navy/
+
+  19. China ‘likely’ ran targeted campaign to align Pacific with its latest five-year plan
+     Thu, 20 Aug 2026
+     https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/
+
+  20. Philippines bets on classrooms to strengthen South China Sea claims
+     Wed, 19 Aug 2026
+     https://rfa.org/english/southchinasea/2026/08/19/philippines-south-china-sea-education/
+
+════════════════════════════════════════════════════════
+  📰 The Diplomat
+════════════════════════════════════════════════════════
+
+  1. 3 Ts Will Dominate the Trump-Xi Summit
+     Wed, 23 Sep 2026
+     https://thediplomat.com/2026/09/3-ts-will-dominate-the-trump-xi-summit/
+
+  2. A Debate Is Raging in China Over English Education
+     Wed, 23 Sep 2026
+     https://thediplomat.com/2026/09/a-debate-is-raging-in-china-over-english-education/
+
+  3. America’s AI Safety Dilemma and the Trump-Xi Summit
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/americas-ai-safety-dilemma-and-at-the-trump-xi-summit/
+
+  4. SCO, BRICS, Trump-Xi: What Does the Spate of Summits Mean for India?
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/sco-brics-trump-xi-what-does-the-spate-of-summits-mean-for-india/
+
+  5. The Transitions Shaping Australia’s Future
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/the-transitions-shaping-australias-future/
+
+  6. Why South Korea Has Little Room to Send Troops to Hormuz
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/why-south-korea-has-little-room-to-send-troops-to-hormuz/
+
+  7. BRICS 2026 Reveals Ambition, Contradictions, and Uncertain Futures
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/brics-2026-reveals-ambition-contradictions-and-uncertain-futures/
+
+  8. The Battle for Taiwan’s East: Taipei’s Western Pacific Strategy
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/the-battle-for-taiwans-east-taipeis-western-pacific-strategy/
+
+  9. Hindutva Is Slowly Seeping Into Nepal
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/hindutva-is-slowly-seeping-into-nepal/
+
+  10. Cambodia&#8217;s Online Scamming Crackdown Stops at the Top
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/cambodias-online-scamming-crackdown-stops-at-the-top/
+
+  11. How India’s Geopolitical Position Would Improve With Better China Ties
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/how-indias-geopolitical-position-would-improve-with-better-china-ties/
+
+  12. POGOs and Online Scams, From the Philippines to Myanmar
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/pogos-and-online-scams-from-the-philippines-to-myanmar/
+
+  13. Maldives’ Dollar Crisis Becomes a Political Test for President Muizzu
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/maldives-dollar-crisis-becomes-a-political-test-for-president-muizzu/
+
+  14. The Luxurious Mansion Where Former Malaysian PM Najib Will Serve His House Arrest
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/the-luxurious-mansion-where-former-malaysian-pm-najib-will-serve-his-house-arrest/
+
+  15. Reciprocal Trade Deal With the US Close to Completion, Vietnamese Media Reports
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/reciprocal-trade-deal-with-the-us-close-to-completion-vietnamese-media-reports/
+
+  16. Breaking Down the Philippines’ 2027 Budget
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/breaking-down-the-philippines-2027-budget/
+
+  17. Cambodian Government Grants Journalists Access to Giant Former Scamming Compound
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/cambodian-government-grants-journalists-access-to-giant-former-scamming-compound/
+
+  18. When Xi Visits Washington, Trump Must Raise China&#8217;s &#8216;Ethnic Unity&#8217; Law
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/when-xi-visits-washington-trump-must-raise-chinas-ethnic-unity-law/
+
+  19. Why Indonesians Feel Increasingly Bitter Today
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/why-indonesians-feel-increasingly-bitter-today/
+
+  20. Why Bangladesh Skipped the Delhi BRICS Summit
+     Tue, 22 Sep 2026
+     https://thediplomat.com/2026/09/why-bangladesh-skipped-the-delhi-brics-summit/
+
+════════════════════════════════════════════════════════
+  📰 East Asia Forum
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 e27
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 Nikkei Asia
+════════════════════════════════════════════════════════
+
+  1. Foxconn leads Taiwan tech firms in plan for AI, EV hub in Poland
+     https://asia.nikkei.com/business/technology/foxconn-leads-taiwan-tech-firms-in-plan-for-ai-ev-hub-in-poland
+
+  2. Vietnam's Vingroup inks $1bn bullet train deal with Siemens
+     https://asia.nikkei.com/business/transportation/vietnam-s-vingroup-inks-1bn-bullet-train-deal-with-siemens
+
+  3. Japan draws foreign couples for weddings as domestic marriages decline
+     https://asia.nikkei.com/business/travel-leisure/japan-draws-foreign-couples-for-weddings-as-domestic-marriages-decline
+
+  4. India's battery cell firms scale back ambition as China partnerships sour
+     https://asia.nikkei.com/business/energy/india-s-battery-cell-firms-scale-back-ambition-as-china-partnerships-sour
+
+  5. In Indonesia's West Kalimantan, prolonged fires and haze choke residents
+     https://asia.nikkei.com/spotlight/environment/in-indonesia-s-west-kalimantan-prolonged-fires-and-haze-choke-residents
+
+  6. El Nino, AI to widen economic growth gap in developing Asia: ADB
+     https://asia.nikkei.com/economy/el-nino-ai-to-widen-economic-growth-gap-in-developing-asia-adb
+
+  7. Japan's NEC joins Meta on ultrafast US-France undersea fiber-optic line
+     https://asia.nikkei.com/business/telecommunication/japan-s-nec-joins-meta-on-ultrafast-us-france-undersea-fiber-optic-line
+
+  8. Trump, Takaichi reaffirm alliance days before US-China summit
+     https://asia.nikkei.com/politics/international-relations/trump-takaichi-reaffirm-alliance-days-before-us-china-summit
+
+  9. Sharp takes aim at Starlink dominance with universal satellite antenna
+     https://asia.nikkei.com/business/technology/sharp-takes-aim-at-starlink-dominance-with-universal-satellite-antenna
+
+  10. Roche-owned Chugai Pharma to ramp up in-house output with 50% capex boost
+     https://asia.nikkei.com/business/pharmaceuticals/roche-owned-chugai-pharma-to-ramp-up-in-house-output-with-50-capex-boost
+
+  11. Japan's esports athletes train like Olympians at Tokyo center
+     https://asia.nikkei.com/spotlight/sports/japan-s-esports-athletes-train-like-olympians-at-tokyo-center
+
+  12. Starbucks' South Korean rivals get extra shot from marketing misstep
+     https://asia.nikkei.com/business/business-asia/starbucks-south-korean-rivals-get-extra-shot-from-marketing-misstep
+
+  13. SoftBank-backed SB Energy seen delaying IPO on valuation concerns
+     https://asia.nikkei.com/business/markets/ipo/softbank-backed-sb-energy-seen-delaying-ipo-on-valuation-concerns
+
+  14. Xi skips UN address to show China as equal to rival US
+     https://asia.nikkei.com/spotlight/trump-xi-summit/xi-skips-un-address-to-show-china-as-equal-to-rival-us
+
+  15. Big Japan banks' domestic loan share marks 1st sustained post-bubble rise
+     https://asia.nikkei.com/business/finance/big-japan-banks-domestic-loan-share-marks-1st-sustained-post-bubble-rise
+
+  16. SMFG brings in Nomura exec as latest outside hire ahead of Jefferies venture
+     https://asia.nikkei.com/business/finance/smfg-brings-in-nomura-exec-as-latest-outside-hire-ahead-of-jefferies-venture
+
+  17. Mitsubishi Heavy buoyed by brisk gas turbine demand from US data centers
+     https://asia.nikkei.com/editor-s-picks/interview/mitsubishi-heavy-buoyed-by-brisk-gas-turbine-demand-from-us-data-centers
+
+  18. Swipe east: Tinder operator steps up expansion in Japan, CEO says
+     https://asia.nikkei.com/business/technology/swipe-east-tinder-operator-steps-up-expansion-in-japan-ceo-says
+
+  19. Trump and Xi set to talk trade and AI as truce hangs in balance
+     https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance
+
+  20. ASEAN eyes signing of digital economy pact at November Manila summit
+     https://asia.nikkei.com/economy/asean-eyes-signing-of-digital-economy-pact-at-november-manila-summit2
+
+════════════════════════════════════════════════════════
+  📰 Manila Bulletin
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 GMA News
+════════════════════════════════════════════════════════
+
+  1. St. Padre Pio Shrine in Batangas formally declared int'l shrine
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/regions/1003405/st-padre-pio-shrine-in-batangas-formally-declared-int-l-shrine/story/
+
+  2. Minority senators boycott voting for VP Sara's conviction threshold
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003403/minority-senators-boycott-voting-for-vp-sara-s-conviction-threshold/story/
+
+  3. Impeachment court lowers voting threshold to convict Sara Duterte
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003366/impeachment-court-lowers-voting-threshold-to-convict-impeached-official/story/
+
+  4. Marcoleta hints he may skip Sara Duterte impeachment vote
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003401/marcoleta-hints-he-may-skip-sara-duterte-impeachment-vote/story/
+
+  5. Impeachment court, ibinasura ang kahilingan ni Alan Cayetano na ipagpaliban ang pagtukoy sa voting threshold
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/balitambayan/balita/1003400/impeachment-court-ibinasura-ang-kahilingan-ni-alan-cayetano-na-ipagpaliban-ang-pagtukoy-sa-votin/story/
+
+  6. Camille Villar gets emotional, calls for respect for absent colleagues
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003398/camille-villar-gets-emotional-calls-for-respect-for-absent-colleagues/story/
+
+  7. Prosecution: Setting lower threshold for conviction in impeachment won't amend Constitution
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003396/prosecution-setting-lower-threshold-for-conviction-in-impeachment-won-t-amend-constitution/story/
+
+  8. Senate impeachment court to vote on threshold to convict
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003393/impeachment-court-rejects-alan-cayetano-s-plea-to-defer-determination-of-voting-threshold/story/
+
+  9. DPWH chief Vince Dizon testifies in Sandiganbayan graft case vs. Zaldy Co
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003392/dpwh-chief-vince-dizon-testifies-in-sandiganbayan-graft-case-vs-zaldy-co/story/
+
+  10. Senate impeachment court rules to refer to VP Sara as respondent-accused
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003389/senate-impeachment-court-rules-to-refer-to-vp-sara-as-respondent-accused/story/
+
+  11. Sara Duterte's defense team: July 6 voting threshold ruling not subject to appeal
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003388/sara-duterte-s-defense-team-july-6-voting-threshold-ruling-not-subject-to-appeal/story/
+
+  12. Taiwan, human rights are 'red lines' for China, ambassador says ahead of Trump, Xi meeting
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/world/1003385/taiwan-human-rights-are-red-lines-for-china-ambassador-says-ahead-of-trump-xi-meeting/story/
+
+  13. Palace 'seriously considering' absolute pardon for Mary Jane Veloso
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003387/palace-seriously-considering-absolute-pardon-for-mary-jane-veloso/story/
+
+  14. NCRPO deploys 73 motorcycles to boost 911 emergency response
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/metro/1003381/ncrpo-deploys-73-motorcycles-to-boost-911-emergency-response/story/
+
+  15. Prosecution warns against acquittal by default if absent senators allowed to vote
+     Wed, 23 Sep 2026
+     https://www.gmanetwork.com/news/topstories/nation/1003380/prosecution-warns-against-acquittal-by-default-if-absent-senators-allowed-to-vote/story/
+
+════════════════════════════════════════════════════════
+  📰 PhilStar News
+════════════════════════════════════════════════════════
+
+  1. Senate court rejects Cayetano bid to block impeach threshold vote
+     Wed, 23 Sep 2026
+     https://www.philstar.com/headlines/2026/09/23/2558381/senate-court-rejects-cayetano-bid-block-impeach-threshold-vote
+
+  2. Marcos admin ‘seriously considering’ absolute pardon for Mary Jane Veloso
+     Wed, 23 Sep 2026
+     https://www.philstar.com/headlines/2026/09/23/2558378/marcos-admin-seriously-considering-absolute-pardon-mary-jane-veloso
+
+  3. Leonen to serve as acting chief justice after Gesmundo's retirement
+     Wed, 23 Sep 2026
+     https://www.philstar.com/headlines/2026/09/23/2558374/leonen-serve-acting-chief-justice-after-gesmundos-retirement
+
+  4. Trough of tropical depression to bring rains to parts of Visayas, Mindanao — PAGASA
+     Wed, 23 Sep 2026
+     https://www.philstar.com/weather/2026/09/23/2558359/trough-tropical-depression-bring-rains-parts-visayas-mindanao-pagasa
+
+  5. DOTr: Fare hike a 'last resort' as fuel prices surge
+     Wed, 23 Sep 2026
+     https://www.philstar.com/headlines/2026/09/23/2558108/dotr-fare-hike-last-resort-fuel-prices-surge
+
+  6. Fact check: Viral airport photo does not show Duterte back in Philippines
+     Wed, 23 Sep 2026
+     https://www.philstar.com/headlines/2026/09/23/2558079/fact-check-viral-airport-photo-does-not-show-duterte-back-philippines
+
+  7. LIVE Coverage: Sara Duterte's impeachment trial, Sept. 23
+     Wed, 23 Sep 2026
+     https://www.philstar.com/headlines/2026/09/23/2558357/live-coverage-sara-dutertes-impeachment-trial-sept-23
+
+  8. Nov. 16-18 set as non-working days in Metro Manila for ASEAN Summit
+     Wed, 23 Sep 2026
+     https://www.philstar.com/headlines/2026/09/23/2558353/nov-16-18-set-non-working-days-metro-manila-asean-summit
+
+  9. DILG, DepEd to formalize ‘visible patrols’ in public schools
+     Wed, 23 Sep 2026
+     https://www.philstar.com/headlines/2026/09/23/2558119/dilg-deped-formalize-visible-patrols-public-schools
+
+  10. Congressman Gato of Batanes dies, 66
+     Wed, 23 Sep 2026
+     https://www.philstar.com/headlines/2026/09/23/2558269/congressman-gato-batanes-dies-66
+
+════════════════════════════════════════════════════════
+  📰 Manila Standard
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 Business World
+════════════════════════════════════════════════════════
+
+  1. hiessēnce expands Philippine presence with two new studios
+     Wed, 23 Sep 2026
+     https://bworldonline.com/arts-and-leisure/2026/09/23/780791/hiessence-expands-philippine-presence-with-two-new-studios/
+
+  2. UK ready to lead global push on AI standards, Burnham tells UN
+     Wed, 23 Sep 2026
+     https://bworldonline.com/technology/2026/09/23/780773/uk-ready-to-lead-global-push-on-ai-standards-burnham-tells-un/
+
+  3. Trump to meet Venezuela&#8217;s Rodriguez for first time since Maduro&#8217;s capture
+     Wed, 23 Sep 2026
+     https://bworldonline.com/world/2026/09/23/780769/trump-to-meet-venezuelas-rodriguez-for-first-time-since-maduros-capture/
+
+  4. Cambodia hosts anti-scam summit, seeking to showcase crackdown
+     Wed, 23 Sep 2026
+     https://bworldonline.com/world/2026/09/23/780765/cambodia-hosts-anti-scam-summit-seeking-to-showcase-crackdown/
+
+  5. In UN farewell, Macron denounces Trump&#8217;s Gaza diplomacy as spectacle of shame
+     Wed, 23 Sep 2026
+     https://bworldonline.com/world/2026/09/23/780762/in-un-farewell-macron-denounces-trumps-gaza-diplomacy-as-spectacle-of-shame/
+
+  6. Trump threatens to annihilate Iran as diplomats push for deal at UN
+     Wed, 23 Sep 2026
+     https://bworldonline.com/world/2026/09/23/780760/trump-threatens-to-annihilate-iran-as-diplomats-push-for-deal-at-un/
+
+  7. Tropical Depression to enter PAR on Thursday, intensifies into typhoon — PAGASA
+     Wed, 23 Sep 2026
+     https://bworldonline.com/the-nation/2026/09/23/780745/tropical-depression-to-enter-par-on-thursday-intensifies-into-typhoon-pagasa/
+
+  8. Philippines, EU eye FTA signing in 2027
+     Wed, 23 Sep 2026
+     https://bworldonline.com/top-stories/2026/09/23/780526/philippines-eu-eye-fta-signing-in-2027/
+
+  9. BSP may deliver final 25-bp hike as inflation, peso risks linger — ANZ
+     Wed, 23 Sep 2026
+     https://bworldonline.com/top-stories/2026/09/23/780525/bsp-may-deliver-final-25-bp-hike-as-inflation-peso-risks-linger-anz/
+
+  10. Australia’s P2-billion program to focus on energy, infrastructure in the Philippines
+     Tue, 22 Sep 2026
+     https://bworldonline.com/top-stories/2026/09/23/780524/australias-p2-billion-program-to-focus-on-energy-infrastructure-in-the-philippines/
+
+  11. Philippines’ trade deficit balloons to $31.4B in first half
+     Tue, 22 Sep 2026
+     https://bworldonline.com/top-stories/2026/09/23/780523/philippines-trade-deficit-balloons-to-31-4b-in-first-half/
+
+  12. Peso rebounds on hopes for US-Iran talks
+     Tue, 22 Sep 2026
+     https://bworldonline.com/banking-finance/2026/09/23/780530/peso-rebounds-on-hopes-for-us-iran-talks/
+
+  13. ICTSI signs $1-billion, 10-year loan with BDO
+     Tue, 22 Sep 2026
+     https://bworldonline.com/corporate/2026/09/23/780655/ictsi-signs-1-billion-10-year-loan-with-bdo/
+
+  14. PLDT’s Smart tests paid AI service as new revenue stream
+     Tue, 22 Sep 2026
+     https://bworldonline.com/corporate/2026/09/23/780620/pldts-smart-tests-paid-ai-service-as-new-revenue-stream/
+
+  15. NexGen unit drops contract areas for Cavite, Batangas wind projects
+     Tue, 22 Sep 2026
+     https://bworldonline.com/corporate/2026/09/23/780527/nexgen-unit-drops-contract-areas-for-cavite-batangas-wind-projects/
+
+  16. JFC’s CBTL expands Kuwait network to 130 cafés
+     Tue, 22 Sep 2026
+     https://bworldonline.com/corporate/2026/09/23/780536/jfcs-cbtl-expands-kuwait-network-to-130-cafes/
+
+  17. SMC deploys P177.5M more for Bulacan airport
+     Tue, 22 Sep 2026
+     https://bworldonline.com/corporate/2026/09/23/780535/smc-deploys-p177-5m-more-for-bulacan-airport/
+
+  18. Honoring those who risked it all for democracy
+     Tue, 22 Sep 2026
+     https://bworldonline.com/arts-and-leisure/2026/09/23/780470/honoring-those-who-risked-it-all-for-democracy/
+
+  19. SEC warns public over food firm’s investment offers
+     Tue, 22 Sep 2026
+     https://bworldonline.com/corporate/2026/09/23/780534/sec-warns-public-over-food-firms-investment-offers/
+
+  20. For those left behind
+     Tue, 22 Sep 2026
+     https://bworldonline.com/arts-and-leisure/2026/09/23/780469/for-those-left-behind/
+
+════════════════════════════════════════════════════════
+  📰 Rappler News
+════════════════════════════════════════════════════════
+
+  1. LIVE UPDATES: Impeachment trial of Vice President Sara Duterte
+     Wed, 23 Sep 2026
+     https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/
+
+  2. Marie June Adriano gives PH another karate bronze in Asian Games
+     Wed, 23 Sep 2026
+     https://www.rappler.com/sports/asian-games-karate-marie-june-adriano-september-23-2026/
+
+  3. Senate court lowers conviction voting threshold in Duterte impeachment trial
+     Wed, 23 Sep 2026
+     https://www.rappler.com/philippines/senate-court-lowers-conviction-voting-threshold-duterte-impeachment-trial/
+
+  4. FACT CHECK: Claire Castro quote on Marcos&#8217; plans to run for VP is fake
+     Wed, 23 Sep 2026
+     https://www.rappler.com/newsbreak/fact-check/claire-castro-fake-quote-ferdinand-marcos-jr-plan-vice-president-bid/
+
+  5. ShinyHunters hackers say they breached FBI, stole data on bureau employees
+     Wed, 23 Sep 2026
+     https://www.rappler.com/technology/shinyhunters-hackers-fbi-breach-stole-employee-data/
+
+  6. Obese and undernourished: The Philippines&#8217; hidden nutrition crisis
+     Wed, 23 Sep 2026
+     https://www.rappler.com/philippines/obesity-undernourished-hidden-nutrition-crisis/
+
+  7. FACT CHECK: Video of Marcos saying Romualdez’s arrest is ‘staged’ is AI-generated
+     Wed, 23 Sep 2026
+     https://www.rappler.com/newsbreak/fact-check/ai-video-ferdinand-marcos-jr-martin-romualdez-arrest-staged/
+
+  8. Senate court junks Cayetano bid to stop conviction threshold voting
+     Wed, 23 Sep 2026
+     https://www.rappler.com/philippines/senate-court-junks-alan-cayetano-bid-stop-conviction-threshold-voting/
+
+  9. [In This Economy] The Marcos mixtape, 54 years after martial law
+     Wed, 23 Sep 2026
+     https://www.rappler.com/voices/thought-leaders/in-this-economy-marcos-mixtape-years-after-martial-law/
+
+  10. FACT CHECK: No video of Robredo announcing presidential debate with Sara Duterte
+     Wed, 23 Sep 2026
+     https://www.rappler.com/newsbreak/fact-check/no-video-announce-leni-robredo-presidential-debate-sara-duterte/
+
+════════════════════════════════════════════════════════
+  📰 Interaksyon TV5
+════════════════════════════════════════════════════════
+
+  1. Senate lowers threshold for conviction in VP Duterte&#8217;s impeachment trial
+     Wed, 23 Sep 2026
+     https://interaksyon.philstar.com/politics-issues/2026/09/23/319581/senate-lowers-threshold-conviction-vp-duterte-impeachment-trial/
+
+  2. LTO summons TV host Ian Red over alleged seatbelt, road safety violations
+     Wed, 23 Sep 2026
+     https://interaksyon.philstar.com/celebrities/2026/09/23/319558/lto-ian-red-alleged-seatbelt-road-safety-violations/
+
+  3. Filipino folklore takes center stage in DreamWorks&#8217; &#8216;Forgotten Island&#8217; film
+     Wed, 23 Sep 2026
+     https://interaksyon.philstar.com/hobbies-interests/2026/09/23/319560/filipino-folklore-takes-center-stage-in-dreamworks-forgotten-island-film/
+
+  4. Ilocos Norte students’ AI poster-making activity sparks online criticism
+     Wed, 23 Sep 2026
+     https://interaksyon.philstar.com/trends-spotlights/2026/09/23/319523/ilocos-norte-students-ai-poster-making-activity-sparks-online-criticism/
+
+  5. &#8216;Sense and Sensibility&#8217; stars champion sisterhood in new Austen adaptation
+     Wed, 23 Sep 2026
+     https://interaksyon.philstar.com/celebrities/2026/09/23/319474/sense-and-sensibility-stars-champion-sisterhood-in-new-austen-adaptation/
+
+  6. Burgers top late-night food orders in Philippines, data shows
+     Wed, 23 Sep 2026
+     https://interaksyon.philstar.com/trends-spotlights/2026/09/23/319489/burgers-top-late-night-food-orders-in-philippines-data-shows/
+
+  7. Bishop urges wider consultation on proposed Pax Silica hub
+     Tue, 22 Sep 2026
+     https://interaksyon.philstar.com/politics-issues/2026/09/23/319548/bishop-urges-wider-consultation-on-proposed-pax-silica-hub/
+
+  8. &#8216;My biggest heartbreak&#8217;: Chuchu of &#8216;Sundo Serye&#8217; videos crosses rainbow bridge
+     Tue, 22 Sep 2026
+     https://interaksyon.philstar.com/trends-spotlights/2026/09/22/319532/chuchu-sundo-serye-videos-rainbow-bridge/
+
+  9. Converse pulls ad, apologizes after backlash over alleged KKK imagery, ABC News reports
+     Tue, 22 Sep 2026
+     https://interaksyon.philstar.com/trends-spotlights/2026/09/22/319541/converse-pulls-ad-apologizes-after-backlash-over-alleged-kkk-imagery-abc-news-reports/
+
+  10. Passenger misses flight after arriving two minutes after boarding gate closed
+     Tue, 22 Sep 2026
+     https://interaksyon.philstar.com/trends-spotlights/2026/09/22/319514/passenger-misses-flight-arriving-two-minutes-boarding-gate-closed/
+
+════════════════════════════════════════════════════════
+  📰 Current Ph
+════════════════════════════════════════════════════════
+
+  1. TANONG MO, SAGOT KO! &#124; Martial Law, Impeachment at Kurapsyon sa Pilipinas!
+     Tue, 22 Sep 2026
+     https://currentph.com/2026/09/22/tanong-mo-sagot-ko-martial-law-impeachment-at-kurapsyon-sa-pilipinas/
+
+  2. PART 2 Artikulo Onse: Anibersaryo ng Martial Law Batas Militar
+     Tue, 22 Sep 2026
+     https://currentph.com/2026/09/22/part-2-artikulo-onse-anibersaryo-ng-martial-law-batas-militar/
+
+  3. PART 1 Artikulo Onse: Anibersaryo ng Martial Law Batas Militar
+     Tue, 22 Sep 2026
+     https://currentph.com/2026/09/22/part-1-artikulo-onse-anibersaryo-ng-martial-law-batas-militar/
+
+  4. BRING YOUR VISION TO LIFE WITH IMPACT PUBLISHING!
+     Tue, 22 Sep 2026
+     https://currentph.com/2026/09/22/bring-your-vision-to-life-with-impact-publishing-6/
+
+  5. BRING YOUR VISION TO LIFE WITH IMPACT PUBLISHING!
+     Mon, 21 Sep 2026
+     https://currentph.com/2026/09/21/bring-your-vision-to-life-with-impact-publishing-5/
+
+  6. Massive Fuel Hike: Diesel Prices Could Rise ₱10/Liter
+     Fri, 18 Sep 2026
+     https://currentph.com/2026/09/18/massive-fuel-hike-diesel-prices-could-rise-%e2%82%b110-liter/
+
+  7. BRING YOUR VISION TO LIFE WITH IMPACT PUBLISHING!
+     Fri, 18 Sep 2026
+     https://currentph.com/2026/09/18/bring-your-vision-to-life-with-impact-publishing-4/
+
+  8. PUBLIC ADVISORY (Sept 17): WE WILL CONSOLIDATE SELECTED TRIPS
+     Thu, 17 Sep 2026
+     https://currentph.com/2026/09/17/public-advisory-sept-17-we-will-consolidate-selected-trips/
+
+  9. BRING YOUR VISION TO LIFE WITH IMPACT PUBLISHING!
+     Thu, 17 Sep 2026
+     https://currentph.com/2026/09/17/bring-your-vision-to-life-with-impact-publishing-3/
+
+  10. BRING YOUR VISION TO LIFE WITH IMPACT PUBLISHING!
+     Wed, 16 Sep 2026
+     https://currentph.com/2026/09/16/bring-your-vision-to-life-with-impact-publishing-2/
+
+════════════════════════════════════════════════════════
+  📰 Panay Island News
+════════════════════════════════════════════════════════
+
+  1. 8M TREES PLANTED; WILL THEY SURVIVE? Iloilo races toward 2044 ‘Forest Province’ goal as survival rate stands at 45%
+     Tue, 22 Sep 2026
+     https://www.panaynews.net/8m-trees-planted-will-they-survive-iloilo-races-toward-2044-forest-province-goal-as-survival-rate-stands-at-45/
+
+  2. Negros Power lowers September electricity rate
+     Tue, 22 Sep 2026
+     https://www.panaynews.net/negros-power-lowers-september-electricity-rate/
+
+  3. DSWD launches digital payout for UPLIFT beneficiaries in Bacolod
+     Tue, 22 Sep 2026
+     https://www.panaynews.net/dswd-launches-digital-payout-for-uplift-beneficiaries-in-bacolod/
+
+  4. Buses warn of fewer trips as fuel costs soar
+     Tue, 22 Sep 2026
+     https://www.panaynews.net/buses-warn-of-fewer-trips-as-fuel-costs-soar/
+
+  5. PRO-6 eyes clear school bags to keep guns, weapons off campuses
+     Tue, 22 Sep 2026
+     https://www.panaynews.net/pro-6-eyes-clear-school-bags-to-keep-guns-weapons-off-campuses/
+
+  6. 32 flood-prone families to leave Oton’s Batiano River hazard zone
+     Tue, 22 Sep 2026
+     https://www.panaynews.net/32-flood-prone-families-to-leave-otons-batiano-river-hazard-zone/
+
+  7. P33-B SUC FUNDING GAP: Region 6 state schools get only half of proposed 2027 budgets; Youth groups warn education needs could suffer
+     Tue, 22 Sep 2026
+     https://www.panaynews.net/p33-b-suc-funding-gap-region-6-state-schools-get-only-half-of-proposed-2027-budgets-youth-groups-warn-education-needs-could-suffer/
+
+  8. WV, Negros hearings to shape new minimum pay
+     Tue, 22 Sep 2026
+     https://www.panaynews.net/wv-negros-hearings-to-shape-new-minimum-pay/
+
+  9. Iloilo fisheries champions earn national honors
+     Tue, 22 Sep 2026
+     https://www.panaynews.net/iloilo-fisheries-champions-earn-national-honors/
+
+  10. Nearly half of WV villages join gun surrender drive; PRO-6 collects 1,735 firearms in six weeks
+     Tue, 22 Sep 2026
+     https://www.panaynews.net/nearly-half-of-wv-villages-join-gun-surrender-drive-pro-6-collects-1735-firearms-in-six-weeks/
+
+────────────────────────────────────────────────────────
+  ✅ 332 items from 20/27 feeds
+
