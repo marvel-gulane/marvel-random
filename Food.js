@@ -162,6 +162,16 @@ class FOODS {
 		console.table(ROAST, ['ROAST']);
 	}
 
+	static WHITERICE() {
+		var STICKYRICE = "TRUE";
+		var NFARICE = "TRUE";
+		var COMMERCIALRICE = "TRUE";
+		var BROWNRICE = "TRUE";
+		var WHITERICE = "TRUE";
+		var PANDANLEAVES = "TRUE";
+		const COOK = [{RICE:'white rice'}, {RICE:'brown rice'}, {RICE:'nfa_rice'}, {RICE:'commercial_rice'}, {RICE:'pandan_leaves'}];
+		console.table(COOK, ['RICE']);
+	}
 }
 
 FOODS.LECHONPAKSIWS();
