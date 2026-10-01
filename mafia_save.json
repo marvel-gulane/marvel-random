@@ -1,0 +1,23 @@
+{
+  "name": "MARVEL",
+  "faction": null,
+  "level": 1,
+  "xp": 0,
+  "xpNext": 100,
+  "hp": 100,
+  "hpMax": 100,
+  "energy": 100,
+  "energyMax": 100,
+  "money": 500,
+  "reputation": 0,
+  "weapon": "fists",
+  "weapons": [
+    "fists"
+  ],
+  "crew": [],
+  "crewMax": 1,
+  "kills": 0,
+  "heistsDone": 0,
+  "lastEnergy": 1790836116471,
+  "lastDaily": "Thu Oct 01 2026"
+}

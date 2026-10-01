@@ -1,0 +1,196 @@
+
+════════════════════════════════════════════════════════
+  📰 Hacker News
+════════════════════════════════════════════════════════
+
+  1. Truemetrics (YC S23) Is Hiring a GTM Founder's Associate
+     Thu, 01 Oct 2026
+     https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate
+
+  2. 56k.rip – the 1996 dial-up internet experience
+     Wed, 30 Sep 2026
+     https://56k.rip/
+
+  3. The top secret URSALA, RAQUEL, and FARRAH satellites (2025)
+     Wed, 30 Sep 2026
+     https://www.thespacereview.com/article/4951/1
+
+  4. Functional Ultrasound Imaging (fUSI) from scratch
+     Wed, 30 Sep 2026
+     https://www.neuroai.science/p/functional-ultrasound-imaging-from
+
+  5. Gemini 4 Argon
+     Wed, 30 Sep 2026
+     https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+
+════════════════════════════════════════════════════════
+  📰 BBC News
+════════════════════════════════════════════════════════
+
+  1. We fear for our lives after being told our abusive exes will be freed from jail early
+     Thu, 01 Oct 2026
+     https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&amp;at_campaign=rss
+
+  2. US death row inmate survives execution attempt after two lethal injections
+     Thu, 01 Oct 2026
+     https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss
+
+  3. Watch: The many questions raised by the failed execution of Christa Pike
+     Thu, 01 Oct 2026
+     https://www.bbc.co.uk/news/videos/cq5ymyl1y29ko?at_medium=RSS&amp;at_campaign=rss
+
+  4. Travelodge failed sex assault victim 'at every stage'
+     Thu, 01 Oct 2026
+     https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&amp;at_campaign=rss
+
+  5. Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says
+     Thu, 01 Oct 2026
+     https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss
+
+════════════════════════════════════════════════════════
+  📰 Reuters
+════════════════════════════════════════════════════════
+  ⚠️  Failed: fetch failed
+
+════════════════════════════════════════════════════════
+  📰 The Verge
+════════════════════════════════════════════════════════
+  ⚠️  Failed: Cannot read properties of undefined (reading 'match')
+
+════════════════════════════════════════════════════════
+  📰 Ars Technica
+════════════════════════════════════════════════════════
+
+  1. Dinosaur-killing impact crater might have been teeming with life
+     Wed, 30 Sep 2026
+     https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/
+
+  2. Fifth unvaccinated person dies of measles; CDC still not counting all deaths
+     Wed, 30 Sep 2026
+     https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/
+
+  3. Returning from vacation? The government can search your phone without a warrant.
+     Wed, 30 Sep 2026
+     https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/
+
+  4. A local network of implants uses your body as the wiring
+     Wed, 30 Sep 2026
+     https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/
+
+  5. Attackers have been exploiting critical Zimbra flaw to steal emails
+     Wed, 30 Sep 2026
+     https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/
+
+════════════════════════════════════════════════════════
+  📰 TechCrunch
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Wired
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 NPR News
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 The Guardian
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Al Jazeera
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 BBC Asia
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 CNA
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 SCMP
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Radio Free Asia
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 The Diplomat
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 East Asia Forum
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 e27
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Nikkei Asia
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Manila Bulletin
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 GMA News
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 PhilStar News
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Manila Standard
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Business World
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Rappler News
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Interaksyon TV5
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Current Ph
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Panay Island News
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+────────────────────────────────────────────────────────
+  ✅ 15 items from 3/27 feeds
+
