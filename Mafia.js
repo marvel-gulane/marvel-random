@@ -3,10 +3,18 @@
 const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
+const {execSync} = require('child_process');
 
 const SAVE_FILE = path.join(__dirname, 'mafia_save.json');
 const ENERGY_MAX = 100;
 const ENERGY_REGEN_MS = 60_000; // 1 energy per minute
+
+let node_command0x001 = execSync('./Node/bin/node /home/coderlava/marvel-random/FightingForce.js > /dev/null', {encoding:'utf-8'})
+let node_command0x002 = execSync('./Node/bin/node /home/coderlava/marvel-random/Food.js > /dev/null', {encoding:'utf-8'});
+let node_command0x003 = execSync('./Node/bin/node /home/coderlava/marvel-random/Pizzas.js > /dev/null', {encoding:'utf-8'});
+let parallel = [ "∫01​∫01​1−xy1​dxdy=6π2​", "iℏ∂t∂​∣Ψ⟩=H^∣Ψ⟩", "Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}", "∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩"];
+console.table(parallel);
+
 
 // ─── DATA ───────────────────────────────────────────────────────────────
 const FACTIONS = [
