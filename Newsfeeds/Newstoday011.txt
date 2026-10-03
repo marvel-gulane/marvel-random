@@ -1,0 +1,476 @@
+
+════════════════════════════════════════════════════════
+  📰 Hacker News
+════════════════════════════════════════════════════════
+
+  1. NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]
+     Sat, 03 Oct 2026
+     https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf
+
+  2. Newgrounds.com – A community of games, music, and art
+     Sat, 03 Oct 2026
+     https://www.newgrounds.com/
+
+  3. Where Is the Planet
+     Sat, 03 Oct 2026
+     http://whereistheplanet.com
+
+  4. Things that apparently cause cancer
+     Sat, 03 Oct 2026
+     https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer
+
+  5. Every SaaS business will become a harness around a model
+     Fri, 02 Oct 2026
+     https://blog.sshh.io/p/the-harness-is-the-company
+
+════════════════════════════════════════════════════════
+  📰 BBC News
+════════════════════════════════════════════════════════
+
+  1. Widdecombe suspect charged with planning terror act against Farage
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&amp;at_campaign=rss
+
+  2. G7 to release 100 million barrels of oil and diesel after Trump export ban threat
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss
+
+  3. Watch: Why has UK diesel price hit an all time high?
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&amp;at_campaign=rss
+
+  4. Men charged over alleged plot to target Manchester Jewish community
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&amp;at_campaign=rss
+
+  5. Riot police clash with students as education protests rage in France
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&amp;at_campaign=rss
+
+════════════════════════════════════════════════════════
+  📰 Reuters
+════════════════════════════════════════════════════════
+  ⚠️  Failed: fetch failed
+
+════════════════════════════════════════════════════════
+  📰 The Verge
+════════════════════════════════════════════════════════
+  ⚠️  Failed: Cannot read properties of undefined (reading 'match')
+
+════════════════════════════════════════════════════════
+  📰 Ars Technica
+════════════════════════════════════════════════════════
+
+  1. Apple changes full-disk access permissions to curb abuse from AI agents
+     Fri, 02 Oct 2026
+     https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/
+
+  2. Someone got Doom in an SQL database
+     Fri, 02 Oct 2026
+     https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/
+
+  3. Amazon’s $1B plan to combat data center backlash draws more backlash
+     Fri, 02 Oct 2026
+     https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/
+
+  4. Patient-zero drill put health facilities to the test—40% of them failed
+     Fri, 02 Oct 2026
+     https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/
+
+  5. Lyft settles landmark driver misclassification lawsuit for $272.5M
+     Fri, 02 Oct 2026
+     https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/
+
+════════════════════════════════════════════════════════
+  📰 TechCrunch
+════════════════════════════════════════════════════════
+  ⚠️  Failed: fetch failed
+
+════════════════════════════════════════════════════════
+  📰 Wired
+════════════════════════════════════════════════════════
+
+  1. ICE Has Been Dumping Protester Photos Into a Palantir Database
+     Fri, 02 Oct 2026
+     https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/
+
+  2. This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off
+     Fri, 02 Oct 2026
+     https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/
+
+  3. The NHL Is Releasing Its Own ‘Hot’ Fanfic. Romance Lovers Hate It
+     Fri, 02 Oct 2026
+     https://www.wired.com/story/the-nhl-is-releasing-its-own-hot-fanfic-romance-lovers-hate-it/
+
+  4. These AI Experts Want to Do High-Stakes Research Out in the Open
+     Fri, 02 Oct 2026
+     https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/
+
+  5. Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked
+     Fri, 02 Oct 2026
+     https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/
+
+════════════════════════════════════════════════════════
+  📰 NPR News
+════════════════════════════════════════════════════════
+
+  1. Brazil&apos;s big political rematch: What to know
+     Fri, 02 Oct 2026
+     https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy
+
+  2. As Trump&apos;s proposed arch looms over D.C., protesters pin their hopes on the midterms
+     Fri, 02 Oct 2026
+     https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms
+
+  3. Germany&apos;s political center fights for relevance after far-right and far-left gains
+     Fri, 02 Oct 2026
+     https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz
+
+  4. Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters
+     Fri, 02 Oct 2026
+     https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters
+
+  5. October 1 ushered in a new era in U.S. foreign aid. What&apos;s the plan? Will it work?
+     Fri, 02 Oct 2026
+     https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first
+
+════════════════════════════════════════════════════════
+  📰 The Guardian
+════════════════════════════════════════════════════════
+
+  1. Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin
+     Fri, 02 Oct 2026
+     https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin
+
+  2. Trump administration diverts human rights funds to push far-right agenda abroad
+     Wed, 30 Sep 2026
+     https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund
+
+  3. South African leader urges men to speak up on gender-based violence after series of killings
+     Wed, 30 Sep 2026
+     https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings
+
+  4. Burundi agrees to receive ‘third-country’ migrant deportees from US
+     Wed, 30 Sep 2026
+     https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration
+
+  5. DRC politician beaten to death after radio appearance about Ebola outbreak
+     Mon, 28 Sep 2026
+     https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola
+
+════════════════════════════════════════════════════════
+  📰 Al Jazeera
+════════════════════════════════════════════════════════
+
+  1. India vs Pakistan live: Asian Games cricket final
+     Sat, 03 Oct 2026
+     https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss
+
+  2. Dominican Republic bans Haiti from its stadiums after football fans clash
+     Sat, 03 Oct 2026
+     https://www.aljazeera.com/sports/2026/10/3/dominican-republic-bans-haiti-from-its-stadiums-after-football-fans-clash?traffic_source=rss
+
+  3. Israeli air attack on Gaza City apartment kills at least five
+     Sat, 03 Oct 2026
+     https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss
+
+  4. Schools ablaze as student protests spread across France
+     Sat, 03 Oct 2026
+     https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss
+
+  5. US and Australia suspend diplomatic operations in Brazil before election
+     Sat, 03 Oct 2026
+     https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss
+
+════════════════════════════════════════════════════════
+  📰 BBC Asia
+════════════════════════════════════════════════════════
+
+  1. 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&amp;at_campaign=rss
+
+  2. India's 'cockroach' protesters are back - this time asking poll chief to resign
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/ck62mped4rz9o?at_medium=RSS&amp;at_campaign=rss
+
+  3. Japan's first mayor to take maternity leave lands on TIME100 Next list
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&amp;at_campaign=rss
+
+  4. Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&amp;at_campaign=rss
+
+  5. Japan raises permanent residency fee by 20 times
+     Thu, 01 Oct 2026
+     https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&amp;at_campaign=rss
+
+════════════════════════════════════════════════════════
+  📰 CNA
+════════════════════════════════════════════════════════
+
+  1. New animal welfare code for dog trainers prioritises positive reinforcement, less aversive methods
+     Sat, 03 Oct 2026
+     https://www.channelnewsasia.com/singapore/new-code-animal-welfare-dog-trainers-revised-groomers-6426811
+
+  2. Aprilia&#039;s Martin sets lap record at Japanese MotoGP to snatch pole from Marquez
+     Sat, 03 Oct 2026
+     https://www.channelnewsasia.com/sport/aprilias-martin-sets-lap-record-japanese-motogp-snatch-pole-marquez-6428671
+
+  3. Mediacorp Screen Awards 2026: Emerald Hill and Korban S2 sweep top craft awards
+     Sat, 03 Oct 2026
+     https://www.channelnewsasia.com/entertainment/mediacorp-screen-awards-6428531
+
+  4. Car crashes into crowd in Australia, ten injured
+     Sat, 03 Oct 2026
+     https://www.channelnewsasia.com/world/car-crashes-crowd-sydney-australia-6428581
+
+  5. Japan shifts messaging to counter view its policies are reflationary, Katayama says in TV interview
+     Sat, 03 Oct 2026
+     https://www.channelnewsasia.com/business/japan-shifts-messaging-counter-view-its-policies-are-reflationary-katayama-says-in-tv-interview-6428591
+
+════════════════════════════════════════════════════════
+  📰 SCMP
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 404
+
+════════════════════════════════════════════════════════
+  📰 Radio Free Asia
+════════════════════════════════════════════════════════
+
+  1. Myanmar junta airstrikes target civilians to coerce Arakan Army into peace talks
+     Fri, 02 Oct 2026
+     https://rfa.org/english/myanmar/2026/10/02/myanmar-rakhine-air-strike-civilians/
+
+  2. US bipartisan congressional delegation meets Dalai Lama during India trip
+     Wed, 30 Sep 2026
+     https://rfa.org/english/tibet/2026/09/30/us-dalai-lama-brian-mast-tibet/
+
+  3. China pressure accelerates Philippines-Taiwan ties, analysts say
+     Tue, 29 Sep 2026
+     https://rfa.org/english/china/2026/09/29/taiwan-philippines-trade-office/
+
+  4. Radio Free Asia builds on major milestone with new chapter ahead
+     Tue, 29 Sep 2026
+     https://rfa.org/english/about/releases/2026/09/29/rfa-builds-on-major-milestone/
+
+  5. North Korea issue dwarfed by more pressing concerns during Trump-Xi summit
+     Mon, 28 Sep 2026
+     https://rfa.org/english/korea/2026/09/28/xi-trump-summit-north-korea-china/
+
+════════════════════════════════════════════════════════
+  📰 The Diplomat
+════════════════════════════════════════════════════════
+
+  1. Taiwan’s New F-16s: Why They Still Matter
+     Fri, 02 Oct 2026
+     https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/
+
+  2. India’s Foreign Minister Jaishankar Openly Calls Out the US
+     Fri, 02 Oct 2026
+     https://thediplomat.com/2026/10/indias-foreign-minister-jaishankar-openly-calls-out-the-us/
+
+  3. Concerns About ‘WWII Allies’ at US-China Summit
+     Fri, 02 Oct 2026
+     https://thediplomat.com/2026/10/concerns-about-wwii-allies-at-us-china-summit/
+
+  4. Philippines Rejects Chinese Claim to &#8216;Sovereign Rights&#8217; Over Waters Around Batanes
+     Fri, 02 Oct 2026
+     https://thediplomat.com/2026/10/philippines-rejects-chinese-claim-to-sovereign-rights-over-waters-around-batanes/
+
+  5. Indonesia Needs to Do More to Tackle the Region&#8217;s Transboundary Haze Problem
+     Fri, 02 Oct 2026
+     https://thediplomat.com/2026/10/indonesia-needs-to-do-more-to-tackle-the-regions-transboundary-haze-problem/
+
+════════════════════════════════════════════════════════
+  📰 East Asia Forum
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 e27
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 Nikkei Asia
+════════════════════════════════════════════════════════
+
+  1. Vietnam's economy grew 9.95% in Q3, fastest pace in 4 years
+     https://asia.nikkei.com/economy/vietnam-s-economy-grew-9.95-in-q3-fastest-pace-in-4-years
+
+  2. Roadblocks in Pakistan capital to deter Imran Khan supporters
+     https://asia.nikkei.com/politics/roadblocks-in-pakistan-capital-to-deter-imran-khan-supporters
+
+  3. Japan's Aozora, Arthur D. Little partner on investment, advisory services
+     https://asia.nikkei.com/business/finance/japan-s-aozora-arthur-d.-little-partner-on-investment-advisory-services
+
+  4. Student Body President: Stephen Schwarzman (3)
+     https://asia.nikkei.com/spotlight/my-personal-history/student-body-president-stephen-schwarzman-3
+
+  5. Once in decline, Japan's hard-drive suppliers ride soaring AI demand
+     https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand
+
+════════════════════════════════════════════════════════
+  📰 Manila Bulletin
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 GMA News
+════════════════════════════════════════════════════════
+
+  1. Kiko Pangilinan: No discussion yet if Sara Duterte impeachment trial verdict out by Dec. 16
+     Sat, 03 Oct 2026
+     https://www.gmanetwork.com/news/topstories/nation/1004613/kiko-pangilinan-no-discussion-yet-if-sara-duterte-impeachment-trial-verdict-out-by-dec-16/story/
+
+  2. 'Malicious fabrications': Sara Duterte camp slams Trillanes' claims
+     Sat, 03 Oct 2026
+     https://www.gmanetwork.com/news/topstories/nation/1004611/malicious-fabrications-sara-duterte-camp-slams-trillanes-claims/story/
+
+  3. Several injured in Australia as car crashes into crowd north of Sydney
+     Sat, 03 Oct 2026
+     https://www.gmanetwork.com/news/topstories/world/1004609/several-injured-in-australia-as-car-crashes-into-crowd-north-of-sydney/story/
+
+  4. ICC grants prosecution's request to include prior testimony of witness in Rodrigo Duterte case
+     Sat, 03 Oct 2026
+     https://www.gmanetwork.com/news/topstories/nation/1004607/icc-grants-prosecution-s-request-to-include-prior-testimony-of-witness-in-rodrigo-duterte-case/story/
+
+  5. North Korea fires ballistic missile toward sea, South Korea and Japan say
+     Sat, 03 Oct 2026
+     https://www.gmanetwork.com/news/topstories/world/1004605/north-korea-fires-ballistic-missile-toward-sea-south-korea-and-japan-say/story/
+
+════════════════════════════════════════════════════════
+  📰 PhilStar News
+════════════════════════════════════════════════════════
+
+  1. Dec. 16 verdict date for Sara Duterte not set by impeachment court — Pangilinan
+     Sat, 3 Oct 2026 
+     https://www.philstar.com/headlines/2026/10/03/2560682/dec-16-verdict-date-sara-duterte-not-set-impeachment-court-pangilinan
+
+  2. Loren may rejoin Senate majority – spokesman
+     Sat, 3 Oct 2026 
+     https://www.philstar.com/headlines/2026/10/03/2560562/loren-may-rejoin-senate-majority-spokesman
+
+  3. House panel OKs additional P1.95 billion for school safety
+     Sat, 3 Oct 2026 
+     https://www.philstar.com/headlines/2026/10/03/2560564/house-panel-oks-additional-p195-billion-school-safety
+
+  4. Suspension of China exports to drive up fuel prices
+     Sat, 3 Oct 2026 
+     https://www.philstar.com/headlines/2026/10/03/2560566/suspension-china-exports-drive-fuel-prices
+
+  5. Impeachment court targets verdict by December 16
+     Sat, 3 Oct 2026 
+     https://www.philstar.com/headlines/2026/10/03/2560569/impeachment-court-targets-verdict-december-16
+
+════════════════════════════════════════════════════════
+  📰 Manila Standard
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 Business World
+════════════════════════════════════════════════════════
+  ⚠️  Failed: The operation was aborted due to timeout
+
+════════════════════════════════════════════════════════
+  📰 Rappler News
+════════════════════════════════════════════════════════
+
+  1. Reviewing the MOFT Dynamic Folio – a year later
+     Sat, 03 Oct 2026
+     https://www.rappler.com/culture-desk/online-deals-finds/moft-dynamic-folio-ipad-case-review/
+
+  2. Meet Sarah Jane Lim, the mother leading Philippine pickleball
+     Sat, 03 Oct 2026
+     https://www.rappler.com/people/athletes/sarah-jane-lim-top-philippine-pickleball-player-mother/
+
+  3. From Pasil to the world: Indigenous rice champion wins global food award
+     Sat, 03 Oct 2026
+     https://www.rappler.com/people/newsmakers/pasil-kalinga-indigenous-rice-rowena-gonnay-slow-food-award/
+
+  4. [Vantage Point] GCash at P6.60: Did investors finally get their price?
+     Sat, 03 Oct 2026
+     https://www.rappler.com/voices/thought-leaders/vantage-point-gcash-ipo-did-investors-finally-get-right-price/
+
+  5. Trillanes links Sara Duterte to China &#124; The wRap
+     Fri, 02 Oct 2026
+     https://www.rappler.com/video/daily-wrap/october-2-2026/
+
+════════════════════════════════════════════════════════
+  📰 Interaksyon TV5
+════════════════════════════════════════════════════════
+
+  1. ‘Drag Race Philippines’ honors departed queen Misua in emotional final episode
+     Sat, 03 Oct 2026
+     https://interaksyon.philstar.com/celebrities/2026/10/03/320080/drag-race-philippines-honors-departed-queen-misua-in-emotional-final-episode/
+
+  2. CinePanalo short takes: Review of ‘Beast’, ‘Wantawsan’ and ‘Mono No Aware’
+     Fri, 02 Oct 2026
+     https://interaksyon.philstar.com/hobbies-interests/2026/10/02/320072/cinepanalo-short-takes-review-of-beast-wantawsan-and-mono-no-aware/
+
+  3. Philippines&#8217; trade deficit at $3.85 billion in August
+     Fri, 02 Oct 2026
+     https://interaksyon.philstar.com/business/2026/10/02/320061/philippines-trade-deficit-at-3-85-billion-in-august/
+
+  4. ‘Deserve sumikat’: Pitik Queen earns praise for giving back to the community
+     Fri, 02 Oct 2026
+     https://interaksyon.philstar.com/trends-spotlights/2026/10/02/319970/pitik-queen-earns-praise-giving-back-community/
+
+  5. Church, Customs strengthen pastoral care for Pinoy seafarers
+     Fri, 02 Oct 2026
+     https://interaksyon.philstar.com/politics-issues/2026/10/02/320058/church-customs-strengthen-pastoral-care-for-pinoy-seafarers/
+
+════════════════════════════════════════════════════════
+  📰 Current Ph
+════════════════════════════════════════════════════════
+
+  1. When Oil Price Hikes Become Untenable and Turn Into a Problem of Trust
+     Fri, 02 Oct 2026
+     https://currentph.com/2026/10/03/when-oil-price-hikes-become-untenable-and-turn-into-a-problem-of-trust/
+
+  2. OIL PRICE MIXED ADJUSTMENT
+     Fri, 02 Oct 2026
+     https://currentph.com/2026/10/02/oil-price-mixed-adjustment/
+
+  3. Was the Duterte Machine Building a Road Back to Malacanang? Possible Implications of Trillanes Expose on VP Sara Duterte and her husband receiving Chinese Money
+     Fri, 02 Oct 2026
+     https://currentph.com/2026/10/02/was-the-duterte-machine-building-a-road-back-to-malacanang-possible-implications-of-trillanes-expose-on-vp-sara-duterte-and-her-husband-receiving-chinese-money/
+
+  4. Trillanes IV: Vice President Sara Duterte and husband got Chinese hot money
+     Fri, 02 Oct 2026
+     https://currentph.com/2026/10/02/trillanes-iv-vice-president-sara-duterte-and-husband-got-chinese-hot-money/
+
+  5. BRING YOUR VISION TO LIFE WITH IMPACT PUBLISHING!
+     Fri, 02 Oct 2026
+     https://currentph.com/2026/10/02/71593/
+
+════════════════════════════════════════════════════════
+  📰 Panay Island News
+════════════════════════════════════════════════════════
+
+  1. BRACING FOR EL NIÑO: MPIW readies 25 MLD in supply measures for Metro Iloilo
+     Fri, 02 Oct 2026
+     https://www.panaynews.net/bracing-for-el-nino-mpiw-readies-25-mld-in-supply-measures-for-metro-iloilo/
+
+  2. Dinagyang 2027 abandons sports complex, brings all judging areas back to Calle Real
+     Fri, 02 Oct 2026
+     https://www.panaynews.net/dinagyang-2027-abandons-sports-complex-brings-all-judging-areas-back-to-calle-real/
+
+  3. Bacolod council opposes proposed four-day gun ban for MassKara
+     Fri, 02 Oct 2026
+     https://www.panaynews.net/bacolod-council-opposes-proposed-four-day-gun-ban-for-masskara/
+
+  4. Trillanes links P319-M China funds to Sara husband’s firm
+     Fri, 02 Oct 2026
+     https://www.panaynews.net/trillanes-links-p319-m-china-funds-to-sara-husbands-firm/
+
+  5. P200K barangay aid rollout back on
+     Fri, 02 Oct 2026
+     https://www.panaynews.net/p200k-barangay-aid-rollout-back-on/
+
+────────────────────────────────────────────────────────
+  ✅ 90 items from 18/27 feeds
+
