@@ -1,5 +1,7 @@
 
 #include <iostream>
+#include <string>
+using namespace std;
 
 /***
 ┌─────────┬─────────────────────────────────────────┐
@@ -13,29 +15,45 @@
 
 **/
 
-void MULTIVERSE() 	{ return "MULTIVERSE_EQUATION_ : Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}"; }
-void UNIVERSE() 	{ return "UNIVERSE_EQUATION_   : ∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩";}
-void CHATS_PRIVACY() 	{ return "CHATS_PRIVACY_ANON_  : ∫01​∫01​1−xy1​dxdy=6π2​\n";} 
-void MARVEL_GULANE()    { return "NEEDS_FULLFILLMENT_AND_WANTS_GRANTED!";}
-void GRACE_GULANE()	{ return "NEEDS_ADVENTURE_AND_NEEDS_WITH_FRIENEMIES_WANTS_GRANTED!";}
+void MULTIVERSE() { 
+	string MULTIVERSE_MATHEMATICAL_FORMULA = "Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}\n";
+	std::cout << MULTIVERSE_MATHEMATICAL_FORMULA;
+	return;
+}
+
+void UNIVERSE() { 
+	string UNIVERSE_MATHEMATICAL_EQUATION = "∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩";
+	std::cout << UNIVERSE_MATHEMATICAL_EQUATION;
+	return;
+}
+
+void CHATS_PRIVACY() { 
+	string CHATS_PRIVACY_ANON = "∫01​∫01​1−xy1​dxdy=6π2​\n";
+	std::cout << CHATS_PRIVACY_ANON;
+	return;
+}
+
+void MARVEL_GULANE() { 
+	string WISH_HOPE_MARVEL = "\nNEEDS_FULLFILLMENT_AND_WANTS_GRANTED!";
+	std::cout << WISH_HOPE_MARVEL;
+	return;
+}
+
+void GRACE_GULANE() { 
+	string WISH_HOPE_GRACE = "\nNEEDS_ADVENTURE_AND_NEEDS_WITH_FRIENEMIES_WANTS_GRANTED!";
+	std::cout << WISH_HOPE_GRACE;
+	return;
+}
 
 int main(void) {
-
-	//The universe called parallel;
-	//std::cout << "∫01​∫01​1−xy1​dxdy=6π2​\n";
-	//std::cout << "iℏ∂t∂​∣Ψ⟩=H^∣Ψ⟩";
-	//std::cout << "Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}";
-	//std::cout << "∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩";
-
 	MULTIVERSE();
 	UNIVERSE();
 	CHATS_PRIVACY();
 	MARVEL_GULANE();
 	GRACE_GULANE();
 
-	string GOD_GRANTED[9] = "TRUE";
-	std::cout << GOD_GRANTED;
-	std::endl;
+	string GOD_GRANTED = "TRUE";
+	std::cout << GOD_GRANTED << std::endl;
 
 	return 0;
 }
