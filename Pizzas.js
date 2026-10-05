@@ -17,8 +17,8 @@ class Pizzas {
                 var salts = "True";
                 var peppers = "True";
                 var dough = "True";
-				var onions = "True";
-                const hawaiian = [{Hawaian:'pineapple'},{Hawaian:'flour'},{Hawaian:'salts'},{Hawaian:'peppers'},{Hawaian:'dough'},{Hawaian:'onions'}];
+		var onions = "True";
+                const hawaian = [{Hawaian:'pineapple'},{Hawaian:'flour'},{Hawaian:'salts'},{Hawaian:'peppers'},{Hawaian:'dough'},{Hawaian:'onions'}];
                 console.table(hawaian, ['Hawaian']);
         }
         
@@ -30,8 +30,9 @@ class Pizzas {
                 var salts = "True";
                 var peppers = "True";
                 var cheese = "True";
-                const pork = [{PorkMeat:'pork'}, {PorkMeat:'dough'}, {PorkMeat:'flour'}, {PorkMeat:'pepperonis'}, {PorkMeat:'salts'}, {PorkMeat:'peppers'}, {PorkMeat:'cheese'}];
-                console.table(['PorkMeat']);
+                const porkmeats = [{PorkMeat:'pork'}, {PorkMeat:'dough'}, {PorkMeat:'flour'}, {PorkMeat:'pepperonis'}, {PorkMeat:'salts'}, {PorkMeat:'peppers'}, {PorkMeat:'cheese'}];
+                console.table(porkmeats, ['PorkMeat']);
+
         }
         
         static Lasagnas() {
@@ -53,7 +54,7 @@ class Pizzas {
                 var peppers = "True";
                 var flours = "True";
                 var salts = "True";
-                var sugars = "True":
+                var sugars = "True";
                 var monosodium = "True";
                 var dough = "True";
                 const mutserela = [{Mutserela:'pork'}, {Mutserela:'cheese'}, {Mutserela:'peppers'}, {Mutserela:'flours'}, {Mutserela:'salts'}, {Mutserela:'sugars'}, {Mutserela:'monosodium'}, {Mutserela:'dough'}];
@@ -81,7 +82,7 @@ class Pizzas {
                 var flavours = "True";
                 var monosodium = "True";
                 const enseladas = [{Enselada:'cheese'}, {Enselada:'pork'}, {Enselada:'dough'}, {Enselada:'flours'}, {Enselada:'salts'}, {Enselada:'monosodium'}];
-                console.table(enselada, ['Enselada']);
+                console.table(enseladas, ['Enselada']);
         }
         
         static Mexicans() {
@@ -104,7 +105,7 @@ class Pizzas {
 				var salts = "True";
 				var monosodium = "True";
 				var flavours = "True";
-				var sweeteners = "True":
+				var sweeteners = "True";
 				var pork = "True";
                 const italian = [{Italians:'cheese'}, {Italians:'pepperonis'}, {Italians:'dough'}, {Italians:'flours'}, {Italians:'salts'}, {Italians:'monosodium'}, {Italians:'flavours'}, {Italians:'sweeteners'}, {Italians:'pork'}];
                 console.table(italian, ['Italians']);

@@ -65,6 +65,7 @@ async function fetchFeed(feed) {
 }
 
 // ─── Run all feeds in parallel ─────────────────────────────────────
+
 const results = await Promise.allSettled(FEEDS.map(fetchFeed));
 
 let total = 0;

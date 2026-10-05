@@ -11,6 +11,10 @@ istud obtinueris, traducas me ad
 quo loco quidque arbitratu meo. Ut
 nisi iniquum postulo, placet, inquit;
 etsi enim illud erat aptius, aequum cuique concedere.
+
+×§×‘×•×¢×™×� ×›×™×•×� ×‘×ž×¡×’×¨×ª ×—×•×§ ×©×™×¨×•×ª 
+×”×‘×™×˜×—×•×Ÿ ×”×›×œ×œ×™, ×”×ª×©×¡"×‘- 2002 
+×©×”×™× ×• ×—×•×§ ×¤×•×ž×‘×™ ×•×’×œ×•×™ ×œ×›×œ. 
 **/
 
 void MULTIVERSE(){

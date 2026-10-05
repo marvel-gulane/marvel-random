@@ -591,10 +591,10 @@ const MESSAGE = "reAos ayaOiov, tc'Aos KaKwv שרות מודען (שמ) - מו
 console.log(MESSAGE);
 
 const {execSync} 	= require('child_process');
-const PYTHON 		= execSync('python ./marvel-codewars/codewars-python/*.py > /dev/null' ,{encoding:'utf-8'});
-const GPLUS		= execSync('g++ ./marvel-random/Universe.cpp > /dev/null',{encoding:'utf-8'});
-const ENGINES		= execSync('./Node/bin/node ./marvel-random/Engine.js > /dev/null', {encoding:'utf-8'});
+const PYTHON 		= execSync('python ./marvel-codewars/codewars-python/*.py ' ,{encoding:'utf-8'});
+const GPLUS		= execSync('g++ ./marvel-random/Universe.cpp',{encoding:'utf-8'});
+const ENGINES		= execSync('./Node/bin/node ./marvel-random/Engine.js', {encoding:'utf-8'});
 const BATTERY		= execSync('php ./Codebrowser/coded/Battery.php', {encoding:'utf-8'});
-//const PIZZA		= execSync('./Node/bin/node ./marvel-random/Pizzas.js > /dev/null', {encoding:'utf-8'});
-//const FOOD		= execSync('./Node/bin/node ./marvel-random/Food.js > /dev/null', {encoding:'utf-8'});
+//const PIZZA		= execSync('./Node/bin/node ./marvel-random/Pizzas.js', {encoding:'utf-8'});
+//const FOOD		= execSync('./Node/bin/node ./marvel-random/Food.js', {encoding:'utf-8'});
 
