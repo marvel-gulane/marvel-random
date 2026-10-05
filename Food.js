@@ -1,191 +1,133 @@
-class FOODS {
+class Foods {
 	
-	static LECHONPAKSIWS() {
-			var MONOSODIUM = "True";
-			var SALTS = "True";
-			var SUGARS = "True";
-			var INDIANSPICES = "True";
-			var LEMONGRASS = "True";
-			const PAKSIW  = [{INGREDIENTS:'monosodium'}, {INGREDIENTS:'salts'}, {INGREDIENTS:'sugars'}, {INGREDIENTS:'spicesIndia'}, {INGREDIENTS:'lemonGrass'}];
-			console.table(PAKSIW, ['INGREDIENTS']);
+	static LechonPaksiws() {
+			var monosodium = "True";
+			var salts = "True";
+			var sugars = "True";
+			var spicesIndia = "True";
+			var lemonGrass = "True";
+			const paksow  = [{Ingredients:'monosodium'}, {Ingredients:'salts'}, {Ingredients:'sugars'}, {Ingredients:'spicesIndia'}, {Ingredients:'lemonGrass'}];
+			console.table(paksow, ['Ingredients']);
 	}
 	
-	static HOTDOGS() {
-		var MONOSODIUM = "True";
-		var SUGARS = "True";
-		var SALTS = "True";
-		var FLOURS = "True";
-		var ARTIFICIAL = "True";
-		var MARGARINE = 2 / 4;
-		const HOTDOG =[{HOTDOG:'monosodium'}, {HOTDOG:'sugar'}, {HOTDOG:'salt'}, {HOTDOG:'flour'}, {HOTDOG:'artificial'}, {HOTDOG:'margarine'}];
-		console.table(HOTDOG,['HOTDOG']);
+	static Hotdogs() {
+		var monosodium = "True";
+		var sugar = "True";
+		var salt = "True";
+		var flour = "True";
+		var artificial = "True";
+		var margarine = 2 / 4;
+		const hotdog =[{Hotdog:'monosodium'}, {Hotdog:'sugar'}, {Hotdog:'salt'}, {Hotdog:'flour'}, {Hotdog:'artificial'}, {Hotdog:'margarine'}];
+		console.table(hotdog,['Hotdog']);
 	}
 	
-	static BUTCHIS() {
-		var SUGARS = "True";
-		var FLOURS = "True";
-		var WHEAT = "True";
-		var CHOCOLATES = "True";
-		var MONGOS = "True";
-		var COLORINGS = "True";
-		const BUTCHI =[{BUTCHI:'sugar'}, {BUTCHI:'flour'}, {BUTCHI:'wheat'}, {BUTCHI:'chocolates'}, {BUTCHI:'mongos'}, {BUTCHI:'coloring'}];
-		console.table(BUTCHI,['BUTCHI']);
+	static Butchis() {
+		var sugar = "True";
+		var flour = "True";
+		var wheat = "True";
+		var chocolates = "True";
+		var mongos = "True";
+		var coloring = "True";
+		const butchi =[{Butchi:'sugar'}, {Butchi:'flour'}, {Butchi:'wheat'}, {Butchi:'chocolates'}, {Butchi:'mongos'}, {Butchi:'coloring'}];
+		console.table(butchi,['Butchi']);
 	}
 	
-	static EGGFRIEDS() {
-		var MARGARINE = "True";
-		var SALTS = "True";
-		var MONOSODIUM = "True";
-		const FRIED =[{EGG:'margarine'}, {EGG:'salt'}, {EGG:'monosodium'}];
-		console.table(FRIED, ['EGG']);
+	static EggFrieds() {
+		var margarine = "True";
+		var salt = "True";
+		var monosodium = "True";
+		const eggfried =[{Egg:'margarine'}, {Egg:'salt'}, {Egg:'monosodium'}];
+		console.table(eggfried, ['Egg']);
 	}
 	
-	static LECHONS() {
-		var PORKWHOLE = "True";
-		var SUGARS = "True";
-		var SALTS = "True";
-		var LEMONGRASSES = "True";
-		var TULMERIC = "True";
-		var CONDENSEDMILK = "True";
-		var PEPPERS = "True";
-		var VINEGAR = "True";
-		var GARLICS = "True";
-		const LECHON = [{LECHON:'porkwhole'}, {LECHON:'sugar'}, {LECHON:'salt'}, {LECHON:'lemonGrass'}, {LECHON:'tulmeric'}, {LECHON:'condensedMilk'}, {LECHON:'indianPepper'}, {LECHON:'vinegar'}, {LECHON:'galGarlic'}];
-		console.table(LECHON,['LECHON']);
+	static Lechons() {
+		var porkwhole = "True";
+		var sugar = "True";
+		var salt = "True";
+		var lemonGrass = "True";
+		var tulmeric = "True";
+		var condensedMilk = "True";
+		var indianPepper = "True";
+		var vinegar = "True";
+		var galGarlic = "True";
+		const lechon = [{Lechon:'porkwhole'}, {Lechon:'sugar'}, {Lechon:'salt'}, {Lechon:'lemonGrass'}, {Lechon:'tulmeric'}, {Lechon:'condensedMilk'}, {Lechon:'indianPepper'}, {Lechon:'vinegar'}, {Lechon:'galGarlic'}];
+		console.table(lechon,['Lechon']);
 	}
 	
-	static CHAMPORADOS() {
-		var STICKYRICE = "True";
-		var CHOCOLATETABLEA = "True";
-		var SUGARS = "True";
-		var CONDENSEDMILK = "True";
-		var HERSHEYCHOCOLATES = "True";
-		const CHAMPORADO =[{CHAMPORADO:'stickyRice'}, {CHAMPORADO:'chocolateTablea'}, {CHAMPORADO:'brownSugar'}, {CHAMPORADO:'condensedMilk'}, {CHAMPORADO:'hersheyChocolate'}];
-		console.table(CHAMPORADO,['CHAMPORADO']);
+	static Champorados() {
+		var stickyRice = "True";
+		var chocolateTablea = "True";
+		var brownSugar = "True";
+		var condensedMilk = "True";
+		var hersheyChocolate = "True";
+		const champorado =[{Champorado:'stickyRice'}, {Champorado:'chocolateTablea'}, {Champorado:'brownSugar'}, {Champorado:'condensedMilk'}, {Champorado:'hersheyChocolate'}];
+		console.table(champorado,['Champorado']);
 	}
 	
-	static BREADS() {
-		var FLOURS = "True";
-		var EGG = "True";
-		var WHEAT = "True";
-		var SUGARS = "True";
-		var SALTS = "True";
-		const BREAD =[{BREAD:'flour'}, {BREAD:'egg'}, {BREAD:'wheat'}, {BREAD:'sugar'}, {BREAD:'salt'}];
-		console.table(BREAD,['BREAD']);
+	static Breads() {
+		var flour = "True";
+		var egg = "True";
+		var wheat = "True";
+		var sugar = "True";
+		var salt = "True";
+		const bread =[{Bread:'flour'}, {Bread:'egg'}, {Bread:'wheat'}, {Bread:'sugar'}, {Bread:'salt'}];
+		console.table(bread,['Bread']);
 	}
 	
-	static SHANGHAIPANCITS() {
-		var RAMENS = "True";
-		var SALTS = "True";
-		var SUGARS = "True";
-		var PORK = "True";
-		var VEGETABLES = "True";
-		var SAUCE = "True";
-		var OIL = "True";
-		const PANCIT =[{PANCIT:'dryRamens'}, {PANCIT:'salt'}, {PANCIT:'sugars'}, {PANCIT:'pork'}, {PANCIT:'vegetables'}];
-		console.table(PANCIT,['PANCIT']);
+	static ShangHaiPancits() {
+		var dryRamens = "True";
+		var salt = "True";
+		var sugars = "True";
+		var pork = "True";
+		var vegetables = "True";
+		var sauce = "True";
+		var oil = "True";
+		const pancit =[{Pancit:'dryRamens'}, {Pancit:'salt'}, {Pancit:'sugars'}, {Pancit:'pork'}, {Pancit:'vegetables'}];
+		console.table(pancit,['Pancit']);
 	}
 	
-	static PORKCALDERETAS() {
-		var PORK = "True";
-		var SAUCE = "True";
-		var CHIVES = "True";
-		var OIL = "True";
-		var ONIONS = "True";
-		var GINGERS = "True";
-		const CALDERETA =[{CALDERETA:'pork'}, {CALDERETA:'sauce'}, {CALDERETA:'chives'}, {CALDERETA:'oils'}, {CALDERETA:'gingers'}, {CALDERETA:'onions'}];
-		console.table(CALDERETA,['CALDERETA']);
+	static PorkCalderetas() {
+		var pork = "True";
+		var sauce = "True";
+		var chives = "True";
+		var oils = "True";
+		var onions = "True";
+		var gingers = "True";
+		const caldereta =[{Caldereta:'pork'}, {Caldereta:'sauce'}, {Caldereta:'chives'}, {Caldereta:'oils'}, {Caldereta:'gingers'}, {Caldereta:'onions'}];
+		console.table(caldereta,['Caldereta']);
 	}
 	
-	static CHICKENADOBOS() {
-		var CHICKEN = "True";
-		var GARLICS = "True";
-		var ONIONS = "True";
-		var SAUCES = "True";
-		var SALTS = "True";
-		var SUGARS = "True";
-		const ADOBO =[{ADOBO:'chicken'}, {ADOBO:'sautes'}, {ADOBO:'sauce'}, {ADOBO:'salts'}, {ADOBO:'sugar'}];
-		console.table(ADOBO,['ADOBO']);
+	static ChickenAdobos() {
+		var chicken = "True";
+		var sautes = "Garlic & ONions";
+		var sauce = "True";
+		var salts = "True";
+		var sugar = "True";
+		const adobo =[{Adobo:'chicken'}, {Adobo:'sautes'}, {Adobo:'sauce'}, {Adobo:'salts'}, {Adobo:'sugar'}];
+		console.table(adobo,['Adobo']);
 	}
 
 
-	static FRIEDFISH() {
-		var FISH = "True";
-		var SALTS = "True";
-		var MONOSODIUM = "True";
-		var MARGARINE = "True";
-		var COOKINGOIL = "True";
-		const FRY =[{FRY:'fish'}, {FRY:'salts'}, {FRY:'monosodium'}, {FRY:'margarine'}, {FRY:'COOKingOil'}];
-		console.table(FRY,['FRY']);
+	static FriedFish() {
+		var fish = "True";
+		var salts = "True";
+		var monosodium = "True";
+		var margarine = "True";
+		var cookingOil = "True";
+		const fried =[{Fried:'fish'}, {Fried:'salts'}, {Fried:'monosodium'}, {Fried:'margarine'}, {Fried:'cookingOil'}];
+		console.table(fried,['Fried']);
 	}
 
-
-	static AFRITADAS() {
-		var PORK = "True";
-		var POTATOES = "True";
-		var CARROTS = "True";
-		var GARLICS = "True";
-		var ONIONS = "True";
-		var OILS = "True";
-		var SAUcES = "True";
-		const COOK = [{AFRITADA:'pork'}, {AFRITADA:'potatoes'}, {AFRITADA:'carrots'}, {AFRITADA:'garlics'}, {AFRITADA:'onions'}, {AFRITADA:'oils'}, {AFRITADA:'sauces'}];
-		console.table(COOK,['AFRITADA']);
-	}
-
-	static PIZZAS() {
-		var CHEESE = "True";
-		var PORKS = "True";
-		var SAUCES = "True";
-		var FLOURS = "True";
-		var WHEAT = "True";
-		var DOUGHS = "True";
-		const PIZZA = [{PIZZA:'cheese'}, {PIZZA:'porks'}, {PIZZA:'sauces'}, {PIZZA:'flours'}, {PIZZA:'wheat'}, {PIZZA:'doughs'}];
-		console.table(PIZZA, ['PIZZA']);
-	}
-
-	static FRIEDDILIS() {
-		var DILIS = "True";
-		var EGGS = "True";
-		var OILS = "True";
-		var MONOSODIUM = "True";
-		const FRY = [{FRY:'dilis'}, {FRY:'eggs'}, {FRY:'oils'}, {FRY:'monosodium'}];
-		console.table(FRY, ['FRY']);
-	}
-
-	static ROASTCHICKENS() {
-		var CHICKEN = "True";
-		var SAUCES = "True";
-		var LEMONGRASS = "True";
-		var GARLICS = "True";
-		var ONIONS = "True";
-		const ROAST = [{ROAST:'chicken'}, {ROAST:'sauces'}, {ROAST:'lemonGrass'}, {ROAST:'garlics'}, {ROAST:'onions'}];
-		console.table(ROAST, ['ROAST']);
-	}
-
-	static WHITERICE() {
-		var STICKYRICE = "TRUE";
-		var NFARICE = "TRUE";
-		var COMMERCIALRICE = "TRUE";
-		var BROWNRICE = "TRUE";
-		var WHITERICE = "TRUE";
-		var PANDANLEAVES = "TRUE";
-		const COOK = [{RICE:'white rice'}, {RICE:'brown rice'}, {RICE:'nfa_rice'}, {RICE:'commercial_rice'}, {RICE:'pandan_leaves'}];
-		console.table(COOK, ['RICE']);
-	}
 }
 
-FOODS.LECHONPAKSIWS();
-FOODS.HOTDOGS();
-FOODS.BUTCHIS();
-FOODS.LECHONS();
-FOODS.EGGFRIEDS();
-FOODS.CHAMPORADOS();
-FOODS.BREADS();
-FOODS.SHANGHAIPANCITS();
-FOODS.PORKCALDERETAS();
-FOODS.CHICKENADOBOS();
-FOODS.FRIEDFISH();
-FOODS.AFRITADAS();
-FOODS.PIZZAS();
-FOODS.FRIEDDILIS();
-FOODS.ROASTCHICKENS();
+Foods.LechonPaksiws();
+Foods.Hotdogs();
+Foods.Butchis();
+Foods.Lechons();
+Foods.EggFrieds();
+Foods.Champorados();
+Foods.Breads();
+Foods.ShangHaiPancits();
+Foods.PorkCalderetas();
+Foods.ChickenAdobos();
+Foods.FriedFish();

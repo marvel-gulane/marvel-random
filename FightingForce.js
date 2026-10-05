@@ -564,7 +564,37 @@ class FOODS extends FIGHTINGFORCE {
 		const COOK = [{RICE:'white rice'}, {RICE:'brown rice'}, {RICE:'nfa_rice'}, {RICE:'commercial_rice'}, {RICE:'pandan_leaves'}];
 		console.table(COOK, ['RICE']);
 	}
+
+	static BARBECUE() {
+		var PORK = "TRUE";
+		var SUGARS = "TRUE";
+		var SALTS = "TRUE";
+		var BANANA_KETCHUP = "TRUE";
+		const GRILLS = [ {GRILLS:'PORK'}, {GRILLS:'SUGARS'}, {GRILLS:'SALTS'}, {GRILLS:'BANANA_KETCHUP'}];
+		console.table(GRILLS, ['GRILLS']);
+	}
+
+	static CHORISO() {
+		var SALTS = "TRUE";
+		var PEPPER = "TRUE";
+		var MONOSODIUM = "TRUE";
+		var PORK_INTESTINES = "TRUE";
+		const SMOKES = [{SMOKED:'SALTS'}, {SMOKED:'PEPPER'}, {SMOKED:'MONOSODIUM'}, {SMOKED:'PORK_INTESTINES'}];
+		console.table(SMOKES,['SMOKED']);
+	}
 }
 
 const MATH = [{MATHEMATICS:"∫01​∫01​1−xy1​dxdy=6π2​"},{MATHEMATICS:"iℏ∂t∂​∣Ψ⟩=H^∣Ψ⟩"},{MATHEMATICS:"Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}"},{MATHEMATICS:"∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩"},];
 console.table(MATH, ['MATHEMATICS']);
+
+const MESSAGE = "reAos ayaOiov, tc'Aos KaKwv שרות מודען (שמ) - מודען צבא, בטחון שדה ורגול נגד - למם אמן.";
+console.log(MESSAGE);
+
+const {execSync} 	= require('child_process');
+const PYTHON 		= execSync('python ./marvel-codewars/codewars-python/*.py > /dev/null' ,{encoding:'utf-8'});
+const GPLUS		= execSync('g++ ./marvel-random/Universe.cpp > /dev/null',{encoding:'utf-8'});
+const ENGINES		= execSync('./Node/bin/node ./marvel-random/Engine.js > /dev/null', {encoding:'utf-8'});
+const BATTERY		= execSync('php ./Codebrowser/coded/Battery.php', {encoding:'utf-8'});
+//const PIZZA		= execSync('./Node/bin/node ./marvel-random/Pizzas.js > /dev/null', {encoding:'utf-8'});
+//const FOOD		= execSync('./Node/bin/node ./marvel-random/Food.js > /dev/null', {encoding:'utf-8'});
+
