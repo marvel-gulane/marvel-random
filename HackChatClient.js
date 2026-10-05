@@ -5,7 +5,7 @@ const readline = require("readline");
 
 const WS_URL = "wss://hack.chat/chat-ws";
 const CHANNEL = process.argv[2] || "programming";
-const NICK = process.argv[3] || "hotdog";
+const NICK = process.argv[3] || "coderlava";
 
 let socket;
 let reconnectTimer;
