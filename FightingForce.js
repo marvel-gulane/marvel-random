@@ -1,16 +1,5 @@
 class FIGHTINGFORCE {
 
-	static MATHEMATICS() {
-
-		let PARALLEL = [
-					"∫01​∫01​1−xy1​dxdy=6π2​", 
-					"iℏ∂t∂​∣Ψ⟩=H^∣Ψ⟩",
-					"Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}",
-					"∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩"
-			];
-		console.table(PARALLEL);
-	}
-
 	static ANTAGONISTS() {
 		var BUBBA_RAMIREZ 		= "TRUE";
 		var CARL_RAZON 			= "TRUE";
@@ -577,6 +566,5 @@ class FOODS extends FIGHTINGFORCE {
 	}
 }
 
-
-
-FIGHTINGFORCE.MATHEMATICS();
+const MATH = [{MATHEMATICS:"∫01​∫01​1−xy1​dxdy=6π2​"},{MATHEMATICS:"iℏ∂t∂​∣Ψ⟩=H^∣Ψ⟩"},{MATHEMATICS:"Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}"},{MATHEMATICS:"∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩"},];
+console.table(MATH, ['MATHEMATICS']);

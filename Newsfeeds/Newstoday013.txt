@@ -1,0 +1,495 @@
+
+════════════════════════════════════════════════════════
+  📰 Hacker News
+════════════════════════════════════════════════════════
+
+  1. VGHF Digital Archive passes 5000 magazines. Here's what's next
+     Sun, 04 Oct 2026
+     https://gamehistory.org/5k-magazines/
+
+  2. In Ukraine, distributed renewables foil Russia's assaults
+     Sun, 04 Oct 2026
+     https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/
+
+  3. Emitting metadata early makes building/checking Rust up to twice as fast
+     Sun, 04 Oct 2026
+     https://github.com/PowderworksCode/headstart
+
+  4. Why don't more developers “use the platform”?
+     Sun, 04 Oct 2026
+     https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/
+
+  5. Religious scholars met with Anthropic
+     Sun, 04 Oct 2026
+     https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
+
+════════════════════════════════════════════════════════
+  📰 BBC News
+════════════════════════════════════════════════════════
+
+  1. Courts backlog will still fall despite scrapping of jury trial plan, minister says
+     Sun, 04 Oct 2026
+     https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&amp;at_campaign=rss
+
+  2. Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference
+     Sun, 04 Oct 2026
+     https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&amp;at_campaign=rss
+
+  3. Australia investigating Flydubai co-pilot's links to country
+     Sun, 04 Oct 2026
+     https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&amp;at_campaign=rss
+
+  4. Glastonbury 2027 tickets sell out in 42 minutes
+     Sun, 04 Oct 2026
+     https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&amp;at_campaign=rss
+
+  5. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+     Sun, 04 Oct 2026
+     https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss
+
+════════════════════════════════════════════════════════
+  📰 Reuters
+════════════════════════════════════════════════════════
+  ⚠️  Failed: fetch failed
+
+════════════════════════════════════════════════════════
+  📰 The Verge
+════════════════════════════════════════════════════════
+  ⚠️  Failed: Cannot read properties of undefined (reading 'match')
+
+════════════════════════════════════════════════════════
+  📰 Ars Technica
+════════════════════════════════════════════════════════
+
+  1. Milt Windler, NASA flight director who helped save Apollo 13, dies at 94
+     Sat, 03 Oct 2026
+     https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/
+
+  2. The dawn of the age of the exoskeleton
+     Sat, 03 Oct 2026
+     https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/
+
+  3. Apple changes full-disk access permissions to curb abuse from AI agents
+     Fri, 02 Oct 2026
+     https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/
+
+  4. Someone got Doom in an SQL database
+     Fri, 02 Oct 2026
+     https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/
+
+  5. Amazon’s $1B plan to combat data center backlash draws more backlash
+     Fri, 02 Oct 2026
+     https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/
+
+════════════════════════════════════════════════════════
+  📰 TechCrunch
+════════════════════════════════════════════════════════
+
+  1. Federal judge calls Flock ‘indiscriminate mass surveillance’
+     Sat, 03 Oct 2026
+     https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/
+
+  2. Amazon responds to data center backlash, says it no longer uses NDAs
+     Sat, 03 Oct 2026
+     https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/
+
+  3. OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+     Sat, 03 Oct 2026
+     https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
+
+  4. Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order
+     Sat, 03 Oct 2026
+     https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/
+
+  5. Vessev built an electric ferry that almost flies
+     Sat, 03 Oct 2026
+     https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/
+
+════════════════════════════════════════════════════════
+  📰 Wired
+════════════════════════════════════════════════════════
+
+  1. 15 Best Office Chairs of 2026—We Tested 70 to Pick Them
+     Sun, 04 Oct 2026
+     https://www.wired.com/gallery/best-office-chairs/
+
+  2. The Best Gifts Under $25 for Everyone on Your List (2026)
+     Sun, 04 Oct 2026
+     https://www.wired.com/story/best-gifts-under-25-2026/
+
+  3. The Best Online Gift Cards and Digital Gift Ideas (2026)
+     Sun, 04 Oct 2026
+     https://www.wired.com/story/gift-cards-and-digital-gift-ideas/
+
+  4. Meta Glasses Nova (Gen 3) Review: Not Much New
+     Sun, 04 Oct 2026
+     https://www.wired.com/review/meta-glasses-gen-3/
+
+  5. Rural Data Centers Are in for a Big Federal Tax Break
+     Sun, 04 Oct 2026
+     https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/
+
+════════════════════════════════════════════════════════
+  📰 NPR News
+════════════════════════════════════════════════════════
+
+  1. She died covering war for Fox News. Her parents blame the network — and a star reporter
+     Sun, 04 Oct 2026
+     https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths
+
+  2. Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona
+     Sun, 04 Oct 2026
+     https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church
+
+  3. Coast Guard finds debris from medical plane carrying 6 people
+     Sat, 03 Oct 2026
+     https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts
+
+  4. Can the Cornell lawsuit force changes that make students safer?
+     Sat, 03 Oct 2026
+     https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer
+
+  5. Opinion: A Hawk is not the same as a Hawkeye
+     Sat, 03 Oct 2026
+     https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye
+
+════════════════════════════════════════════════════════
+  📰 The Guardian
+════════════════════════════════════════════════════════
+
+  1. Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities
+     Sat, 03 Oct 2026
+     https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar
+
+  2. Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin
+     Fri, 02 Oct 2026
+     https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin
+
+  3. Trump administration diverts human rights funds to push far-right agenda abroad
+     Wed, 30 Sep 2026
+     https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund
+
+  4. South African leader urges men to speak up on gender-based violence after series of killings
+     Wed, 30 Sep 2026
+     https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings
+
+  5. Burundi agrees to receive ‘third-country’ migrant deportees from US
+     Wed, 30 Sep 2026
+     https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration
+
+════════════════════════════════════════════════════════
+  📰 Al Jazeera
+════════════════════════════════════════════════════════
+
+  1. Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws
+     Sun, 04 Oct 2026
+     https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss
+
+  2. Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang
+     Sun, 04 Oct 2026
+     https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss
+
+  3. Is the Sudanese army gaining momentum against the RSF?
+     Sun, 04 Oct 2026
+     https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss
+
+  4. Will Brazil’s Lula halt the right-wing wave sweeping Latin America?
+     Sun, 04 Oct 2026
+     https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss
+
+  5. Russia’s nuclear plants are ageing. Who will pay to dismantle them?
+     Sun, 04 Oct 2026
+     https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss
+
+════════════════════════════════════════════════════════
+  📰 BBC Asia
+════════════════════════════════════════════════════════
+
+  1. Flydubai co-pilot attacked captain with axe, UAE official says
+     Sun, 04 Oct 2026
+     https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss
+
+  2. India's 'cockroach' protesters are back - this time asking poll chief to resign
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/ck62mped4rz9o?at_medium=RSS&amp;at_campaign=rss
+
+  3. Japan's first mayor to take maternity leave lands on TIME100 Next list
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&amp;at_campaign=rss
+
+  4. Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?
+     Fri, 02 Oct 2026
+     https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&amp;at_campaign=rss
+
+  5. Japan raises permanent residency fee by 20 times
+     Thu, 01 Oct 2026
+     https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&amp;at_campaign=rss
+
+════════════════════════════════════════════════════════
+  📰 CNA
+════════════════════════════════════════════════════════
+
+  1. Rugby league-Nawaqanitawase tries fire Roosters to 16th NRL title
+     Sun, 04 Oct 2026
+     https://www.channelnewsasia.com/sport/rugby-league-nawaqanitawase-tries-fire-roosters-16th-nrl-title-6430711
+
+  2. Red Bull&#039;s Verstappen wins Bahrain Grand Prix in Malaysia
+     Sun, 04 Oct 2026
+     https://www.channelnewsasia.com/asia/f1-bahrain-grand-prix-malaysia-red-bull-verstappen-win-6430696
+
+  3. Athletes celebrated as curtain falls on eventful Aichi-Nagoya Asian Games
+     Sun, 04 Oct 2026
+     https://www.channelnewsasia.com/sport/nagoya-asian-games-closing-ceremony-6430561
+
+  4. Indians protest election chief as police probe harassment claims
+     Sun, 04 Oct 2026
+     https://www.channelnewsasia.com/asia/india-protest-election-chief-cockroach-janta-party-harrassment-claims-6430661
+
+  5. Verstappen wins chaotic rain-delayed Bahrain Grand Prix in Malaysia
+     Sun, 04 Oct 2026
+     https://www.channelnewsasia.com/sport/verstappen-wins-chaotic-rain-delayed-bahrain-grand-prix-in-malaysia-6430686
+
+════════════════════════════════════════════════════════
+  📰 SCMP
+════════════════════════════════════════════════════════
+  ⚠️  Failed: fetch failed
+
+════════════════════════════════════════════════════════
+  📰 Radio Free Asia
+════════════════════════════════════════════════════════
+  ⚠️  Failed: fetch failed
+
+════════════════════════════════════════════════════════
+  📰 The Diplomat
+════════════════════════════════════════════════════════
+
+  1. Taiwan’s New F-16s: Why They Still Matter
+     Fri, 02 Oct 2026
+     https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/
+
+  2. India’s Foreign Minister Jaishankar Openly Calls Out the US
+     Fri, 02 Oct 2026
+     https://thediplomat.com/2026/10/indias-foreign-minister-jaishankar-openly-calls-out-the-us/
+
+  3. Concerns About ‘WWII Allies’ at US-China Summit
+     Fri, 02 Oct 2026
+     https://thediplomat.com/2026/10/concerns-about-wwii-allies-at-us-china-summit/
+
+  4. Philippines Rejects Chinese Claim to &#8216;Sovereign Rights&#8217; Over Waters Around Batanes
+     Fri, 02 Oct 2026
+     https://thediplomat.com/2026/10/philippines-rejects-chinese-claim-to-sovereign-rights-over-waters-around-batanes/
+
+  5. Indonesia Needs to Do More to Tackle the Region&#8217;s Transboundary Haze Problem
+     Fri, 02 Oct 2026
+     https://thediplomat.com/2026/10/indonesia-needs-to-do-more-to-tackle-the-regions-transboundary-haze-problem/
+
+════════════════════════════════════════════════════════
+  📰 East Asia Forum
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 e27
+════════════════════════════════════════════════════════
+
+  1. Singapore&#8217;s AI dividend will depend on what happens after the pilot phase
+     Fri, 02 Oct 2026
+     https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/
+
+  2. Ecosystem Roundup: MoneyHero&#8217;s activist wants a sale, but Richard Li holds the votes
+     Fri, 02 Oct 2026
+     https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/
+
+  3. The advice gap: Why VCs don&#8217;t practice what they preach
+     Fri, 02 Oct 2026
+     https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/
+
+  4. Why Philippine companies are winning AI mentions but losing control of context
+     Fri, 02 Oct 2026
+     https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/
+
+  5. The October 2 US jobs report lands soon. Could it make or break Bitcoin&#8217;s rally?
+     Fri, 02 Oct 2026
+     https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/
+
+════════════════════════════════════════════════════════
+  📰 Nikkei Asia
+════════════════════════════════════════════════════════
+
+  1. Thai protestors slam Chinese, other foreign companies as economy slows
+     https://asia.nikkei.com/economy/thai-protestors-slam-chinese-other-foreign-companies-as-economy-slows
+
+  2. Takaichi policy speech, Malaysia budget, Pacific islands climate summit
+     https://asia.nikkei.com/spotlight/your-week-in-asia/takaichi-policy-speech-malaysia-budget-pacific-islands-climate-summit
+
+  3. Hiroshima and Nagasaki disasters offer lesson for AI governance
+     https://asia.nikkei.com/spotlight/comment/hiroshima-and-nagasaki-disasters-offer-lesson-for-ai-governance
+
+  4. Turkish arms group eyes Japan ties in air defense and underwater drones
+     https://asia.nikkei.com/business/aerospace-defense-industries/turkish-arms-group-eyes-japan-ties-in-air-defense-and-underwater-drones
+
+  5. Japan's Seto Inland Sea cruise tours target wealthy visitors
+     https://asia.nikkei.com/business/travel-leisure/japan-s-seto-inland-sea-cruise-tours-target-wealthy-visitors
+
+════════════════════════════════════════════════════════
+  📰 Manila Bulletin
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 GMA News
+════════════════════════════════════════════════════════
+
+  1. Chinese Embassy rejects 'smear campaign' over teacher exodus
+     Sun, 04 Oct 2026
+     https://www.gmanetwork.com/news/topstories/nation/1004722/chinese-embassy-rejects-smear-campaign-over-teacher-exodus/story/
+
+  2. Japan's Takaichi protests to US after Marine accused of murder in Okinawa
+     Sun, 04 Oct 2026
+     https://www.gmanetwork.com/news/topstories/world/1004719/japan-s-takaichi-protests-to-us-after-marine-accused-of-murder-in-okinawa/story/
+
+  3. Chinese vessels block PH operation vs. foreign dynamite fishers near Pag-asa Island
+     Sun, 04 Oct 2026
+     https://www.gmanetwork.com/news/topstories/nation/1004717/chinese-vessels-block-ph-operation-vs-foreign-dynamite-fishers-near-pag-asa-island/story/
+
+  4. Rare police raid of Taipei gay bar sparks angry protest
+     Sun, 04 Oct 2026
+     https://www.gmanetwork.com/news/topstories/world/1004714/rare-police-raid-of-taipei-gay-bar-sparks-angry-protest/story/
+
+  5. BARMM parliament members take oath before SC
+     Sun, 04 Oct 2026
+     https://www.gmanetwork.com/news/topstories/regions/1004713/barmm-parliament-members-take-oath-before-sc/story/
+
+════════════════════════════════════════════════════════
+  📰 PhilStar News
+════════════════════════════════════════════════════════
+
+  1. Chinese J-16 dangerously intercepts PH patrol aircraft over Bajo de Masinloc
+     Sun, 4 Oct 2026 
+     https://www.philstar.com/headlines/2026/10/04/2560905/chinese-j-16-dangerously-intercepts-ph-patrol-aircraft-over-bajo-de-masinloc
+
+  2. House prosecutors may drop bribery article vs Sara Duterte
+     Sun, 4 Oct 2026 
+     https://www.philstar.com/headlines/2026/10/04/2560898/house-prosecutors-may-drop-bribery-article-vs-sara-duterte
+
+  3. Over 20% of La Union, Ilocos Sur coasts show erosion – UP study
+     Sun, 4 Oct 2026 
+     https://www.philstar.com/climate-and-environment/2026/10/04/2560901/over-20-la-union-ilocos-sur-coasts-show-erosion-study
+
+  4. Young eagle rescued in Baguio village
+     Sun, 4 Oct 2026 
+     https://www.philstar.com/climate-and-environment/2026/10/04/2560899/young-eagle-rescued-baguio-village
+
+  5. Filipino shoppers ranked as Southeast Asia's 'savviest' online
+     Sun, 4 Oct 2026 
+     https://www.philstar.com/headlines/2026/10/04/2560887/filipino-shoppers-ranked-southeast-asias-savviest-online
+
+════════════════════════════════════════════════════════
+  📰 Manila Standard
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 403
+
+════════════════════════════════════════════════════════
+  📰 Business World
+════════════════════════════════════════════════════════
+  ⚠️  Failed: HTTP 503
+
+════════════════════════════════════════════════════════
+  📰 Rappler News
+════════════════════════════════════════════════════════
+
+  1. Carlos Yulo to get P4 million for golden double as medalists cash in on Asian Games success
+     Sun, 04 Oct 2026
+     https://www.rappler.com/sports/carlos-yulo-filipino-medalists-incentives-asian-games-2026/
+
+  2. Meet Jaime Tan Cruz, business partner of the Duterte family
+     Sun, 04 Oct 2026
+     https://www.rappler.com/philippines/video-jaime-tan-cruz-duterte-business-partner/
+
+  3. [Inside the Newsroom] Mary Jane Veloso made us cry and realize why we want to be journalists
+     Sun, 04 Oct 2026
+     https://www.rappler.com/voices/newsletters/inside-the-newsroom-mary-jane-veloso-release-coverage/
+
+  4. PH military says ‘close encounter’ with China fighter plane near Bajo de Masinloc
+     Sun, 04 Oct 2026
+     https://www.rappler.com/philippines/armed-forces-close-encounter-china-bajo-de-masinloc/
+
+  5. Danggit, mangroves tell story of coastal recovery in Prieto Diaz, Sorsogon
+     Sun, 04 Oct 2026
+     https://www.rappler.com/people/human-interest/prieto-diaz-sorsogon-mangroves-coastal-recovery/
+
+════════════════════════════════════════════════════════
+  📰 Interaksyon TV5
+════════════════════════════════════════════════════════
+
+  1. ‘Drag Race Philippines’ honors departed queen Misua in emotional final episode
+     Sat, 03 Oct 2026
+     https://interaksyon.philstar.com/celebrities/2026/10/03/320080/drag-race-philippines-honors-departed-queen-misua-in-emotional-final-episode/
+
+  2. CinePanalo short takes: Review of ‘Beast’, ‘Wantawsan’ and ‘Mono No Aware’
+     Fri, 02 Oct 2026
+     https://interaksyon.philstar.com/hobbies-interests/2026/10/02/320072/cinepanalo-short-takes-review-of-beast-wantawsan-and-mono-no-aware/
+
+  3. What to see and do at Gateway Art Fair 2026
+     Fri, 02 Oct 2026
+     https://interaksyon.philstar.com/hobbies-interests/2026/10/02/320094/what-to-see-and-do-at-gateway-art-fair-2026/
+
+  4. Philippines&#8217; trade deficit at $3.85 billion in August
+     Fri, 02 Oct 2026
+     https://interaksyon.philstar.com/business/2026/10/02/320061/philippines-trade-deficit-at-3-85-billion-in-august/
+
+  5. ‘Deserve sumikat’: Pitik Queen earns praise for giving back to the community
+     Fri, 02 Oct 2026
+     https://interaksyon.philstar.com/trends-spotlights/2026/10/02/319970/pitik-queen-earns-praise-giving-back-community/
+
+════════════════════════════════════════════════════════
+  📰 Current Ph
+════════════════════════════════════════════════════════
+
+  1. When Oil Price Hikes Become Untenable and Turn Into a Problem of Trust
+     Fri, 02 Oct 2026
+     https://currentph.com/2026/10/03/when-oil-price-hikes-become-untenable-and-turn-into-a-problem-of-trust/
+
+  2. OIL PRICE MIXED ADJUSTMENT
+     Fri, 02 Oct 2026
+     https://currentph.com/2026/10/02/oil-price-mixed-adjustment/
+
+  3. Was the Duterte Machine Building a Road Back to Malacanang? Possible Implications of Trillanes Expose on VP Sara Duterte and her husband receiving Chinese Money
+     Fri, 02 Oct 2026
+     https://currentph.com/2026/10/02/was-the-duterte-machine-building-a-road-back-to-malacanang-possible-implications-of-trillanes-expose-on-vp-sara-duterte-and-her-husband-receiving-chinese-money/
+
+  4. Trillanes IV: Vice President Sara Duterte and husband got Chinese hot money
+     Fri, 02 Oct 2026
+     https://currentph.com/2026/10/02/trillanes-iv-vice-president-sara-duterte-and-husband-got-chinese-hot-money/
+
+  5. BRING YOUR VISION TO LIFE WITH IMPACT PUBLISHING!
+     Fri, 02 Oct 2026
+     https://currentph.com/2026/10/02/71593/
+
+════════════════════════════════════════════════════════
+  📰 Panay Island News
+════════════════════════════════════════════════════════
+
+  1. Pag-IBIG Fund, Megawide mark first topping-off milestone under Expanded 4PH partnership
+     Sun, 04 Oct 2026
+     https://www.panaynews.net/pag-ibig-fund-megawide-mark-first-topping-off-milestone-under-expanded-4ph-partnership/
+
+  2. BRACING FOR EL NIÑO: MPIW readies 25 MLD in supply measures for Metro Iloilo
+     Fri, 02 Oct 2026
+     https://www.panaynews.net/bracing-for-el-nino-mpiw-readies-25-mld-in-supply-measures-for-metro-iloilo/
+
+  3. Dinagyang 2027 abandons sports complex, brings all judging areas back to Calle Real
+     Fri, 02 Oct 2026
+     https://www.panaynews.net/dinagyang-2027-abandons-sports-complex-brings-all-judging-areas-back-to-calle-real/
+
+  4. Bacolod council opposes proposed four-day gun ban for MassKara
+     Fri, 02 Oct 2026
+     https://www.panaynews.net/bacolod-council-opposes-proposed-four-day-gun-ban-for-masskara/
+
+  5. Trillanes links P319-M China funds to Sara husband’s firm
+     Fri, 02 Oct 2026
+     https://www.panaynews.net/trillanes-links-p319-m-china-funds-to-sara-husbands-firm/
+
+────────────────────────────────────────────────────────
+  ✅ 95 items from 19/27 feeds
+
