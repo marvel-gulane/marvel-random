@@ -584,17 +584,28 @@ class FOODS extends FIGHTINGFORCE {
 	}
 }
 
-const MATH = [{MATHEMATICS:"∫01​∫01​1−xy1​dxdy=6π2​"},{MATHEMATICS:"iℏ∂t∂​∣Ψ⟩=H^∣Ψ⟩"},{MATHEMATICS:"Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}"},{MATHEMATICS:"∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩"},];
-console.table(MATH, ['MATHEMATICS']);
+class MATHEMATICS extends FIGHTINGFORCE {
 
-const MESSAGE = "reAos ayaOiov, tc'Aos KaKwv שרות מודען (שמ) - מודען צבא, בטחון שדה ורגול נגד - למם אמן.";
-console.log(MESSAGE);
+	static EXECS() {
+		const MATH = [{MATHEMATICS:"∫01​∫01​1−xy1​dxdy=6π2​"}, {MATHEMATICS:"iℏ∂t∂​∣Ψ⟩=H^∣Ψ⟩"}, {MATHEMATICS:"Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}"},{MATHEMATICS:"∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩"},];
+		const MESSAGE = "reAos ayaOiov, tcAos KaKwv שרות מודען (שמ)\\n - מודען צבא, בטחון שדה ורגול נגד - למם אמן.";
 
-const {execSync} 	= require('child_process');
-const PYTHON 		= execSync('python ./marvel-codewars/codewars-python/*.py ' ,{encoding:'utf-8'});
-const GPLUS		= execSync('g++ ./marvel-random/Universe.cpp',{encoding:'utf-8'});
-const ENGINES		= execSync('./Node/bin/node ./marvel-random/Engine.js', {encoding:'utf-8'});
-const BATTERY		= execSync('php ./Codebrowser/coded/Battery.php', {encoding:'utf-8'});
-//const PIZZA		= execSync('./Node/bin/node ./marvel-random/Pizzas.js', {encoding:'utf-8'});
-//const FOOD		= execSync('./Node/bin/node ./marvel-random/Food.js', {encoding:'utf-8'});
+		console.table(MATH, ['MATHEMATICS']);
+		console.log(MESSAGE);
 
+		const {execSync} 	= require('child_process');
+		const PYTHON 		= execSync('python ./marvel-codewars/codewars-python/*.py ' ,{encoding:'utf-8'});
+		const GPLUS		= execSync('g++ ./marvel-random/Universe.cpp -o ./marvel-random/Universe',{encoding:'utf-8'});
+	}
+}
+
+
+FOODS.LECHONPAKSIWS();
+FOODS.HOTDOGS();
+FOODS.BUTCHIS();
+FOODS.LECHONS();
+PIZZAS.PEPPERONIS();
+PIZZAS.PORKS();
+PIZZAS.LASAGNAS();
+PIZZAS.HAWAIANS();
+MATHEMATICS.EXECS();
