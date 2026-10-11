@@ -584,28 +584,121 @@ class FOODS extends FIGHTINGFORCE {
 	}
 }
 
-class MATHEMATICS extends FIGHTINGFORCE {
+class SODAS extends FIGHTINGFORCE {
+	static COLAS() {
+		var INGREDIENTS = "TRUE";
+		var TINCANS = "TRUE";	
+	}
 
-	static EXECS() {
-		const MATH = [{MATHEMATICS:"∫01​∫01​1−xy1​dxdy=6π2​"}, {MATHEMATICS:"iℏ∂t∂​∣Ψ⟩=H^∣Ψ⟩"}, {MATHEMATICS:"Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}"},{MATHEMATICS:"∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩"},];
-		const MESSAGE = "reAos ayaOiov, tcAos KaKwv שרות מודען (שמ)\\n - מודען צבא, בטחון שדה ורגול נגד - למם אמן.";
+	static PEPSIS() {
+		var INGREDIENTS = "TRUE";
+		var TINCANS = "TRUE";	
+	
+	}
 
-		console.table(MATH, ['MATHEMATICS']);
-		console.log(MESSAGE);
+	static FANTAS() {
+		var INGREDIENTS = "TRUE";
+		var TINCANS = "TRUE";	
+	
+	}
 
-		const {execSync} 	= require('child_process');
-		const PYTHON 		= execSync('python ./marvel-codewars/codewars-python/*.py ' ,{encoding:'utf-8'});
-		const GPLUS		= execSync('g++ ./marvel-random/Universe.cpp -o ./marvel-random/Universe',{encoding:'utf-8'});
+	static ROOTBEERS() {
+		var INGREDIENTS = "TRUE";
+		var TINCANS = "TRUE";	
+	
 	}
 }
 
+class WATERS extends FIGHTINGFORCE {
+	static WATERS() {
+		var MINERALS = "TRUE";
+		var CLEANSERS = "TRUE";
+		var VITAMINS = "TRUE";	
+	}
+}	
 
+
+class MATHEMATICS extends FIGHTINGFORCE {
+
+	static EXECS() {
+
+		const {execSync} = require('child_process');
+
+		const M_0x4013720820155763 = [{MATHEMATICS:"∫01​∫01​1−xy1​dxdy=6π2​"}, {MATHEMATICS:"iℏ∂t∂​∣Ψ⟩=H^∣Ψ⟩"}, {MATHEMATICS:"Multiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}"},{MATHEMATICS:"∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩"},];
+		const M_0x40187FED4E47ADFF = "reAos ayaOiov, tcAos KaKwv שרות מודען (שמ)\\n - מודען צבא, בטחון שדה ורגול נגד - למם אמן.";
+		console.table(M_0x4013720820155763 , ['MATHEMATICS'])
+		console.log(M_0x40187FED4E47ADFF);
+
+		var M_0x3F9B800000000000 = [
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/calculating_with_functions.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/Coderlava.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/count_the_smiley_faces.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/diophine_equation.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/duplicate_encoder.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/explosive_sum.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/first_non_repeating_character.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/friend_or_foe.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/how_many_numbers_of_III.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/isogram.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/is_pangram.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/longest_common_subsequence.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/Lottery.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/lowest_to_greatest.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/number_of_proper_fractions.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/rearranging_digits_highest_to_lowest.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/rot13.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/spinning_words_part_1.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/spinning_words_part_2.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/squares_into_squares.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/sum_of_pairs.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/the_supermarket_qeue.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/tribonacci.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/vasya_clerk.py',
+	'python ~/Documents/MARVEL-CODEWARS/codewars-python/who_likes_it.py',
+	'python ~/Documents/MARVEL-RANDOMS/Mathematics.py',
+	'g++ ~/Documents/MARVEL-RANDOMS/Universe.cpp -o ~/Documents/MARVEL-RANDOMS/Universe',
+	'./Node/bin/node ~/Documents/MARVEL-RANDOMS/Engine.js',
+	'php ~/Documents/MARVEL-RANDOMS/Battery.php',
+		];
+
+		for (let i of M_0x3F9B800000000000) { execSync(i ,{encoding:'utf-8'}); }
+	}
+}
+
+/***
+    שירות מודיעין (ש"מ) - מודיעין צבאי, ביטחון שדה וריגול נגדי - לימים אמ"ן.  
+    מחלקה מדינית במשרד החוץ ("דעת") - לפעולות מודיעין בחו"ל - לימים "המוסד". 
+    ש"י פנימי ("מחץ") - שירות ביטחון פנימי - לטיפול בביטחון פנים, בדגש על סיכול חתרנות מדינית  וטרור  - לימים "שירות הביטחון הכללי" (שב"כ), בראשותו של איסר הראל. 
+***/
+
+FOODS.SHANGHAIPANCITS();
+FOODS.FRIEDFISH();
+FOODS.FRIEDDILIS();
+FOODS.ROASTCHICKENS();
+FOODS.CHORISO();
+FOODS.BARBECUE();
+FOODS.BREADS();
+FOODS.AFRITADAS();
+FOODS.CHICKENADOBOS();
+FOODS.PORKCALDERETAS();
 FOODS.LECHONPAKSIWS();
 FOODS.HOTDOGS();
 FOODS.BUTCHIS();
 FOODS.LECHONS();
+
 PIZZAS.PEPPERONIS();
 PIZZAS.PORKS();
 PIZZAS.LASAGNAS();
 PIZZAS.HAWAIANS();
+PIZZAS.MUTSERELAS();
+PIZZAS.ENSELADAS();
+PIZZAS.CHEESY();
+
+SODAS.COLAS();
+SODAS.PEPSIS();
+SODAS.FANTAS();
+SODAS.ROOTBEERS();
+WATERS.WATERS();
+
 MATHEMATICS.EXECS();
+

@@ -1,4 +1,4 @@
-
+#include <algorithm>
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <unistd.h>
@@ -13,6 +13,31 @@
 #include <unordered_map>
 
 using namespace std;
+
+static void MATHEMATICS(void) { 
+	static const string M_0x40071FE927CA0DE9 = "\nMultiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}";
+	static const string M_0x40225AA2E3AF0B20 = "\n∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩";
+	static const string M_0x40471FE927CA0DE9 = "\n∫01​∫01​1−xy1​dxdy=6π2​";
+
+	std::cout << "MATH FORMULA [01] : " << M_0x40071FE927CA0DE9 << std::endl;
+	std::cout << "MATH FORMULA [02] : " << M_0x40225AA2E3AF0B20 << std::endl;
+	std::cout << "MATH FORMULA [03] : " << M_0x40471FE927CA0DE9 << std::endl;
+
+	static const string B_0x400EDE22007F791A = "<HARDWARE TROJAN>";
+	std::cout << B_0x400EDE22007F791A << std::endl;
+	return;
+
+	return;
+};
+
+static void TILED(void) {};
+static void ALGOPATTERNS(void) {};
+static void LEARNINGPATTERNS(void) {};
+static void DATABASEPATTERNS(void) {};
+static void DATABASEALGORITHMS(void) {};
+static void OPTIMIZATIONLOGICS(void) {};
+
+struct COLLIDERPATTERNS {};
 
 /***
 primum, si videtur; sin Immo istud quidem,
@@ -45,23 +70,16 @@ struct NODES {
 	NODES(int v) : results(v) {}
 };
 
-static void MATHEMATICS(void) { 
-	static const string M_0x40071FE927CA0DE9 = "\nMultiverse(θ)⇒{Un​(xn​,yn​,zn​,tn​):1≤n≤N}";
-	static const string M_0x40225AA2E3AF0B20 = "\n∣Ψuniverse​⟩=i∑​αi​∣Ψworld i​⟩";
-	static const string M_0x40471FE927CA0DE9 = "\n∫01​∫01​1−xy1​dxdy=6π2​";
+double MEASURES(){
+	double total = 0.0;
+	for (int i = 0; i < 12; i++) { 
+		auto start = std::chrono::high_resolution_clock::now();
+		auto end = std::chrono::high_resolution_clock::now();
+		total += std::chrono::duration<double, std::milli>(end - start).count();
+	}
 
-	std::cout << "MATH FORMULA [01] : " << M_0x40071FE927CA0DE9 << std::endl;
-	std::cout << "MATH FORMULA [02] : " << M_0x40225AA2E3AF0B20 << std::endl;
-	std::cout << "MATH FORMULA [03] : " << M_0x40471FE927CA0DE9 << std::endl;
-
-	return;
+	return total;
 };
-
-static void HARDWARE_TROJAN(void) {
-	static const string B_0x400EDE22007F791A = "<HARDWARE TROJAN>";
-	std::cout << B_0x400EDE22007F791A << std::endl;
-	return;
-}
 
 int main(void) {
 	int S_0x40271FE927CA0DE9 = socket(AF_INET, SOCK_STREAM, 0);
@@ -127,7 +145,16 @@ int main(void) {
 	auto elapsed = std::chrono::duration<double>(end - start).count();
 	std::cout << "Elapsed time: " << elapsed << " s\n";
 
-	HARDWARE_TROJAN();
+	constexpr long O = 20'000'000;
+	auto starts = std::chrono::steady_clock::now();
+	volatile long su = 0;
+
+	for (long k = 0; k < O; ++k) su += k;
+
+	auto ends = std::chrono::steady_clock::now();
+	auto elapseds = std::chrono::duration<double>(ends - starts).count();
+	std::cout << "Elapsed time: " << elapseds << " s\n";
+
 	MATHEMATICS();
 
 	return 0;
