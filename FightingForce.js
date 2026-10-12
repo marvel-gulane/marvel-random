@@ -657,6 +657,10 @@ class MATHEMATICS extends FIGHTINGFORCE {
 	'python ~/Documents/MARVEL-CODEWARS/codewars-python/who_likes_it.py',
 	'python ~/Documents/MARVEL-RANDOMS/Mathematics.py',
 	'g++ ~/Documents/MARVEL-RANDOMS/Universe.cpp -o ~/Documents/MARVEL-RANDOMS/Universe',
+	'g++ ~/Documents/MARVEL-RANDOMS/Alchemy01.cpp -o ~/Documents/MARVEL-RANDOMS/Alchemy01',
+	'g++ ~/Documents/MARVEL-RANDOMS/Alchemy02.cpp -o ~/Documents/MARVEL-RANDOMS/Alchemy02',
+	'g++ ~/Documents/MARVEL-RANDOMS/Alchemy03.cpp -o ~/Documents/MARVEL-RANDOMS/Alchemy03',
+	'g++ ~/Documents/MARVEL-RANDOMS/Block.cpp -o ~/Documents/MARVEL-RANDOMS/Block',
 	'./Node/bin/node ~/Documents/MARVEL-RANDOMS/Engine.js',
 	'php ~/Documents/MARVEL-RANDOMS/Battery.php',
 		];
